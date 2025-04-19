@@ -1,7 +1,5 @@
 from pdfminer.high_level import extract_text
 from bs4 import BeautifulSoup
-from sentence_transformers import SentenceTransformer
-from sklearn.feature_extraction.text import TfidfVectorizer
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 
 from dotenv import load_dotenv
@@ -9,10 +7,13 @@ import os
 import google.generativeai as genai
 from sentence_transformers import SentenceTransformer, util
 from sklearn.feature_extraction.text import TfidfVectorizer
-import numpy as np
 
 import numpy as np
 from sentence_transformers import util
+
+import requests
+import os
+from dotenv import load_dotenv
 
 
 # -*- coding: utf-8 -*-
@@ -234,7 +235,6 @@ for fraas in fraasid:
     kuid mõnikord vastus pole nii täpselt nagu sooviks"""
 
 ## 1.8 alamülesanne
-# Lae .env failist keskkonnamuutujad
 load_dotenv()
 genai_api_key = os.getenv("GEMINI_API_KEY")
 
@@ -247,8 +247,6 @@ def küsi_geminilt(prompt):
     return response.text
 
 
-# Eeldame, et sul on olemas need muutujad:
-# fraasid, tekstijupid, vektorid, tfidf, tfidf_matrix
 
 def küsi_geminilt_kontekstiga(küsimus):
     küsimus_vektor = mudel.encode([küsimus])
@@ -262,6 +260,8 @@ def küsi_geminilt_kontekstiga(küsimus):
     prompt = f"Vasta küsimusele: '{küsimus}'\nTähtis taustinfo:\n{kontekst}"
     return küsi_geminilt(prompt)
 
+
+
 print("\n Gemini vastused:")
 for fraas in fraasid:
     print(f"\n{fraas}")
@@ -274,6 +274,52 @@ for fraas in fraasid:
 
     """Konteksti lisamine parandab täpsust – mudelil on rohkem infot. 
     Kuid problimiks on see, et osa vastuseid võib sisaldada vananenud andmeid."""
+
+
+
+## Ülesanne 2
+
+# .env fail
+load_dotenv()
+genai_api_key = os.getenv("GEMINI_API_KEY")
+weather_api_key = os.getenv("OPENWEATHER_API_KEY")
+
+# Gemini
+genai.configure(api_key=genai_api_key)
+model = genai.GenerativeModel("gemini-pro")
+
+
+# OpenWeather
+def get_weather(city: str):
+    url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid={weather_api_key}&units=metric&lang=et"
+    response = requests.get(url)
+    data = response.json()
+
+    if response.status_code == 200:
+        temp = data["main"]["temp"]
+        desc = data["weather"][0]["description"]
+        return f"Ilm {city} linnas: {temp}°C, {desc}."
+    else:
+        return f"Ilmaandmeid ei leitud linnale {city}."
+
+
+# Funk., mis laseb Gemini-le ise otsustada linna ja siis kasutab tööriista
+def gemini_küsib_ja_kasutab_tööriista(prompt):
+    response = model.generate_content(f"{prompt} Kirjuta ainult linna nimi vastuses.")
+    city = response.text.strip()
+    print(f"Gemini pakkus linna: {city}")
+    ilm = get_weather(city)
+    return ilm
+
+
+# Näide
+# print(gemini_küsib_ja_kasutab_tööriista("Sooviksin teada, milline on ilm Eesti lõunaosas."))
+
+"""Minu tööriista kasutav keelemudel suudab esmalt tuvastada linnanime kasutaja küsimusest 
+ning seejärel kasutada OpenWeather API-d, et tuua reaalajas ilmainfo. 
+Selline lähenemine võimaldab keelemudelil anda täpse ja ajakohase vastuse, 
+mida saab tööriista abil teada. Selline lahendus sobib hästi ilmarakenduse jaoks."""
+
 
 ## Tagasiside
 """Minu jaoks olid lihtsamad need ülesanded, kus tuli faile alla laadida ja tekstiks konverteerida –
