@@ -1,0 +1,3474 @@
+Telia ühiskondliku mõju 
+raport 2024
+
+Telia Eesti AS
+
+2
+
+Panustame ühiskonna 
+arengusse, et Eesti oleks 
+parem paik nii elamiseks 
+kui töötamiseks.  
+
+KeskkonnateguridSotsiaalne mõjuJuhtimisalased teguridSisukord
+
+Keskkond
+
+Heitme- ja  
+jäätmevabadus
+
+Sotsiaalne mõju
+
+Juhtimisraamistik
+
+Digitaalne kaasatus ning privaatsus ja 
+küberturvalisus
+
+Jätkusuutlikkuse kolmikmõõtme  
+(ESG) strateegiline juhtimine
+
+Emissioonid, energia ja liikuvus
+
+Koostöö riigi ja võrgustikega, teadus- ja arendustegevus
+
+Juhtimisraamistik ja ühised väärtused
+
+33
+
+Energia
+
+Transport
+
+Juhendid, koolitused ja hariduslikud programmid
+
+Mõju ja arengu strateegiline juhtimine
+
+Telia töötajate privaatsuse ja küberturvalisuse alase  
+teadlikkuse arendamine
+
+Vastutustundlikkus maksustamisel
+
+Poliitiline kaasatus
+
+Tunnustused ja sertifikaadid
+
+Järelsõna
+
+Jäätmed ja ringmajandus
+
+Jäätmete osakaal, ümbertöötamine ja taaskasutamine
+
+Digikelts
+
+Hariduslikud programmid
+
+Ühiskonnauuringud
+
+Sideteenuste kättesaadavus
+
+Keskkonnateemad sise- ja  
+väliskommunikatsioonis
+
+Telia tööandjana
+
+Telia töötajate keskkonnateadlikkus
+
+Võrdsed võimalused ja igaühega arvestamine
+
+Äriklientide keskkonnaalased küsimused
+
+Töötingimused, töökorraldus töötajate heaolu
+
+Aruanne  on  üles  ehitatud  lähtudes  ESG  raamistikust  ning  seostatud 
+meie kolme fookusvaldkonnaga: keskkonnahoid, digitaalne kaasatus,   
+privaatsus ja küberturvalisus.
+
+KeskkondSotsiaalne mõjuJuhtimisraamistik4
+
+Keskkond
+
+Keskkonnahoid on üks kolmest Telia  
+
+fookusvaldkonnast. 
+
+KeskkonnateguridSotsiaalne mõjuJuhtimisalased teguridHeitme- ja jäätmevabadus 
+
+Emissioonid, energia ja liikuvus  
+
+Meie  kasvuhoonegaaside  emissioon  tuleneb  Telia  kontrolli  all 
+olevatest allikatest või tegevusest ning lisaks väärtusahelas ole-
+vatest tegevustest, mida kontrollivad teised ettevõtted (näiteks 
+koostööpartnerid  ja  tarnijad).  Erinevaid  kasvuhoonegaaside 
+emissioone arvestatakse ühikuga CO2e. Emissioonid jaotatakse 
+mõjualadesse 1, 2 ja 3.   
+
+Telia  enda  emissioonide 
+alasid 1 ja 2.  
+
+all  mõistetakse  mõju- 
+
+−  Mõjuala  1  tähistab  heidet,  mille  üle  ettevõttel  on  otsene 
+kontroll  ning  mida  on  võimalik  igapäevaste  otsuste  kau-
+du  mõjutada.  Mõjualasse  1  kuuluvad  Telia  autode  kütuse- 
+kulu,  varutoiteks  kulunud  kütused,  jahutusseadmete  kül-
+mained 
+
+ja  Telia  päiksepaneelidega 
+
+toodetud  elekter.     
+
+5
+
+−  Mõjuala 2 tähistab kaudset heidet, mis tuleneb sisse ostetud ja 
+tarbitud energiast, mida ettevõte ise ei ole tootnud. Ettevõttel 
+ei ole võimalik mõjutada energia tootmisviisi, kuid on võimalik 
+kontrollida oma energia tarbimist. Sellesse mõjualasse kuulub 
+Telia  poolt  elektri  tarbimine  (kontorid,  esindused,  tehnilised 
+asukohad, sh ka rendipinnad) ning kaugküte.
+
+Mõjuala 3 arvestuses on kaudne heide, mille üle ei ole Telia 
+Eestil otsest kontrolli.  
+
+Kogu  väärtusahela  emissioonide  maht  on  ligikaudu  63  000  
+tonni  CO2e.  Selline  heide  on  põhjustatud  ostetud  ja  müüdud 
+toodetest  ning  teenustest  (va  mõjualas  2  olevad  tegevused  ja  
+allikad). Sinna kuuluvad Telia Eesti puhul: ostetud kaubad ning 
+teenused,  klientide  juures  energiat  tarbivad  tooted,  tööta-
+jate  liikumine  tööle  ja  koju,  ärireisid  ning  jäätmed  ja  müüdud  
+toodete olelusringi lõpus toimuv käitlemine.  
+
+Kõik  mõjualad  kokku  tähistavad  Telia  emissioone  kogu 
+väärtusahela ulatuses.
+
+Telia enda emissioonide maht oli 2023. aastal 723 tonni CO2e.  
+Võrreldes  baasaasta  (2018)  emissioonidega  on  see  oluliselt 
+vähenenud.  Tulenevalt  metoodilistest  muudatustest,  ei  ole 
+need numbrid aga üks-ühele võrreldavad.  Alates 2016. aastast 
+kasutab Telia ainult taastuvatest allikatest pärit elektrit ja selle-
+ga seoses emissioone ei teki.  
+
+Emissioonide  reaalset  vähendamist  toetas  maaküttepumba 
+taastuvenergiale  üleminek,  mis  toimus  alates  2022.  aastast, 
+kuid 2023. aastast kajastub see ka CO2e arvutustes emissiooni- 
+faktoriga 0. Esimesel aastal arvutati maakütte osakaal jalajäljest 
+üldise emissioonifaktoriga. Lisaks mõjutasid koondarvu ka me-
+toodikaga seotud aspektid:  
+
+−  Töölähetustega  seotud  emissioonid  arvestati  varasemalt 
+Telia  enda  emissioonide  hulka,  kuid  alates  2023.  aastast  on 
+töölähetused vaid mõjuala 3 arvestuses;  
+
+−  Muutunud  on  kaugkütte  emissioonide  arvutuse  metood-
+ika,  kus  arvestame  nüüd  tootjapõhiseid  eriheitetegureid, 
+mis  on  oluliselt  täpsemad  ja  madalamad.  Sellest  tulenevalt 
+on  kaugkütte  emissioonid  vähenenud  97%  võrreldes  2018. 
+baasaastaga.  Soojusenergiatarbimist  oleme  vähendanud 
+63%,  peamiselt  suurtelt  pindadelt  väiksematele  energia- 
+efektiivsematele pindadele kolimise kaudu.   
+
+Kui  kõik  teised  Telia  enda  emissioonide  arvestusse  kuuluvad  
+elemendid on 2023. aastal vähenenud, siis kasvanud on jahutus-
+seadmetesse lisatavate külmainete emissioon. Selle põhjuseks on 
+külmainete seadmete suuremamahulisem vahetus 2023. aastal.  
+
+3000
+
+2500
+
+2000
+
+e
+2
+O
+C
+t
+
+1500
+
+1000
+
+500
+
+0
+
+2 906
+
+2 755
+
+Telia enda emissioonide  
+jagunemine 2018-2023 
+Telia enda omanduses olevad ja kontrollitavad emissioonid  
+Telia enda emissioonid tähistavad mõjualasid 1 ja 2. 
+
+1 737
+
+1 362
+
+1 032
+
+474
+
+613
+
+557
+
+417
+
+392
+
+32
+
+9
+
+104
+
+26
+
+56
+
+45
+
+7
+
+53
+
+99
+
+9
+
+224
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+Kaugküte
+
+Telia autode kütused
+
+Tagavara kütused
+
+Külmained
+
+Tagasime, et ühe ühiku andmehulga edastamiseks kuluv hulk oleks aasta-aastalt väiksem. 
+
+Telia kaudsed emissioonid ja 
+emissioonid kogu väärtusahela lõikes
+
+Mõjuala 3 andmeid kuvame alates 2021. aastast, sest eelnevatel 
+aastatel  ei  olnud  kõik  andmed  meile  vajaliku  kvaliteediga  veel 
+kättesaadavad. 
+
+Emissioonid  kogu  väärtusahela  lõikes  tähistavad  mõjualasid 
+1-3, mõjuala 3 tähistab kaudset heidet, mille üle ei ole Telial 
+otsest kontrolli. 
+
+Metoodika: Greenhouse Gas Protocol 
+
+Ostetud 
+kaubad ja  
+teenused
+
+Klientide juures
+energiat tarbivad
+Telia seadmed
+
+Töötajate  
+liikumine  
+tööle ja koju
+
+Energia
+
+Ärireisid
+
+Jäätmed ja  
+müüdud toodete 
+olelusringi  
+lõpus toimuv  
+käitlemine
+
+2023
+
+48%
+
+2022
+
+2021
+
+63%
+
+45%
+
+23%
+
+20%
+
+41%
+
+27%
+
+16%
+
+13%
+
+1%
+
+1%
+
+1%
+
+0,32%
+
+0,02%
+
+0,25%
+
+0,01%
+
+0,09%
+
+0,02%
+
+KeskkondSotsiaalne mõjuJuhtimisraamistik 
+ 
+ 
+ 
+Heitme- ja jäätmevabadus 
+
+“Meie kogu väärtusahela emisioonide jaotuvus on suures 
+pildis jäänud samaks. Ehk ka 2023. aastal on meie suurim 
+kliimamõju  endiselt  mõjualas  3,  mis  moodustas  2023 
+aastal  99%.  Suur  osa  sellest  on  seotud  sisseostetud  
+toodete ja teenuste ning kliendil kasutusel olevate sead- 
+metega (71%). Mõjuala 3 vähendamiseks on vaja tihedat 
+koostööd tootjatega ja pikendada toodete elutsüklit.“ 
+
+Raina Jürgens
+Telia keskkonnajuhtimise ekspert 
+ ja protsessijuht
+
+6
+
+Järgmistel aastatel on Telia Companyl  
+kavas täita järgmised eesmärgid
+
+2019
+
+2021
+
+2022
+
+2023
+
+2025
+
+2030
+
+2040
+
+Telia Company püsti- 
+tas  ambitsioonikad 
+keskkonnaeesmärgid, 
+saamaks  2030.  aas-
+taks  emissiooni  -ja 
+jäätmevabaks  kogu 
+oma väärtusahelas.
+
+Telia Company sõnas- 
+tas eesmärgid aasta- 
+teks  2023  ja  2025 
+ning  neist  tulenevalt 
+pani Telia Eesti paika 
+fookuseesmärgid aas-
+taks 2022.
+
+Telia Company püsti-
+tas nullnetoheite ees- 
+märgi. Telia on alates  
+2018. aastast vähen-
+danud oma tegevuse 
+CO2e  heitkoguseid 
+85% võrra.
+
+Võeti  vastu,  et  Telia  
+üldine  eesmärk  on  
+2040.  aastaks  saavu- 
+tada kasvuhoonegaa- 
+side  netonull-heide 
+kogu  väärtusahela 
+lõikes.
+
+Vähendada 2025. aastaks kaud- 
+sete kasvuhoonegaaside heit-
+meid 29% võrreldes baasaas-
+taga 2018.
+
+Vähendada 2030. aastaks oma 
+operatsioonide  kasvuhoone- 
+gaaside  heitmeid  90%  võrrel-
+des 2018. baasaastaga.
+
+2025.  aastaks  on  72%  Telia 
+Company hankijatest, kes tar-
+nivad Telia teenuseid ja kaupu 
+sedaud endale teaduspõhised 
+eesmärgid.
+
+Vähendada  kaudseid  kasvu- 
+hoonegaaside koguseid 90% 
+võrreldes  2018.  baasaastaga  
+ja  ülejäänud  oma  tegevusest  
+alles jäänud heitmed kompen- 
+seeritakse*.
+
+100%
+
+Green
+Energy
+
+ZERO
+CO2
+
+ZERO
+WASTE
+
+100%
+ACTION
+
+*Telia Company kasutab 100% taastuvatest anergiaallikatest pärinevat elektrit kõigis riikides. Ülejäänud oma tegevusest 
+alles jäänud heitmed, mida ei ole võimalik vähendada (heitmed mõjualadest 1, 2 ja ärireisid), kompenseeritakse läbi vaba-
+tahtliku süsinikukrediidi ostmise Telia Company tasemel.
+
+KeskkondSotsiaalne mõjuJuhtimisraamistikEnergia 
+
+Transport 
+
+Päikese-, tuule- ja vesinikuenergia   
+
+−  2023. aastal  viisime  jõudsalt  ellu  meie  roheenergia  stratee-
+
+gias kokku lepitud eesmärke. 
+
+−  Telšai tuulepargist ostetud energia hulk kasvas võrreldes eel-
+nenud aastaga kordades (2023. aastal 35%, 2022. aastal 8% 
+Telia Eesti energia kogutarbimisest) ning 2024. aastal suuren-
+eb ostetav energiahulk veelgi moodustades prognoosi koha-
+selt Telia Eesti kogutarbimisest üle 55%. 
+
+−  Lõime  käed  Sunlyga  ja  ehitame  Telia  mobiilimastide  juurde 
+ligikaudu  100  päikeseparki  koguvõimsusega  vähemalt 
+1200 kW.
+
+−  2022. aastal  alanud  katseprojekt  diiselgeneraatorite  asen-
+damiseks vesinik-generaatoritega jätkus ning ühte mobiilisaiti 
+paigaldati vesinikgeneraator. 
+
+„Päikeseparkide ehitamine on täies hoos. 2023. aastal  
+sai  välja  ehitatud  päikeseparke  koguvõimsusega  
+578 kW ja see aasta jätkame ehitusega. Aasta lõpuks 
+on  eesmärk,  et  Telial  on  päikeseparke  koguvõim- 
+susega 1325kW.“ 
+
+−  Lisaks elektrienergiale jälgime igal aastal taastuvatest allika- 
+test toodetud soojusenergia osakaalu. Telia Eesti peakontori  
+maaküte  töötab  2022. aastast  taastuvallikatest  pärineval  
+energial,  mis  moodustas  2023. aastal  77%  peakontori 
+soojatarbimisest ja 39% kogu Telia soojatarbimisest. 
+
+−  2023.  aasta  Telia  autopargi  struktuuris  olulisi  muudatusi 
+ei toonud. Aasta lõpuks oli meil kasutuses 30 elektriautot, 
+mis  on  20%  kogu  Telia  autopargist  (vaid  kaks  sõiduau-
+tot  rohkem  kui  eelmisel  aastal).  2024.  aasta  alguses  va-
+hetatakse elektriautode vastu veel 16 sõiduautot, millega 
+loodame  oma  läbisõidukilometraaži  30%  ulatuses  elek-
+trile viia. 2024. aasta lõpuks on kõik Telia M1-klassi autod 
+elektrilised.  
+
+−  Endiselt  on  Telia  tööautodega  võimalik  teha  ka  erasõite, 
+mis  omakorda  on  heaks  näiteks  otstarbekast  sõidukite 
+ühiskasutusest.  
+
+“Oleme pikalt oodanud positiivset arengut elektri jõul 
+liikuvate ja piisava akumahutavusega tarbesõidukite 
+turul.  Tarbesõidukite  klassis  piisava  akumahuga 
+sõidukeid turul veel ei ole ja üksnes 50 kWh akudega  
+sõidukid  meie  tööd  ei  toeta.  2024. aastal  on  lõppe-
+mas  50%  Telia  kaubikute  liisingutest,  seega  ei  jõua 
+me  praegu  ära  oodata  jätkusuutlike  tarbesõidukute 
+turule tulekut, vaid peame soetama taas suure hulga 
+bensiiniautosid.” 
+
+Mari-Liis Männisalu 
+Telia haldusosakonna juht
+
+Andmemahud    
+
+Energiahulk  ühe  andmemahu  ühiku  edastamiseks  väheneb 
+jätkuvalt. 
+
+“Ühiskonna  digitaliseerumise  tagajärjel  suurenevad 
+kasutatavad  andmemahud  hoogsalt  ja  seda  ka Telia 
+mobiilivõrgus,  mida  pidevalt  arendame  ja  moderni-
+seerime. Kuigi andmemahud ja kasutatav elektrimaht 
+kasvavad  iga  aastaga,  suurendame  mobiilivõrgus 
+aasta-aastalt  efektiivsust  ehk  vähendame  energia-
+hulka ühe andmemahu edastamiseks.” 
+
+Anna-Mai Allikmäe 
+Telia tehniliste sõlmede tehnosüsteemide spetsialist
+
+Jäätmete hulk ja ümbertöötatud 
+jäätmete osakaal
+
+721 t
+
+634 t
+
+Anna-Mai Allikmäe 
+Telia tehniliste sõlmede tehnosüsteemide spetsialist
+
+Energiatarbimise ja andmemahtude 
+edastamise suhe
+
+0,14
+t
+h
+a
+m
+0,12
+e
+m
+d
+n
+0,1
+a
+
+i
+
+i
+
+/
+e
+0,08
+n
+m
+b
+0,06
+r
+a
+t
+a
+0,04
+g
+r
+e
+n
+E
+0,02
+
+i
+
+t
+h
+a
+m
+e
+m
+d
+n
+a
+/
+e
+n
+m
+b
+r
+a
+t
+a
+g
+r
+e
+n
+E
+
+i
+
+i
+
+i
+
+0
+
+Aeg
+
+.
+
+9
+1
+n
+a
+a
+
+j
+
+9
+1
+.
+r
+b
+e
+e
+v
+
+.
+
+9
+1
+s
+t
+r
+ä
+m
+
+9
+1
+.
+r
+p
+a
+
+9
+1
+.
+i
+
+a
+m
+
+9
+1
+.
+i
+
+n
+u
+u
+
+j
+
+9
+1
+.
+i
+l
+
+u
+u
+
+j
+
+.
+
+9
+1
+g
+u
+a
+
+9
+1
+.
+t
+p
+e
+s
+
+9
+1
+.
+t
+k
+o
+
+.
+
+9
+1
+v
+o
+n
+
+.
+
+9
+1
+s
+t
+e
+d
+
+.
+
+0
+2
+n
+a
+a
+
+j
+
+0
+2
+.
+r
+b
+e
+e
+v
+
+.
+
+0
+2
+s
+t
+r
+ä
+m
+
+0
+2
+.
+r
+p
+a
+
+0
+2
+
+.
+i
+
+a
+m
+
+0
+2
+
+.
+i
+
+n
+u
+u
+
+j
+
+0
+2
+
+.
+i
+l
+
+u
+u
+
+j
+
+.
+
+0
+2
+g
+u
+a
+
+0
+2
+.
+t
+p
+e
+s
+
+0
+2
+.
+t
+k
+o
+
+.
+
+0
+2
+v
+o
+n
+
+.
+
+0
+2
+s
+t
+e
+d
+
+.
+
+1
+2
+n
+a
+a
+
+j
+
+1
+2
+.
+r
+b
+e
+e
+v
+
+.
+
+1
+2
+s
+t
+r
+ä
+m
+
+1
+2
+.
+r
+p
+a
+
+1
+2
+
+.
+i
+
+a
+m
+
+1
+2
+
+.
+i
+
+n
+u
+u
+
+j
+
+1
+2
+
+.
+i
+l
+
+u
+u
+
+j
+
+.
+
+1
+2
+g
+u
+a
+
+1
+2
+.
+t
+p
+e
+s
+
+1
+2
+.
+t
+k
+o
+
+.
+
+1
+2
+v
+o
+n
+
+.
+
+1
+2
+s
+t
+e
+d
+
+.
+
+2
+2
+n
+a
+a
+
+j
+
+2
+2
+.
+r
+b
+e
+e
+v
+
+.
+
+2
+2
+s
+t
+r
+ä
+m
+
+2
+2
+.
+r
+p
+a
+
+2
+2
+
+.
+i
+
+a
+m
+
+2
+2
+
+.
+i
+
+n
+u
+u
+
+j
+
+2
+2
+
+.
+i
+l
+
+u
+u
+
+j
+
+.
+
+2
+2
+g
+u
+a
+
+2
+2
+.
+t
+p
+e
+s
+
+2
+2
+.
+t
+k
+o
+
+.
+
+2
+2
+v
+o
+n
+
+.
+
+2
+2
+s
+t
+e
+d
+
+.
+
+3
+2
+n
+a
+a
+
+j
+
+3
+2
+.
+r
+b
+e
+e
+v
+
+.
+
+3
+2
+s
+t
+r
+ä
+m
+
+3
+2
+.
+r
+p
+a
+
+3
+2
+
+.
+i
+
+a
+m
+
+3
+2
+
+.
+i
+
+n
+u
+u
+
+j
+
+3
+2
+
+.
+i
+l
+
+u
+u
+
+j
+
+.
+
+3
+2
+g
+u
+a
+
+3
+2
+.
+t
+p
+e
+s
+
+3
+2
+.
+t
+k
+o
+
+.
+
+3
+2
+v
+o
+n
+
+.
+
+3
+2
+s
+t
+e
+d
+
+Aeg
+
+7
+
+Jäätmete osakaal, ümbertöötamine 
+ja taaskasutamine    
+
+2023. aastal suurenes jäätmete osakaal ja veidi vähenes ümber- 
+töötatud jäätmete osakaal.  
+
+“Jäätmete  kogukaal  suurenes,  kuna  lisasime  arves-
+tusse kontorijäätmed ja taaskasutusse liikuvad klien-
+tide ja võrguseadmed. Taaskasutuse ja ümbertöötluse 
+osakaal  vähenes,  kuna  suure  osa  kontorijäätmetest 
+moodustavad olmejäätmed.” 
+
+Kairi Pahapill 
+Telia tarneahela arendusjuht
+
+“Suurema  osa  kontori  olemejäätmetest  omakorda 
+moodustab tualettides kasutatav kätekuivatuspaber, 
+mida  selle  suurte  koguste  tõttu  me  jäätmekäitleja  
+reegleid  arvestades  bioprügisse  ei  pane.  Ootame 
+Põhjamaade  eeskujul  Eestisse  lahendusi  ka  kätekui-
+vatuspaberi sorteerimiseks olmeprügist eraldi.” 
+
+Mari-Liis Männisalu 
+Telia haldusosakonna juht
+
+Kontoris tekkivate jäätmete kogust ja liigiti sorteerimise õigsust 
+mõõdetakse WasteLockeri seadmete abil.
+
+480 t
+
+416 t
+
+468 t
+
+Jäätmeid kokku (t)
+
+89%
+
+84%
+
+2022
+
+2023
+
+Ümbertöötatud %
+
+KeskkondSotsiaalne mõjuJuhtimisraamistik 
+ 
+ 
+ 
+8
+
+−  2023. aastal  tegime  tugeva  alguse  uuskasutatud  seadmete 
+müügiga  ning  soovime  2024. aastal  selle  tulemuse viiekord-
+selt ületada. Seega on kavas seadmete ringkasutust hoogsalt 
+soodustada.  
+
+Taaskasutatav KIUD-pakend    
+
+−  KIUD-pakendit kasutasime 2023. aastal nii tagastusprogrammi  
+
+„Vana uueks“ protsessis kui ka jõulukampaanias. 
+
+−  Teenuse  „Vana  uueks“  puhul  saab  klient  KIUD-pakendi  abil 
+
+meile oma vana seadme tagastada.  
+
+Jäätmed ja ringmajandus 
+
+Kliendiseadmete taaskasutus 
+
+Tagastusprogramm „Vana uueks“     
+
+Telia  taaskasutab  kliendiseadmeid,  näiteks  ruutereid  ja  
+digibokse.  
+
+2023.  aastal  vähenes  kliendiseadmete  taaskasutus  kahel 
+põhusel: 
+
+−  Tundsime endiselt seadmete tarnekriisi tagajärgi. Ajal, mil 
+uusi seadmeid ei tarnitud, kasutasime ära oma kasutatud 
+seadmete varud; 
+
+−  TV-valdkonnas  läksime  üle  uuele  Androidi  digiboksile. 
+See tõi kaasa olukorra, milles uue mudeli seadmeid ei ole 
+veel samas mahus tagastama hakatud ja vastavate sead-
+mete varusid napib. 1200 kW.
+
+Kliendiseadmete taaskasutus 
+(mln eurot)  
+
+2.56
+
+1.88
+
+2022
+
+2023
+
+−  2023. aastal tegime tugeva alguse uuskasutatud seadmete 
+müügiga ning soovime 2024. aastal selle tulemuse viiekord-
+selt ületada. Seega on kavas seadmete ringkasutust hoog-
+salt soodustada.  
+
+−  Oleme  Telias  praegu  keskendunud 
+
+just  uuskasutatud  
+nutitelefonide  ja  sülearvutite  müügile.  Kõik  seadmed  on 
+läbinud põhjaliku tehnilise kontrolli ja neile kehtib garantii.
+
+Tagastusprogramm  “Vana  uueks”  võimaldab  klientidel  ta-
+gastada  Teliale  oma  vana  nutiseadme  (telefoni,  sülearvuti, 
+nutikella  või  tahvelarvuti)  ning  soetada  Telia  e-poest  uue 
+seadme.  Lisaks  korraldame  ka  kampaaniaid,  kus  teatud  uut 
+seadet ostes lisame vana seadme väärtusele veel lisasoodus-
+tuse. 
+
+−  2023. aastal moodustas “Vana uueks” tagastusprogrammi  
+kasutades  tehtud  tehingute  osakaal  12,9%,  ületades  
+sellega seatud 7% eesmärki.  
+
+−  Aastal 2024 planeerime “Vana uueks” tagastusprogrammi 
+muuta klientidele veelgi paindlikumaks ja mugavamaks. 
+
+Kokku toodeti 2 705 pakendit, millest igaüks tegi keskmiselt 
+4,3 ringi. Samad pakendid jätkavad ringlust ka 2024. aastal. 
+
+−  Kampaaniate  käigus  ostetakse  ligikaudu  pooled  seadmed 
+
+“Vana uueks” tagastusprogrammi kasutades. 
+
+−  Et kliendid meie ringluspakendite võimalusest rohkem teaksid, 
+
+kasutasime KIUD-pakendeid ka jõulukampaanias. 
+
+Saatsime  välja  4  520  KIUD-pakendit.  Tagasi  ringlusesse  ta-
+gastati esialgu hinnanguliselt 18% pakenditest. Samas teame, 
+et  paljud  kliendid  on  otsustanud  saadud  KIUD-karpi  kas  ise 
+kasutada või edasi kinkida.
+
+tekkinud 
+
+„Ringlusesse saadetud KIUD-pakendid, mis on valmis- 
+tatud 
+tekstiilijäätmetest,  
+tootmisliinidel 
+jalajälge  võrreldes  
+aitavad  vähendada  tootmise 
+tavalise  papiga  koguni  50%.  Telia  tasus  kliendi  eest 
+pandi 3 € eesmärgiga tutvustada uut ringluspakendi 
+võimalust ja suurendada meie klientide hulgas jätku-
+suutlikku pakendikäitlust.“ 
+
+Elina Piirmets
+Telia turunduse projektijuht 
+
+Uuskasutatud seadmed 
+
+Telia Eesti seadmete valikus on uuel ringil ehk uuskasutatud 
+iPhone’id, iPadid, erinevad nutikellad ning sülearvutid, mis on 
+tehniliselt kontrollitud, garantiiga ja välimuselt uueväärsed.  
+
+„Enamik  toote  emissioonidest  selle  eluea  jook-
+sul  tekib  tootmisfaasis  (eri  uuringute  andmetel 
+suurusjärgus  70–95%),  mistõttu  on  oluline  toote 
+eluiga  võimalikult  pikana  hoida.  Tooted  muutuvad 
+aina  kvaliteetsemaks  ja  kui  neid  hästi  hoida,  leiab 
+nii  nutitelefon  kui  ka  äriklassi  sülearvuti  kasutust 
+kuni  kolme  kasutaja  juures.  Telefon  vahetatakse 
+tänapäeval välja keskmiselt kahe-kolme aasta järel, 
+arvuti kolme kuni viie aasta järel. Soovime tekitada 
+tarbijates arusaama, et ühel seadmel võib olla mitu 
+elukaart  ja  omanikku.  Usaldusväärsest  ostukohast 
+on võimalik  soetada  hea  ja  kvaliteetne  seade  ning 
+see ei pea olema alati uus.“ 
+
+Laura Kuusik 
+Telia kauba ja finantseerimise osakonna juht 
+
+KeskkondSotsiaalne mõjuJuhtimisraamistik 
+ 
+9
+
+Digikelts 
+
+Paberivabad esindused 
+
+Digikoristuspäev 
+
+Telias on eesmärk muuta esindused paberivabaks.
+
+90% lepinguid sõlmitakse esindustes digitaalselt.
+
+−  Digikoristuspäev  toimus  2024. aasta  alguses,  mille  raames 
+tegime  koostööd  programmiga  „Roheline  kool“  (Tartu  loo-
+dusmaja), Tartu Ülikooliga, Foxway ja EES-Ringlusega. 
+
+−  2024. aastal kasvas eelneva aastaga võrreldes oluliselt vee-
+bis registreerunud isikute arv. Osales 2 500 eraisikut, 8 000 
+õpilast, 260 Telia töötajat, 230 organisatsiooni ning 158 kooli 
+ja  lasteaeda  programmi  „Roheline  kool“  võrgustikust.  Digi- 
+koristuspäeva Facebooki live’il oli 25 000 vaatajat. 
+
+−  Teliasse  plaaniti  tuua  10  000  seadet,  sh  organisatsioonide 
+
+seadmed Green IT-le. 
+
+−  Lisaks  korraldasime  koostöös  Tartu  ülikooliga  uuringu  
+
+digiprügi ja elektrooniliste jäätmete kohta. 
+
+“Läbi  teadlike  valikute  oleme  oma  müügiprotsessi 
+kujundanud selliseks, et ka esindustes on harjumus-
+päraseks lahenduseks lepingute digitaalne vormista-
+mine.  Tänaseks  sõlmitakse  vaid  ca  10%  lepingutest 
+esindustes  paberil.  2024.  aastal  on  kavas  teha  veel 
+mõned  IT  arendused,  et  luua  eeldused  esindustes 
+elektrooniliselt  vormistatavate  lepingute  osakaalu  
+jätkuvaks kasvuks.“ 
+
+Katriin Tšepurin
+müügiprotsessi juht
+
+E-arved   
+
+Paberarvetest  loobumisel  oleme  olnud  edukad.  2023. aasta 
+e-arvete  osakaalu  eesmärk  oli  97%  ja  täitsime  selle.  2024. aas-
+taks  me  uut  paberarvete  vähendamise  eesmärki  ei  sea,  kuna 
+oleme  saavutanud  juba  kõrge  taseme.  2024. aastal  kesken-
+dume digikanalile. Meie siht on vähendada arvete edastamisega 
+kaasnevat  keskkonnajalajälge  pigem  e-kirjade  manusest  arve 
+PDF-versiooni kaotamisega.
+
+E-arvete osakaal
+
+87,7%
+
+90,9%
+
+84,7%
+
+93,4%
+
+95,6%
+
+97,1%
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+Digiprügi ja elektrooniliste jäätmete 
+uuring  
+
+2023.  aasta  digiprügiuuringust  järeldame,  et  kuigi  teadlikkus 
+digiprügiga  seonduvast  on  hea,  siis  käitumine  pole  sellele  veel 
+järele jõudnud. 
+
+−  Mõiste „digiprügi“ on tuttav 99% vastajatest. 
+
+−  Digikoristuse ehk vanadest elektroonikaseadmetest vabane-
+mise  ja  ebavajalike  failide  kustutamise  võtab  aeg-ajalt  ette 
+üle 40% küsitluses osalenutest.  
+
+−  Peamiselt  motiveerib  inimesi  digikoristusega  tegelema  isik-
+lik soov ebavajalikest failidest lahti saada (seda tõi välja 71% 
+inimestest). 15% uuringus osalenutest avaldas ka soovi käitu-
+da digimaailmas keskkonnasõbralikult. 
+
+−  73%-l  Eesti  inimestest  seisab  kodus  kasutuseta  vanu  digi-
+
+seadmeid. 
+
+“Andmete  kopeerimine  pilvelahendustesse või  ühest 
+seadmest  teise  on  valdkond,  mida  paljud  inimesed 
+väga  hästi  ei  tunne.  Sellistel  juhtudel  julgustame  abi 
+saamiseks  pöörduma  näiteks  Telia  esindusse,  kus 
+meie  töötajad  oskavad  jagada  nõu,  kuidas  vabane-
+da  kasutuna  seisvatest  digiseadmetest  nii,  et  olu-
+lised  andmed  jääks  alles  ja  keegi  ei  peaks  pelgama  
+eraeluliste andmete sattumist võõra pilgu ette.“ 
+
+Hele Tammenurm
+Telia kvaliteedi- ja keskkonnajuhtimise juht
+
+Digiprügiteemalise  küsitluse  korraldas  2023.  aasta  detsembris 
+Norstat  koostöös  Telia  ja  Tartu  ülikooli  Johan  Skytte  poliitika- 
+uuringute  instituudiga  ning  selles  osales  400  Eesti  elanikku 
+vanuses 15–65.
+
+KeskkondSotsiaalne mõjuJuhtimisraamistikKeskkonnateemad sise- ja 
+väliskommunikatsioonis 
+
+Jätkusuutlikkuse  teemad  olid  fookuses  Telia 
+MeetUpil  ja  Telia  Digital  Hubil.  Igal  aastal 
+korraldame Digikoristuspäeva, mille eesmärk 
+on  lisaks  otsesele  digijalajälje  vähendami-
+sele  ka  positiivsete  harjumuste  tekitamine.  
+Klientide keskkonnateadlikkust aitavad tõsta  
+nii  uuskasutatud  seadmete  müük,  korduv-
+kasutatava  pakendi  kasutamine  kui  ka  Telia 
+esinduste paberivabadus. 
+
+Telia töötajate keskkonnateadlikkus
+
+Keskkonnakuu 
+
+−  Aprillis toimunud keskkonnakuu oli sisustatud eri tegevuste-
+ga  töötajate  kaasamiseks  ja  teadlikkuse  tõstmiseks.  Kes-
+kendusime  sellistele  teemadele  nagu  keskkonnaeesmärgid  
+ja  -tegevused,  keskkonnasäästlik  liikumine,  jäätmed  ja  ring- 
+majandus.  
+
+−  Andsime  töötajatele  ülevaate  seniste  keskkonnaeesmärkide 
+
+täitmisest ja edasistest plaanidest.  
+
+−  Lisaks  kutsusime  rääkima  jäätmetest,  ringmajandusest  ja  
+
+innovatsioonist Ragn-Sellsi ja Wastelockeri.  
+
+−  Võimaldasime saada ülevaadet Tallinna Euroopa rohepealinna  
+
+tegevusest ja plaanidest. 
+
+−  Soetasime oma töötajatele kasutamiseks elektrilise kastiratta 
+ja osalesime Tallinnas toimunud elektrirataste demopäeval. 
+
+−  Keskkonnakuul korraldasime töötajatele ka keskkonnauuringu
+
+Keskkonnauuring Telia töötajatele 
+
+Uuringu tulemused: 
+
+−  50%  vastanutest  ütles,  et  keskkonnateemade  kohta  on  neil  
+piisavalt teavet; vaid 9% tõi välja, et seda pole oodatud mahus. 
+
+3 kõige huvipakkuvamat teemat Telia Eesti töötajate jaoks: 
+
+1010
+
+2 1 %    
+20%   
+1 9%   
+
+Telia keskkonnajalajälg ja -mõju; 
+
+Telia keskkonnategevused; 
+
+seadmetega seonduv. 
+
+Eraldi toodi välja huvi rohepesu vältimise vastu. 
+
+Uurisime ka, mida on Telia töötajad valmis tegema, et kesk-
+konda hoida. Tulemused olid järgmised:  
+
+18%  sorteerib jäätmeid; 
+17%  väldib toiduraiskamist; 
+17%  mõtleb enne ostu, kas vajavad seda.
+
+“Telia  töötajate  keskkonnateadlikkuse  uuringu  tule- 
+mused  olid  rõõmustavad  ning  annavad  meile  veen-
+dumuse, et teeme õigeid asju ja need tõesti lähevad 
+töötajatele  korda.  Telia  töötajad  andsid  ettevõtte  
+keskkonnateadlikkusele  hindeks  7  (max  10),  mis  on 
+hea tulemus. Aga soovime olla veelgi paremad.“ 
+
+Hele Tammenurm
+Telia kvaliteedi- ja keskkonnajuhtimise juht 
+
+Äriklientide keskkonnaalased  
+küsimused
+
+„Meie ärikliendid soovivad mõista, kuidas Telia kesk-
+konnategevus  loob  väärtust  ka  nende  äritegevusele. 
+Soovitud on teavet alates sellest, kui palju energiat on 
+kulunud klientidele pakutavate teenuste juures ja kas 
+meie  tegevuskohtades  on  kasutusel  taastuvenergia, 
+kuni selleni, kas meie teenused on energiatõhusad või 
+muul viisil keskkonnasõbralikud. Palju huvi on tuntud 
+ka meile väljastatud sertifikaatide ja märgiste kohta.“ 
+
+Raina Jürgens
+Telia keskkonnajuhtimise ekspert ja protsessijuht
+
+KeskkondSotsiaalne mõjuJuhtimisraamistik11
+
+Sotsiaalne
+mõju
+
+Digitaalne kaasatus ja privaatsus ning küberturvali-
+
+sus on kaks Telia Eesti fookusvaldkonda keskkonna- 
+
+hoiu  kõrval.  Telia  sotsiaalne  ja  ühiskondlik  mõju  
+
+väljendub ühelt poolt tegevusega väljapoole, seal-
+hulgas meie klientidele suunas ning teisalt ka läbi 
+meie töötajate, kes omakorda mõju edasi kannavad.  
+
+KeskkonnateguridSotsiaalne mõjuJuhtimisalased tegurid12
+
+Digitaalne kaasatus ning 
+privaatsus ja küberturvalisus 
+
+Koostöö riigi ja võrgustikega,  
+teadus- ja arendustegevus
+
+Telia Digital Hub
+
+Telia Digital Hub on juba neljandat aastat koostöös Majandus- ja 
+Kommunikatsiooniministeeriumiga  korraldanud  Eesti  suurimat 
+innovatsiooni- ja tehnoloogiakonverentsi. 
+
+“Digital Hub on tippjuhtide, IT-juhtide, infoturbejuhtide 
+ning  tehnoloogiavaldkonna  tippametnike  ja  -spetsia- 
+listide jaoks aasta olulisim kohtumispaik, kus end vald-
+konna  uusimate  arengutega  kurssi  viia.  2023.  aasta 
+konverents  tõi  Tallinnasse  esinema  valdkonna  tuntud 
+visionäärid USA-st, Lääne-Euroopast ja Eestist. “ 
+
+Rebecca Andreas
+Telia ärikliendi segmendijuht
+
+−  2023 Telia Digital Hubi fookusteema oli äri, IT-lahenduste ja 
+
+tehnoloogia kestlikkus, üritusel osales 1 052 inimest. 
+
+−  2023.  aasta  konverentsi  avas  Euroopa  tippotsustajate 
+arutelu,  kuidas 
+ja  nõuded  kestlikele 
+lahendustele mõjutavad meie tehnoloogilist keskkonda ja 
+äri.  
+
+tehisintellekt 
+
+−  Päeva lõpetas Ukraina juurtega Howard Brodsky, kes lõi 
+Ühendriikides 12 miljardi dollarilise aastakäibega kontserni 
+järgides kogukondlikke ja kestlikke äripõhimõtteid. 
+
+−  Eelpooltoodu vahele mahtus ligi 60 praktikut ja eksperti, 
+kes  esinesid viiel  laval:  tippjuhtide  klubi,  IT-juhtide  klubi, 
+IT-gurude klubi, avaliku sektori klubi ja lahenduste lounge. 
+
+−  2024. aasta Digital Hub toimub 14. novembril ning räägime 
+teemadel: Kuidas elu ja äri turvaliselt edasi viia?; Kuidas oma 
+digitaalset  jalajälge vähendada?;  Mis  on  tuleviku  juhi  roll  ja 
+millist ärikultuuri me tahame?
+
+Telia MeetUp Tallinnas ja Narvas  
+
+Telia  MeetUp  on  Telia  peamaja  avatud  uste  päev.  2023.  aastal 
+toimus  sündmus  viiendat  korda,  kuid  esmakordselt  toimus 
+samaaegselt analoogne üritus ka Narvas.
+
+−  Tallinnas osales ligi 400 IT- ja ettevõtte juhti ning spetsialisti, 
+kel oli võimalus kaasa lüüa 29 erineval seminaril ja omavahel 
+vabas vormis kogemusi jagada. 
+
+−  Narvas osales 45 Ida-Virumaa äriklienti.  
+
+−  Selle aasta sündmuste üks läbivaid teemasid oli jätkusuutlik 
+innovaatiliste 
+tegutsemine.  Arutati,  kuidas  muuta  uute 
+digitaalsete  lahendustega  ettevõtete  äri  efektiivsemaks  ja 
+keskkonnasäästlikumaks. 
+
+−  Esmakordselt  toimus  MeetUp’il  ettevõtete  juhtide  klubi,  kus 
+vestlusringis  osalenud  Verstoni  finantsjuht  Jarmo  Liiver, 
+Tallinna Lennujaama kommertsvaldkonna juht Eero Pärgmäe, 
+UG  Investments  juhatuse  liige  Valdur  Laid  ning  Telia  Eesti 
+juhatuse  esimees  Holger  Haljand  käsitlesid  kestlikkuse 
+teemat  aruteluringis  „Jätkusuutlikkus  kui  teekond  uude 
+tegelikkusesse“ .
+
+Koostöö Tartu Ülikooliga eakate 
+digilõhe vähendamiseks 
+
+Algatasime  koostöö  Tartu  Ülikooli  sotsiaalteadlaste  ja  endise 
+ja 
+õpilasfirma  Digiabiga,  et  õpetada  eakatele  digioskusi 
+lahendada eakate inimeste digilõhe probleemi. 
+
+Loe rohkem peatükist „Hariduslikud programmid“. 
+
+KeskkondSotsiaalne mõjuJuhtimisraamistik 
+13
+
+Digitaalne kaasatus ning 
+privaatsus ja küberturvalisus 
+
+Koostöö NATO CCDCOE-ga   
+
+Koostöö ITL-iga   
+
+Novembris  võõrustasime  NATO  CCDCOE  (Küberkaitse  Kompe-
+tentsikeskus) Critical Information Infrastructure Protection õppe-
+gruppi  ja  rääkisime  neile  kriitilise  infrastruktuuri  kaitsest  ning 
+riskidest. 
+
+Locked Shields Partners Run küberkaitse õppus 
+
+−  Telia Eesti osaleb aktiivselt ITLi (Eesti Infotehnoloogia ja Tele-
+kommunikatsiooni  Liit)  erinevates  töörühmades,  sealhulgas 
+infoturbe nõukoja töös.
+
+−  2023. aastal panustasime väikestele ja keskmistele ettevõte-
+tele  suunatud  heade  tavade  väljatöötamisse:  “Hea  tava 
+turvalise arvutitöökoha pakkumisel” ning “Hea tava turvalise 
+
+−  Osalesime  Telia  tiimiga  NATO  CCDCOE  poolt  korraldataval 
+
+küberkaitse õppuste seerial.  
+
+meiliteenuse pakkumisel”.  
+
+−  Kuna sellises mastaabis õppuse korraldamine on infrastruk-
+tuuri seisukohalt nõudlik ja kulukas, toetasime ja toetame ka 
+järgnevat  õppust  muuhulgas  kiirema  interneti  ühenduse  ja 
+DDOS (teenusetõkestusrünne) kaitse teenustega. 
+
+−  2024 aastal toimus Locked Shields Partner Run 6.-7. märtsil 
+
+ning meie koostöö jätkub. 
+
+“ITLi poolt loodavad heade tavade juhendid annavad 
+väikestele  ja  keskmistele  ettevõtetele  teadmise,  mil-
+liseid  aspekte  erinevate  teenuste  tellimisel  arvesse 
+võtta, et baashügieeni nõuete täitmine oleks teenuse 
+osutaja poolt tagatud” 
+
+Ingrid Kääp
+Telia turbejuhtimise osakonna juht 
+
+Woman in Tech programmi 
+mõjuanalüüs 
+
+−  Koostöös  Malmö  ja  Jönköpingi  ülikoolidega  tegime  mõjua-
+
+nalüüsi Women in Tech programmile.  
+
+−  Analüüsi  peamiste  järeldustena  saime  teada,  et  programm 
+aitab ühendada töö ja pereelu ümberõppega ning peamiseks 
+ja  võimalus 
+väärtuseks  on  naiste 
+paindlikult õppida. Esimese aasta jooksul pärast programmi 
+lõpetamist  on  20%  osalenutest  teinud  karjääripöörde 
+tehnoloogia suunas. 
+
+jaoks  tugivõrgustik 
+
+Loe rohkem peatükist „Hariduslikud programmid“. 
+
+Cybergami sisuloome 
+
+Jätkuna 2022. aastal läbi viidud laste privaatsuse ja turvalisuse 
+uuringu  tulemusel  panustasid  Telia  andmekaitse  eksperdid  
+Cybergrami  sisu  loomisse,  et  tõsta  laste  teadlikkust,  millist  
+informatsiooni  on  mõistlik  internetis  mitte  avaldada  ning 
+millised ohud laste endi privaatsusele andmete avaldamisega 
+kaasneda võivad. 
+
+Loe rohkem peatükist „Hariduslikud programmid“. 
+
+KeskkondSotsiaalne mõjuJuhtimisraamistik 
+Juhendid, koolitused ja 
+hariduslikud programmid 
+
+Kõige  suurema  kasutajate  arvuga  digi-
+oskuste  õppimise  platvormid  olid  2023. 
+aastal  Spoofy  ja  erinevad  Facebooki  veebi-
+koolitused  lapsevanematele,  mis  käsitlesid 
+internetis.  Laiendasime 
+laste 
+digiplatvormide katvust, mis aitavad õpetada 
+digioskusi koolitasemel ning vanemaealistele.
+
+turvalisust 
+
+Koolitused  
+
+−  Korraldasime  veebiseminare 
+
+lapse-
+vanematele  turvalise  interneti  teemadel  laste  toetamiseks, 
+millel osales kokku 45 000 inimest. 
+
+ja  taskuhäälinguid 
+
+−  Lisaks panustasid Telia töötajad ka vabatahtlike koolitajatena. 
+Näiteks  suvel  koolitasid  Telia  töötajad  625  last  Valma 
+lastelaagris turvalise interneti teemadel. 
+
+“Õpi ja õpeta” juhendi loomine  
+
+−  Koostöös  Tagasi  Kooliga  toimus  digitund,  kuidas  õpetada 
+
+vanemaealistele digioskuseid.  
+
+−  2023. aastal lõime eraldi veebilehe “Õpi ja õpeta”. Juhendist 
+leiab  kasulikku  infot  nii  IT  oskuste  õpetamiseks  kui  ka 
+iseseisvaks õppimiseks. Juhendist leiab kasulikku infot nii IT 
+oskuste õpetamiseks kui ka iseseisvaks õppimiseks.  
+
+−  Juhend on üles ehitatud selliselt, et seda saaks teema kaupa 
+ja  sammhaaval  mugavalt  ja  praktiliselt  rakendada.  Lisaks 
+leiab  juhendist ka ikoonide ja rakenduste  sõnastiku  ja  need 
+saab juhendatavale välja printida.  
+
+−  2023.a lõpuks oli keskkonda külastanud 10 900 kasutajat. 
+
+“Meie  töötajad  jõuavad  vabatahtlikult  ja  igapäevase 
+töö  kõrvalt  arendada  ka  teiste  digioskuseid.  Oleme 
+käinud  koolides,  lasteaedades,  laagrites,  ülikoolides 
+ja  ettevõtetes  ning 
+jaganud  teadmisi  eelkõige 
+digitaalse  turvalisuse  ja  digiprügi  osas.  Teeme  ise 
+koolituskavasid ning materjale ja jagame teineteisega 
+saadud  kogemusi.  Regulaarseid  koolitajaid  on 
+meil  ligikaudu  50.  Oleme  oma  vabatahtlikele  väga 
+tänulikud ja loodame, et nende arv kasvab veelgi.” 
+
+−  Juhendi 
+
+lõime 
+
+ja  endise 
+õpilasfirmaga  Digiabi,  kellel  on  praktiline  kogemus  eakate 
+digijuhendamisega.  
+
+koostöös  Tartu  Ülikooli 
+
+Elo Võrk
+Telia toetustegevuste juht 
+
+“Telia  ja  Tartu  Ülikooli  koostöö  on  aastate  jooksul 
+korduvalt tõestanud, et üheskoos jõuame kaugemale. 
+Digiabi materjali loomine Telia veebilehele võimaldas 
+meil  pakkuda  teaduspõhiseid,  aga  ka  õpilasfirma 
+noormeeste  poolt  praktikas  läbi  proovitud  soovitusi, 
+mis  tänu  Telia  suurele  kliendibaasile  jõuavad  laia 
+auditooriumini.  See  projekt  tõestas  taas,  kuidas 
+koos  saame 
+luua  olulisi  ressursse,  mis  aitavad 
+digitehnoloogiate kasutamist päriselt lihtsustada.”
+
+Inger Klesment 
+Tartu Ülikooli Balti Infohäirete Sekkekeskuse (CEBID) 
+kommunikatsiooni ja meediapädevuse spetsialist 
+
+Telia töötajate privaatsuse ja küberturvalisuse 
+alase teadlikkuse arendamine 
+
+14
+
+−  Tegime  sisemise  küberturvalisuse  koolitustesarja  ärikliendi 
+
+üksuse töötajatele. Osales 134 inimest. 
+
+−  Meie töötajad läbivad igakuiselt turbeteadlikkuse tipptasemel 
+
+hoidmise ja tõstmisega seotud koolitusi või õpiampse.
+
+Telia töötajate andmekaitsealane 
+uuring 
+
+−  Et  teadlikkuse  kasvatamist  veelgi  tõhusamalt  edaspidi 
+läbi 
+teha,  viisime  töötajate  seas  2023.  aasta  aprillis 
+andmekaitsealase  teadlikkuse  uuringu,  kus  osales  pea  650 
+töötajat. Saime teada, et: 
+
+−  58%  olid  osalenud  andmekaitse  teemalisel  koolitusel 
+
+vähemalt viimase 12 kuu jooksul;
+
+−  75%  osalejatest  leidis,  et  nende  teadlikkus  andmekaitse 
+
+vallas viimase aasta jooksul on tõusnud;  
+
+−  Lisaks  tuvastasime  teemad  ja  kohad,  millest  töötajad 
+teavad  vähem  ning  millele  tulevikus  koolitades  rohkem 
+tähelepanu  pöörata.  Uuringu  tulemusel  panime  kokku 
+ka  edasised  koolitusplaanid,  mis  võimaldavad  koolitusi 
+kohandada vastavalt töötajate teadlikkuse tasemele ning 
+neid puudutavatele teemadele.
+
+Sisekoolitused 
+
+−  2023. aastal osales Telia Eesti sisemistel isikuandmete kaitse 
+koolitustel  üle  1  200  töötaja.  Lisaks  panustame  töötajate 
+teadlikkuse kasvu ka muudel erinevatel viisidel ja muuhulgas 
+oleme loonud sisemise andmekaitse ja turvalisuse uudiskirja.
+
+−  Kutsusime  isikuandmete  kaitse  üldmääruse  5.  sünnipäeva 
+isikuandmete  kaitsest  rääkima  külalisi 
+puhul  töötajatele 
+nii  Andmekaitse  inspektsioonist  kui  ka  heade  partnerite  ja 
+klientide hulgast. 
+
+“Usume,  et  koolitades  oma  töötajaid  andmekaitse 
+ja  turvalisuse  teemal,  suudame  end  hoida  paremini 
+kaitstuna.  Teades,  kuidas  kaitsta  meie  klientide 
+andmeid, tõuseb teadlikkus töötajais ka enda andmete 
+osas ning seda teadmist jagatakse pere ja tuttavatega 
+ka laiemalt. Nii jõuab meie sisemine pingutus ka laiema 
+ringi inimeste ja klientideni.” 
+
+Laura Laid
+Telia andmekaitse valdkonna jurist- valdkonnajuht
+
+KeskkondSotsiaalne mõjuJuhtimisraamistik 
+Hariduslikud programmid 
+
+15
+
+Digitaalse  kaasatuse,  privaatsuse 
+edendasid 2023. aastal mitmed hariduslikud programmid. 
+
+turvalisuse 
+
+ja 
+
+teemasid 
+
+„Women in Tech“ – 
+Telia ümberõppeprogramm 
+
+Naisjuhtide kiirendi  
+
+IT-õpikoda „Noored Koodi“ 
+programmeerimise õpetamise programm  
+
+„Spark Academy“  
+praktikaprogramm kõigile
+
+2023.  aastal  oli  kokku  64  praktikanti  (2022.  aastal  69)  (mehi 
+33, naisi 31), kellest tööle värvati 18%, mis on 8% kogu aasta 
+jooksul värvatute hulgast.
+
+----------------------------------------------------------------------------------------------------------
+
+Cybergrami privaatsuse õppeplatvorm 
+kooliõpilastele 
+
+Naistele, kes soovivad alustada karjääri IT-valdkonnas. 
+
+Osalejad: 
+2022: 50 naist (15 Teliast); 
+2023: 50 naist (10 Teliast). 
+
+viit 
+
+Ümberõppeprogramm e-õppe platvormil Coursera. 
+Hõlmab 
+IT-projektijuhtimine, 
+e-kaubandus. 
+juhtimine. 
+
+küberturvalisus, 
+andmeanalüütika,  UX-disain, 
+
+andmeanalüütika,  UX-disain, 
+ja 
+IT-projekti- 
+
+digiturundus 
+
+valdkonda: 
+
+Koostöös Eesti Kaubandus-Tööstuskoja ning
+Kanada ja Rootsi saatkonnaga. Telia oli kuldsponsor. 
+
+Keskmise  suurusega  ettevõtete  ja  suurettevõtete  naissoost 
+keskastmejuhtidele loodud arenguplatvorm. 
+
+2023. aastal kuulutati välja programmi teine lend.  
+2023.  aastal  kandideeris  programmi  204 
+kolmandast ja erasektorist.  
+
+juhti  avalikust, 
+
+Programmis alustas 25 naist (sh viis Teliast). 
+
+6.–9. klassile
+Telia on programmi toetaja . 
+
+2023. aastal  osales  programmis  8 kooli.  Programmis  alustas 
+2023. aastal  194  õpilast,  kellest  138  (nende  hulgas  ka  4 
+motiveeritud õpilast 5. klassist) läbis kursuse edukalt ja kellele 
+anti Tartu ülikooli tunnistus. 
+
+2022. aastal osales 7 kooli, alustas 160 õpilast, kellest 78 läbis 
+õpikoja tunnistusega. 
+
+----------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------
+
+Programmi on loonud Eesti Inimõiguste Keskus koostöös 
+Telia privaatsuse ekspertidega. 
+
+Malevatöö Telia esindustes 
+
+----------------------------------------------------------------------------------------------------------
+
+2023. aastal  lõime  Telias  koostöös  Andmekaitse  Inspektsiooni 
+ja  Eesti 
+ja 
+turvalisusega seotud õppekeskkonna. 
+
+Inimõiguste  Keskusega  noortele  privaatsuse 
+
+Cybergram  loodi  2023. aasta  sügisel  ja  2023. aasta  lõpuks  oli 
+platvormile jõudnud 8 000 noort.
+
+----------------------------------------------------------------------------------------------------------
+
+Spoofy 
+õpetlik küberkiusu ennetav mäng   
+
+Algkassiõpilastele 
+Mängu arendaja on CGI.  
+Disaini töötas välja Tallinna ülikool Telia toetusel.  
+
+2023. aastal  oli  mängul  18  000  kasutajat  ja  tuli  välja  mängu 
+viies maailm. 
+
+lõpuks  oli  veebiversiooni  kasutanud  üle 
+2021.  aasta 
+26 000 unikaalse  kasutaja.  2022. aastal  tuli  mäng  välja  ka 
+ukraina keeles, lisandus veel 25 000 unikaalset kasutajat. 
+
+16–19-aastastele noortele. 
+
+Malevlasi Tallinnas ja Tartus kokku läbi aastate: 
+2020: 20       2021: 16       2022: 13       2023: 9. 
+
+Malevlased suhtlevad esindustes klientidega – nõustavad neid 
+ja  tutvustavad  iseteeninduse  kasutamise  võimalusi.  Ühtlasi 
+saavad nad Teliast ka laiema ülevaate ja loodame, et kui koolid 
+lõpetatud, leiavad nad tee tagasi Teliasse tööle. 
+
+----------------------------------------------------------------------------------------------------------
+
+Codesters.clubi  
+tehnoloogiaringid gümnasistidele
+
+Telia  toetab  programmi  toimumist  ning  Telia  eksperdid 
+on noortele mentoriteks.
+
+Osavõtjate arv on aasta-aastalt kasvanud 
+2020 – 50       2021 – 150       2022 – 300       2023 – 320.  
+
+Heateo sihtasutuse  
+praktikaporogramm haridusjuhtidele   
+
+Telia  osaleb  programmis  juba  neljandat  järjestikust  aastat. 
+2023. aastal  oli  sarnaselt  eelmisele  kolmele  aastale  Telias 
+kümnenädalasel praktikal kaks koolijuhti, kelle mentoriteks olid 
+kaks Telia Eesti juhtkonna liiget.
+
+----------------------------------------------------------------------------------------------------------
+
+Küberürituste seeria „Cyber Battle of Estonia“ 
+15–24-aastastele noortele
+
+Noortele ja tudengitele. 
+Telia on alates 2023. aastast nimisponsor. 
+
+Tegemist on suurima noortele ja tudengitele mõeldud Baltikumi 
+ja Põhjamaade küberturvalisuse võistlusega. 
+
+2023.  aastal  panime  välja  auhinna  parimale 
+tüdrukute 
+võistkonnale  ning  lõime  võistlejatele  eraldi  Telia  ülesande. 
+Sündmust kanti üle Inspiras. 
+
+Teliast osales võistluste ülekandes tegevjuht Holger Haljand ja 
+žüriiis küberekspert Raivo Malter. 
+
+Lisaks  toimus  Cybercationi  konverents,  mille  peakorraldaja  oli 
+Norden ja CFT ning kus esines ka Spoofy projektijuht.  
+
+„Solaride Academy“  
+koolitusprogramm ja karjääripäev
+endistele ja praegustele solaraideritele  
+
+Telia on Solaride Academy toetaja.  
+
+Telia majas toimus akadeemia 2023. aasta avaüritus, kus osales 
+58 noort. 
+
+KeskkondSotsiaalne mõjuJuhtimisraamistik 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ühiskonnauuringud 
+
+Kampaania „Suurim julgus“  
+järeluuring   
+
+−  2023. aasta kampaania „Suurim julgus“ järeluuringus küsisime 
+laste  ja  noorte  küberkiusuga  kokkupuutumise  kogemuse 
+kohta.  Norstati  paneeluuringus  osales  400  16–65  aastast 
+ja  200  7–16  aastast vastajat.  Laste  ja  noorte vastajate  seas 
+oli  10%  neid,  kes  on  ise  kogenud  küberkiusu  ja  29%  neid, 
+kes  on  küberkiusamist  pealt  näinud.  Võrreldes  2021. aastal 
+tehtud uuringuga on kasvanud kokkupuude ilma loata piltide 
+ja  videote  jagamisega.  Suurenenud  on  küberkius  suletud 
+gruppides (vt jooniseid). 
+
+“Saame  uuringute  põhjal  teha  positiivse  järelduse, 
+et 
+lapsed  on  hakanud  sotsiaalmeedias  vähem 
+negatiivsete  kommentaaridega  kokku  puutuma. 
+Negatiivsena  tuleb  aga  välja,  et  kasvanud  on  väga 
+tõsised 
+ja  kuritegelikud  ohud:  suurenenud  on 
+kokkupuude raha väljapressimise, identiteedivarguste, 
+soovimatu  seksuaalse  sisuga  piltide  saatmise, 
+ahistamise ja diskrimineerimisega. Ühe enam on need 
+ohud peidetud ja leiavad aset suletud gruppides.” 
+
+Elo Võrk
+Telia toetustegevuste juht
+
+16
+
+Laste ja noorte arvates esineb vähem tavapäraseid 
+kiusamise viise ja enam rängemaid vorme 
+Millises vormis küberkiusamist Sinu arvates kõige enam esineb? Märgi kuni 3 vastust. 
+
+Mõnitavate ja alandavate kommentaaride
+kirjutamine sotsiaalmeedias
+
+Inetute või solvavate sõnumite saatmine
+(nt tekstid, pildid või videod)
+
+Kellegi kohta ilma tema nõusolekuta avalikult 
+halvustava sisu saatmine või üleslaadimine
+
+Identiteedivargus, libakontode tegemine
+
+61%
+
+75%
+
+63%
+
+66%
+
+43%
+
+37%
+
+21%
+
+19%
+
+Raha, konto andmete vm väärtusliku
+info väljapressimine
+
+13%
+
+8%
+
+Mittesoovitud seksuaalne sisu:
+sõnumite, piltide, videote postitamine
+
+16%
+
+12%
+
+Grupi suhtlusest või
+tegevusest välja jätmine
+
+28%
+28%
+
+Muu, palun kirjuta
+
+1%
+
+3%
+
+2023
+
+2021
+
+Sihtrühmade arvates liigub küberkius üha 
+enam suletud gruppidesse 
+Millistes kanalites Sinu arvates kõige rohkem küberkiusu esineb?
+
+Sotsiaalmeedia: Facebook, Instagram,
+Snapchat, TikTok, Youtube
+
+78%
+
+76%
+
+Avalikud foorumid,
+vestlusleheküljed internetis
+
+Suletud grupid, chatid
+
+Privaatsed sõnumid
+
+Mängude keskkonnad
+
+40%
+
+52%
+
+36%
+
+27%
+
+27%
+
+23%
+
+19%
+
+15%
+
+Muu, palun kirjuta
+
+3%
+3%
+
+2023
+
+2021
+
+KeskkondSotsiaalne mõjuJuhtimisraamistik17
+
+Ühiskonnauuringud 
+
+IT-turvalisuse uuring   
+
+Küberturvalisuse uuringud 
+
+IT-turvalisuse  uuringuga  analüüsitakse  Eesti  ettevõtete  digi-
+taalsete  tegevuste  põhjalikkust  turva- 
+ja  privaatsusnõuete 
+tagamisel,  näiteks  vältimaks  juhuslikke  lekkeid.  Telia  uuringu-
+partner on Turu-uuringute AS.
+
+Ettevõtete IT-turvalisuse uuringu tulemused: 
+
+−  Väga hea IT-turvalisuse tasemega ettevõtete osakaal on 33%. 
+
+−  Väga või ülioluliseks peavad teemat 64% ettevõtetest. 
+
+−  Töötajate  teadlikkuse  taset  saab  parandada:  vaid  6% 
+ettevõtetest peavad oma töötajate teadlikkust sellest teemast 
+väga heaks. 
+
+−  Rohkem  kui  viiendikul  ehk  21%  ettevõtetest  ei  ole  üldse 
+konkreetseid  spetsialiste,  kes  IT-turvalisusega  tegelevad, 
+ülejäänutes  tegelevad  teemaga  vastavad  spetsialistid  või 
+teenusepakkujad. 
+
+Küberturvalisuse  uuringuga  analüüsitakse  Eesti  ettevõtete 
+valmisolekut tegeleda väliste rünnakutega. Telia uuringupartner 
+on Turu-uuringute AS.
+
+2023.  aasta  küberturvalisuse  uuringu  tulemused  2022. 
+aasta andmete põhjal:  
+
+−  2022. aastal  puutus  küberrünnakute  või  muude  küberturbe 
+ohuolukordadega kokku 55% ettevõtetest, sh 41% ühe korra 
+ja 14% mitu korda. 
+
+−  Kõige levinumad olid petu- või õngitsuskirjad. 
+
+„Kuigi  praeguseks  kasutavad  tuhanded  ettevõtted 
+DdoS-kaitselahendusi  ning  valdav  osa  seda  tüüpi 
+rünnakutest on õnnestunud edukalt tõrjuda, on Eesti 
+ettevõtted võrreldes aasta varasemaga nendega siiski 
+sagedamini  kokku  puutunud.  Sellistest  rünnakutest 
+taastumine  võib  võtta  päevi  ning  nendega  kaasneb 
+sageli ka ulatuslik mainekahju.“ 
+
+−  Pigem  heaks  pidas  oma  töötajate  teadlikkust  44% 
+
+ja 
+
+rahuldavaks 43% ettevõtetest.
+
+Martti Kebbinau
+Telia küberturbeteenuste ja -lahenduste grupijuht
+
+on 
+
+vastanutest 
+
+“Kolmveerandil 
+IT-turvalisust 
+tagavatest  meetmetest  põhinõudmised  täidetud: 
+olemas  on  tulemüür  ja  viirusetõrjetarkvara  kõigis 
+seadmetes, tarkvara uuendatakse ja ettevõtte andmeid 
+varundatakse  süstemaatiliselt  ning  kehtestatud  on 
+juurdepääsuõiguste, isikutuvastuse ja autoriseerimise 
+haldus.  Lisaks  kasutab  56%  ettevõtetest  andmete 
+hoidmiseks  virtuaalserverilahendusi 
+ja  51%  on 
+hinnanud infosüsteemide turvalisust.” 
+
+Martti Kebbinau
+Telia küberturbeteenuste ja -lahenduste grupijuht
+
+2024.  aasta  küberturvalisuse  uuringu  tulemused  2023. 
+aasta andmete põhjal: 
+
+−  2023. aastal  puutus  küberrünnakute  või  muude  küberturbe 
+
+ohuolukordadega kokku 59% ettevõtetest. 
+
+−  Kõige enam probleeme on töötajatega seotud IT-turvalisuse 
+meetmetega.  Kui  64%  ettevõtetest  on  küll  sisse  seadnud 
+paroolipoliitika,  siis  45%  ettevõtetest  ei  ole  kasutusele 
+võtnud ega plaaninud kasutusele võtta seadmete ja andmete 
+kasutamise  korda  kontorist  väljas  ega  avaliku  Wi-Fi  võrgu 
+kasutamise reegleid. 
+
+järjekindlalt  meelde,  et 
+
+„Tuletame 
+igasuguse  IT-
+turvalisuse  tagamine  ei  ole  ühekordne  projekt,  vaid 
+sellele peab keskenduma pidevalt, sest ka rünnakute 
+tegijad õpivad ja arenevad.“ 
+
+Martti Kebbinau
+Telia küberturbeteenuste ja -lahenduste grupijuht
+
+KeskkondSotsiaalne mõjuJuhtimisraamistik18
+
+−  Telia  5G-levi  katab 2023.  aasta oktoobri seisuga 75% Eesti 
+
+elanikkonnast. 
+
+Ligipääsetavus
+
+−  Paigaldasime  Kultuurikatlasse  5G-sisevõrgu,  mida  said  esi-
+mesena  kasutada  innovatsiooni-  ja  tehnoloogiakonverentsi 
+Telia Digital Hub külastajad.
+
+“Hea  meel  on  tõdeda,  et  kui  viimastel  aastatel  on  
+Eesti  olnud  5G-valdkonnas  Euroopas  mahajääjate 
+hulgas,  siis  nüüd  oleme  kiiresti  järele  võtnud  ning 
+teistest mööda tuhisenud. Selle tunnistuseks on meie 
+kiiresti  laienev  5G-leviala.  Praegu  suudame  oma 
+26  GHz  sagedusalas  töötava  5G-tugijaama  poolelt 
+edastada  kiirusi,  mis  ulatuvad  ka  üle  5  Gbit/s,  kuid 
+testimisel  katsetatud  spetsiaalsed  ruuterid  ei  suuda 
+paraku  kogu  seda  potentsiaali  ära  kasutada.  Meie 
+järgmine  ülesanne  ongi  motiveerida  seadmetootjaid 
+sisenema  Euroopa  turule  ning  leida  lõppklientidele 
+sobivad  ruuterid,  mis  suudavad  töötada  26  GHz 
+sagedusalas,  et  hakata  nende  toel  5G  pakutavat 
+potentsiaali veel paremini oma klientideni viima.“ 
+
+Andre Visse
+Telia infrastruktuuriüksuse juht/CTO
+
+“2023.  aastal  tegelesime  Telia  digikeskkondade    ja 
+Telia TV vastavusse viimisega 2025. aastal jõustuvate 
+ligipääsetavuse  nõuetega,  lähtudes  seejuures  (Web 
+Content Accessibility Guidelines – WCAG) standardist. 
+„Üldine fookus 2023. aastal on olnud WCAGi standardi 
+nõuetel.  Otsime  lahendust,  kuidas  neid  nõudeid 
+kõige  mõistlikumalt  rakendada,  et  meie  klientidele 
+väärtust  luua  ja  parandada  teenuste  kasutatavust  ja 
+ligipääsetavust ka erivajadustega inimestele.“ 
+
+Aet Telvik
+Telia ligipääsetavuse projektijuht 
+
+−  Digikeskkondades  tegelesime  sisulehtede  ümberkujun-
+damisega  ja  disainikomponentide  WCAGi  standardile  vas-
+tavusse viimisega.  
+
+−  Teliatv.ee  veebikeskkonna  WCAGi  standardile  vastavusse 
+viimine  jätkub  veel  ka  2024.  aastal.  Inspira  ja  VOD  (video 
+on  demand)  teenuse vaates  on  endiselt  olulisel  kohal  olnud 
+subtiitrid  ja  nende  järkjärguline  parandamine  ning  tootmine, 
+samuti  Telia  TV  kanali  Insipira  vaatest  vaegnägijatele  sisu 
+tarbimise kättesaadavaks tegemine läbi heliliste subtiitrite. 
+
+Sideteenuste kättesaadavus 
+
+Toetame  Telias  oluliselt  digilõhe  
+vähendamist,  pakkudes  tippkvali-
+teediga elektroonilise side teenuseid 
+väga  suurele  hulgale  kasutajaile  üle 
+Eesti ning võimaldades seeläbi Eesti 
+inimestel  ja  ettevõtetel  saada  osa 
+digimaailma  eelistest.  Telia  inves-
+teerib  igal  aastal  oma  võrkude  ja 
+teenuste  arendamisse  ligikaudu  50 
+miljonit eurot. 
+
+Rahvusvaheline  analüüsifirma  Opensignal  võrdles  omavahel 
+sadu maailmas tegutsevaid mobiilsideoperaatoreid. Kaheksast 
+kategooriast kolmes tunnistati parimaks Telia Eesti. Opensignal 
+toob välja, et suurepärase ühtlase kvaliteedi kategoorias mõõ-
+deti  näiteks  seda,  kui  head  kvaliteeti  pakkus  ettevõtte  mobiil-
+sidevõrk  HD-kvaliteedis  videopildi  vaatamiseks,  videokoosole-
+kute pidamiseks ja veebimängude mängimiseks. Kui Telia Eesti 
+saavutas kõnealuses kategoorias mõõdetud skooriks 90,8%, siis 
+globaalne keskmine jäi sellest kaugele maha (65,4%).
+
+3G ja 5G  
+
+−  Telia  2023. aasta  suuremad  optikavõrgu  arendusprojektid  
+toimusid  Tallinnas,  Tartus,  Raplas,  Pärnus,  Kiilis,  Raasikul, 
+Nõos ja Valgas.  
+
+−  2023. aastal  sulgesime  esimese  mobiilioperaatorina  Eestis 
+
+3G-võrgu. 
+
+−  Mobiilivõrgu  kõrval  laiendame  ja  uuendame  pidevalt  ka 
+oma  interneti  püsivõrku.  2024.  aasta  alguse  seisuga  jõuab 
+Telia püsiühenduse (kiirusega 100 Mbit/s või enam) kasuta-
+misvõimalus  Eestis  rohkem  kui  poole  miljoni  ehk  562  000 
+eluruumini.  
+
+−  2023. aasta mais lülitasime Tallinnas sisse oma esimese 26 
+GHz sagedusalas töötava 5G-tugijaama, mille toel saavutati 
+kohe ka mobiilse interneti kiirusrekord. 
+
+KeskkondSotsiaalne mõjuJuhtimisraamistik 
+19
+
+Telia tööandjana 
+
+loome  Telias  keskkonna,  kus 
+Tööandjana 
+kõik  inimesed  tunnevad,  et  nad  on  toetatud 
+panustama julgelt selleks, et muuta üheskoos 
+Eesti  veelgi  paremaks  paigaks,  kus  elada  ja 
+töötada. 
+
+Telias  töötades  saavad  meie 
+inimesed  päriselt  elu  Eestis 
+paremaks  muuta  läbi  Eesti  inimestele  ja  ettevõtetele  turvalist 
+digitaalset  tulevikku  ja  jätkusuutlikku  maailma  luues.  Soovime, 
+et  meie  kompetentsed 
+ja  pühendunud  töötajad  tunneksid 
+end  väärtustatuna,  saades  siin  töötamisest  kasu  nii  tööalaselt 
+arenedes kui ka inimesena kasvades. Selleks pingutame iga päev 
+tugeva väärtuspõhise juhtimise ja organisatsioonikultuuri loomise 
+nimel,  kus  õnnestume  selge  ühise  eesmärgi  nimel  koostööd 
+tehes ja üksteist toetades. Meile on oluline teada, milliseid oskusi 
+eesmärkide  saavutamiseks  vajame  praegu  ja  tulevikus  ning 
+kuidas need tagame. Tahame, et iga meie inimene tunneks rõõmu 
+Telias töötamisest ja soovitaks meid ka tööandjana. 
+
+Tööandjana lubame oma inimestele, et Telias saad teha suure 
+mõjuga tööd, meil on sõbralik ja toetav kultuur ning arvukalt 
+võimalusi areneda. 
+
+Töötajate statistika  
+
+−  Telia pakkus 2023. aastal Eestis tööd 1 519 inimesele kokku 
+
+33 asukohas üle Eesti.  
+
+−  Telia töötajate keskmine tööstaaž oli 2023. aastal 12 aastat. 
+
+Ühisüritused 
+
+Loe  ühisürituste  kohta  ka  keskkonna-  ja  digitaalse  kaasatuse 
+ning turvalisuse peatükkidest, kus kajastuvad temaatilised sünd-
+mused ja koolitused Telia töötajatele. 
+
+−  Töötajate  kaasamiseks  oleme  loonud  läbi  aasta  kestva  üri-
+tuste sarja “Koosonlahe”. Sarja eesmärk on pakkuda kõigile  
+Telia  töötajatele  arendavat  ja  meelelahutuslikku  sisu  ning 
+võimalusi  kokku  tulla,  et  meil  säiliks  ettevõttes  kokkukuulu-
+vustunne. #koosonlahe kaudu tõime töötajateni muuhulgas 
+sellised teemad nagu rahatarkus, investeerimine, ajajuhtimine, 
+keskkonnakaitse,  küberturve,  AI,  enesejuhtimine  ja  vaimne  
+tervis,  lisaks  ka  veidi  nalja  Comedy  Estonialt.  Sarja  sünd-
+mused  üldjuhul  salvestatakse  ning  nii  on  kõigil  töötajatel 
+
+Kõik kokku
+
+Vanus
+
+Sugu
+
+Alla 26
+
+26-50
+
+Üle 50
+
+Mehed
+
+Naised
+
+Töötajad
+
+Keskastmejuhid
+
+Tippjuhtkond
+
+Alla 3-aastase
+lapsega töötajad
+
+Kokku
+
+1482
+
+27
+
+10
+
+225
+
+1519
+
+106
+
+1049
+
+327
+
+16
+
+9
+
+11
+
+1
+
+106
+
+1074
+
+339
+
+Võrreldes 
+2022 aastaga
+
+-66 
+inimest
+
++26
+üle 50
+
+778
+
+15
+
+5
+
+113
+
+798
+
+704
+
+12
+
+5
+
+112
+
+721
+
+naiste
+osakaalu kasv
+juhtide hulgas
+
+võimalus nendest tööajast ja -graafikust olenemata osa saa-
+da.  Lisaks  võtsime  aasta  kokku  oma  töötajate  korraldatud 
+majapidudega  meie  kolmes  suuremas  asukohas  Tallinnas, 
+Tartus ja Pärnus. 
+
+−  Suurimaks  Telia  inimesi  2023. aastal  kokku  toonud  sünd-
+museks  oli  9. juunil  toimunud  töötajate  suvegala  „ELU/
+ILU  2023“.  Telia  töötajate  suvegala  eesmärk  on  kutsuda  
+korra  aastas  kokku  terve  ettevõtte  tööpere,  et  professio-
+naalse,  meelelahutusliku  ja  sisutiheda  programmi  saatel 
+üheskoos kvaliteetaega veeta. Samuti soovime sündmusega 
+kasvatada töötajate seas ühtekuuluvustunnet ning tänada ja 
+märgata  kõiki,  kes  ettevõtte  õnnestumisse  iga  päev  panus-
+tavad – see tähendab kogu meie tööpere. 
+
+−  Sündmusel osales rekordarv inimesi: ligi 1 000 töötajat (70% 
+kogu Telia Eesti töötajatest), mis näitab, et inimesed tahavad 
+koos aega veeta ning ettevõtte pakutav on inimestele oluline.  
+
+−  Ühine metsaistutamine on saanud traditsiooniks. 
+
+−  2023. aasta septembris istutasime 800 puud Raplamaale, 
+
+Põlliku külla. 
+
+−  Kokku osales 60 Telia töötajat. 
+
+−  Puud istutati eramaale, kus neid hooldab edasi Vestman 
+
+Grupp.
+
+Võrdsed võimalused ja igaühega 
+arvestamine 
+
+Seisame Telias selle eest, et kõiki inimesi – nii meie töötajaid kui 
+ka  kliente  –  koheldaks võrdselt  hästi.  Soovime,  et  igaühel  oleks 
+võimalus olla alati kaasatud ja tunda ennast vabalt just sellisena, 
+nagu  ta  on.  Tööandjana  väärtustame  kõrgelt  oma  inimesi  ja 
+soovime, et tööelu sobituks hästi iga meie töötaja elu tervikusse. 
+Selle  toetuseks  on  välja  kujunenud  mitmed  meie  traditsioonid, 
+ning  pakume  ka  hüvesid 
+ja  soodustusi,  mis  võimaldavad 
+mõistlikku paindlikkust töösuhetes, toetavad tervist ja perekonda 
+ning inimese arengut nii töötaja kui ka isiksusena.   
+
+Meie eesmärgid on: 
+
+100%  
+
+võrdsed võimalused kõigile, soost olenemata; 
+
+50/50 
+
+sooline tasakaal üle kogu organisatsiooni: 
+kõikides tööperedes ja kõikidel tasemetel;  
+
+0% 
+
+palgalõhe ning diskrimineerimis- ja 
+ahistamisvaba töökeskkond.
+
+KeskkondSotsiaalne mõjuJuhtimisraamistik 
+ 
+ 
+Telia tööandjana 
+
+Palgalõhe teadvustamine ja 
+lahendamine   
+
+−  Telia Eesti sooline palgalõhe (kõikide meestöötajate keskmise 
+palga erinevus kõikide naistöötajate keskmisest palgast) on 
+2023. aastal  20,4%  (2022.  aastal  21%).  Selle  põhjuseks  on 
+struktuurne olukord: naiste suurem esindatus on madalamalt 
+tasustatud tugistruktuurides ja meeste suurem osakaal jällegi 
+kõrgemalt tasustatud rollides tehnoloogias.  
+
+Lisaks oleme kehtestanud järgmised reeglid: 
+
+Töö ja pereelu ühendamine  
+
+Paindlik töökorraldus 
+
+20
+
+−  Kandideerimisel  soovime  näha  lõppvoorus  erinevast  soost 
+
+kandidaate; 
+
+−  Juhtide  osakaal  peab  peegeldama  üldist  soolist  tasakaalu 
+
+(eesmärk 50/50); 
+
+− 
+
+juhtide  koolitamine  kaasava  värbamise  teemadel:  eesmärk 
+koolitada 2023. aasta lõpuks 100% juhte (2023. aastaks on 
+täidetud 98% eesmärgist); 
+
+Märtsis toimus „Lapsed tööle kaasa“ päev, kus osales 53 töötajat 
+ja 92 last. 
+
+Tööd on võimalik teha lisaks kodukontorile ja teistele Telia konto-
+ritele üle Eesti ka teistest Euroopa Liidu riikidest.  
+
+„Alustasime  peresõbraliku  ettevõtte  märgise  taotle-
+misega  ja  protsessi  käigus  kogutud  info  alusel  leiab 
+84% töötajatest, et neil on hea töö ja pereelu tasakaal.“
+
+Ingrid Viinapuu
+Telia personalidirektor 
+
+−  Välismaal töötamise võimalust kasutas 2023. aastal kokku 55 
+töötajat 82 korral, sh 16 töötajat töötas välismaal aasta jook-
+sul rohkem kui ühel korral.  
+
+−  Keskmiselt töötati välismaal 15 päeva ja riikidest olid popu-
+
+laarseimad sihtkohad Hispaania, Itaalia ja Portugal. 
+
+−  Sooline  tasakaal  2023.  aastal  on:  44%  naisi  ja  56%  mehi.  
+Võrreldes 2022. aastaga on naiste osakaal sarnasel tasemel: 
+
+−  palga ülevaatustel soolise võrdsuse jälgimine.
+
+−  Juhtide  sooline  tasakaal  on:  48%  naisi  ja  52%  mehi.  
+Naisjuhtide arv on võrreldes 2022. aastaga tõusnud 2%; 
+
+Ligipääsetavus 
+
+−  Telia tippjuhtkonnas on naisi ja mehi võrdselt (50/50);
+
+−  Tehnoloogiavallas  tegutsevate  naiste  osakaal  on  2023.  
+
+aastal tõusnud 20%-lt 25%-le. 
+
+Kontorites  töökeskkonna  loomisel  arvestame  ka  töötajate  eri-
+vajadustega. Näiteks on meie kontorites liftid ja piisava laiusega 
+uksed,  töölaudade  kõrgust  on  võimalik  reguleerida  jne.  Samuti 
+võimaldame inimestel töötada osalise töökoormusega, et toetada 
+töö ja isiklike vajaduste tasakaalus hoidmist. 
+
+Meie tegevused palgalõhe vähendamiseks ja soolise tasakaa-
+lu saavutamiseks on järgmised:  
+
+Mitmekesisuse kuu ja Baltic Pride 
+
+Tulemused:
+
+Oleme  ellu  kutsutud  mitu  programmi,  mis  loovad  naistele  tu-
+givõrgustikku ja koolitusi, et neil oleks võimalus edasi liikuda teh-
+noloogiavaldkonda ja/või juhirolli: 
+
+Mitmekesisuse  kuul  toimusid  koolitused  töötajatele  kaasatuse 
+ja  võrdsuse  ning  ligipääsetavuse  teemadel.  Telia  toetas  Baltic 
+Pride’i  konverentsiks  antavate  ruumide  ja  ülekandega.  Esimest 
+korda Eestis läksid Telia töötajad ühiselt Pride’i rongkäigule.  
+
+−  Women in Tech, 2023 – alustas programmi teine lend, kus 
+
+osales 50 naist, kelles 10 olid Teliast. 
+
+Toimunud koolitused: 
+
+−  Naisjuhtide kiirendi programm – kiirendis on kokku 25 naist, 
+
+−  „Ligipääsetavus“, koolitaja Jakob Rosin, kuulajate arv 247 
+
+kellest 5 on Teliast. 
+
+−  Lisaks lahendavad naiste osakaalu suurendamist meie toe-
+tatud algatused: Solaride Akadeemia, praktikaprogrammid 
+ja IT-klubi. Mõõdame soolist tasakaalu ka praktikantide puhul. 
+2023.  aastal  oli  Telias  kokku  64  praktikanti,  kellest  31  olid 
+naised ja 34 mehed. 
+
+−  2023. aasta  novembris  toimus  Telias  koostöös  Bolti,  Birkle 
+IT,  Targa  Töö  Ühingu  ja  Playtechiga  karjääripäev  „Naised  
+tehnoloogias“.  Kohapeal  osales  ligikaudu  150  ja  ülekannet 
+jälgis 40 000 inimest. 
+
+−  „Mitmekesisusest,  võrdsusest  ja  kaasatusest“,  koolitaja 
+
+Sotsiaalmeedikud, kuulajate arv 355 
+
+−  „Pride’i  ajalugu  „Häbist  uhkuseni,  Pride’i  ABC“,  koolitaja  
+
+Taavi Koppel, osalejate arv 250 
+
+−  Kultuurilõuna koostöös Ukraina kultuuriseltsiga, osalejate 
+
+arv 50 
+
+−  Telia majas toimus Pride’i konverents, kohapeal ja üle inter-
+
+neti osales 365 inimest
+
+86%  
+
+Töö ja eraelu tasakaaluga rahulolu 
+2023. a 86% (2022, 87%)
+
+83%  
+
+Töötajate õnnelikkuse indeks 
+2023. a 83% (2022, 82%) 
+
+84%  
+
+Töötajate üldine heaolu 
+2023. a 84% (2022, 78%)
+
+97%  
+
+Rahulolu otsese juhiga 
+2023. a 97% (2022, 95%) 
+
+KeskkondSotsiaalne mõjuJuhtimisraamistikTöötingimused, töökorraldus, 
+töötajate heaolu 
+
+Töötajate rahulolu mõõtmine    
+
+võib olla ennustamatu, see väljendub individuaalselt, 
+mitte kogu organisatsiooni tasandil ühtselt.“
+
+21
+
+Kaks  korda  aastas  küsime  töötajatelt  Telia  Company  grupiüleses 
+pühendumuse uuringus tagasisidet nii töökeskkonna, juhtimise kui 
+ka muude tööga rahulolu ja õnnetundega seotud teemade kohta.
+
+„Nii  pühendumuse  uuringu  osalejate  arv  kui  ka 
+uuringute  tulemused  olid  2023. aastal  stabiilselt 
+kõrged:  osalemise  määr  92%,  positiivsete  vastuste 
+osakaal  küsimusele  „Kui  õnnelik  sa  Telias  töötades 
+oled?“ 91%.“
+
+Ingrid Viinapuu
+Telia personalidirektor
+
+−  Samuti  osalesime  portaali  Peaasi.ee  ellukutsutud  organi-
+satsioonide  emotsionaalse  enesetunde  küsitluses,  mis 
+andis  igale  vastajale  ülevaate  oma  vaimse  tervise  seisust 
+ja  organisatsioonile  tervikuna  ülevaate  töötajate  vaimse 
+tervise  hetkeolukorrast.  2023.  aasta  Telia  tulemused  olid 
+uuringu  keskmistega  võrreldes  positiivsemad,  st  vastanud 
+inimeste  vaimne  tervis  oli  keskmisest  parem.  Kasutasime 
+ja  vaimse  tervise  vitamiiniprogrammi 
+uuringu  tulemusi 
+arengunädalal,  et  pöörata  organisatsioonis 
+teadlikult 
+töökeskkonnas 
+tähelepanu  vaimse 
+ning  pakkuda  töötajatele  teadmisi  oma  vaimse  tervise 
+hoidmiseks.  
+
+raskustele 
+
+tervise 
+
+−  Tegime uuringu koostöös Rakendusliku Antropoloogia Kes-
+kuse ja Kogo galeeriga, et uurida kunsti mõju töötajatele ning 
+hinnata organisatsiooni kultuuri kvalitatiivsete meetoditega. 
+Projekti  käigus  toodi Tallinna  ja Tartu Telia  majja  perioodil 
+juuni–detsember  2023  mitmesuguseid  kunstitöid,  mille 
+mõju hinnati vaatluse ja 25 töötajaga tehtud intervjuu kaudu. 
+
+„Enne  projekti  algust  meie,  antropoloogid,  muret-
+sesime,  et  milliste  mõõdikutega  mõõta  kunsti  mõju 
+töökeskkonnale ning mis juhtub siis, kui need uuringu 
+lõpuks muutust ei kajasta? Uuringu läbiviimisel jõud- 
+sime  me  ikka  ja  jälle  sinna,  et  kunst  peegeldab 
+emotsionaalset ja hingelist osa inimesest ning seda ei 
+saagi  alati  täpsete  mõõdikutega  mõõta.  Kunsti  mõju 
+
+Karina Vabson
+Rakendusliku Antropoloogia Keskuse antropoloog
+
+„Projekt  oli  Kogo  galeriile  väga  oluline,  kuna  saime 
+väärt kogemuse kunsti näitamisel väljaspool galeriid. 
+Meil  on  hea  meel,  et  Telia  oli  julge  jäämurdja  ja 
+katsetas Eestis veel mitte levinud koostöövormi, mille 
+tulemust on ka keeruline kvantitatiivselt mõõta. Ühe 
+tulemusena nägime, et kunst suunas inimesi loovuse 
+üle mõtlema ja mul on hea meel, et Telias nähti seda 
+tugevusena, mitte nõrkusena.“
+
+Liina Raus
+Kogo galerii galerist
+
+Ohuolukorrad ja tööõnnetused      
+
+−  Ohuolukordi  registreeriti  17:  ohuolukorrad  (ohtlik  ala, 
+märgistamata  pind)  ning  esmaabi  (puudus  koolitatud 
+esmaabiandja  või  vahendid).  Samuti  oli  puudusi 
+heaoluteemadest teadlikkusega. Leidus inimesi, kes ei olnud 
+kursis tervise ja heaolu pakkumistega ega osanud neid leida. 
+Töötingimuste  vaates  tuvastasime  puudusi  valgustuses, 
+sisekliimas  ja  potentsiaalsete  hädaolukordadega  seoses 
+(evakuatsioonituli ei põlenud, tulekustutid olid kontrollitud, 
+aga puudusid vastavad märgised).  
+
+−  2023.  aastal 
+
+just  tehnikutega 
+
+juhtus  neli  tööõnnetust,  mis  on  kaks 
+tööõnnetust vähem kui 2022. aastal. Nagu ka 2022. aastal 
+juhtusid  tööõnnetused 
+ja  väljaspool 
+Telia  kontrolli  all  olevat  territooriumit.  Kolm  tööõnnetust 
+olid  rasked  ehk  töötajatel  oli  luumõra  (kukkumised)  ja 
+üks  tööõnnetus  oli  kerge.  Kõiki  tööõnnetusi  on  uuritud 
+ja  menetlused  lõpetatud.  Tööõnnetustest  anti  ülevaade 
+vastavale  tööperele,  et  edaspidi  samalaadseid  õnnetusi 
+ennetada.  
+
+KeskkondSotsiaalne mõjuJuhtimisraamistik 
+22
+
+Töötingimused, töökorraldus, 
+töötajate heaolu 
+
+Tervisekäitumine 
+
+−  Telia töötajatest 60% on Telia Spordiklubi liikmed (2022. a 
+52%). Telia Spordiklubi eesmärk on klubi liikmetele üle Eesti 
+spordiga  tegelemiseks  soodsate  tingimuste  loomine,  vaba 
+aja  sisuka  ja  sportliku  veetmise  korraldamine  ning  spordist 
+huvitatud  inimeste  ühendamine.  Eesmärgi  saavutamiseks 
+organiseerib  Telia  Spordiklubi  liikmetele  soodustingimustel 
+treenimisvõimalusi,  korraldab  spordivõistlusi  ja  üritusi  ning 
+toetab  klubi  esindusvõistkondi  ja  -sportlasi  firmaspordi  jmt 
+üritustel osalemisel. Näiteks saavad spordiklubi liikmed kord 
+nädalas tasuta kas ujuda, jõusaalis käia või siis soodsamatel 
+tingimustel eri spordialasid harrastada. 
+
+−  Telia  töötajad  käisid  2023.  aastal  kuus  keskmiselt 
+massaažis  355  korda,  mis  on  22%  rohkem  kui  2022. 
+aastal. Massaažiteenus on olemas meie suuremates majades 
+kohapeal  või  siis 
+juures 
+üle  Eesti.  Teenuse  eest  tasub  osaliselt  tööandja.  Samuti 
+on  meie  suuremates  kontorites  töötajatele  kasutamiseks 
+massaažitoolid. 
+
+lepinguliste  koostööpartnerite 
+
+−  Vaimse  tervise  spetsialisti  külastusi  oli  2023.  aastal  15% 
+
+vähem kui 2022. aastal (kuus umbes 32 külastust). 
+
+−  Tervisekontrollid  läbiti  2023.  aastal  õigel  ajal  97%  korral 
+
+(2022. a 91%). 
+
+mitmed meie traditsioonid, ning pakume ka hüvesid ja 
+soodustusi, mis võimaldavad mõistlikku  paindlikkust 
+töösuhetes,  toetavad  tervist 
+ja  perekonda  ning 
+inimese arengut nii töötaja kui ka isiksusena.“
+
+Ingrid Viinapuu
+Telia personalidirektor
+
+Tunnustused tööandjale 
+
+Mitmekesisuse  märgis 
+pikendamist). 
+
+(2024.  aastal 
+
+taotleme  märgise 
+
+Kantar Emor tööandjate maine uuringud: 
+
+−  Töötavate inimeste pingerea 6. koht (2022. aastal 8. koht); 
+−  Tudengite pingerea 7. koht (2022. aastal 9 koht); 
+− 
+
+IKT sektori pingerea 6. koht (2022. aastal 5. koht). 
+
+CV Keskuse Eesti ihaldusväärseima tööandja uuring: 
+
+−  Üldarvestuse 3. koht;
+− 
+
+Info- ja kommunikatsioonitehnoloogia tööandjate lõikes 1. 
+koht.
+
+−  Haigustundide määr oli 2023. aastal 2% (2022. a 2,3%).
+
+CV Online-i uuring “Top Tööandja Eestis”: 
+
+Hüved ja soodustused      
+
+Et  olla  atraktiivne  tööandja  erinevate  vajaduste  ja  väärtus-
+hinnangutega ning eri vanuses töötajate seas, on meie soodus-
+tused jagatud nelja põhikategooriasse: 
+
+−  kindlustus ja pension; 
+−  tervis ja heaolu; 
+−  tasakaal töö ja isikliku elu vahel; 
+−  töö ja areng. 
+
+„Pean  väga  oluliseks  ühtset  arusaama  ettevõttes 
+kehtivatest soodustustest ja leian, et see on meie edu 
+võti.  Tööandjana  väärtustame  kõrgelt  oma  inimesi 
+ja  soovime,  et  tööelu  sobituks  hästi  iga  meie  töötaja 
+elu  tervikusse.  Selle  toetuseks  on  välja  kujunenud 
+
+−  Top of mind kategooria 3. koht; 
+− 
+
+ja 
+
+Infotehnoloogia 
+lõikes 1. koht. 
+
+telekommunikatsiooni 
+
+tööandjate 
+
+Instar Atraktiivse tööandja uuring: 
+
+IT tudengite arvestuse 18. koht; 
+
+−  Kogenud tööandjate arvestuse 9. koht;
+− 
+−  Majandustudengite arvestuses 11. koht; 
+−  Kutsekoolide arvestuses 10. koht. 
+
+−  Peaasi.ee  Vaimset 
+
+tervist  väärtustava  organisatsiooni 
+
+kuldmärgis. 
+
+−  Kantar EMOR Eesti suurettevõtete maineuuringu 3. koht.
+
+KeskkondSotsiaalne mõjuJuhtimisraamistik  
+23
+
+Juhtimis- 
+raamistik
+
+Telia  missioon  on  panustada  ühiskonna  aren-
+
+gusse, et Eesti oleks parem paik nii elamiseks kui ka 
+töötamiseks. See on võimalik vaid jätkusuutlikkuse 
+põhimõtete järgi tegutsedes.
+
+KeskkonnateguridSotsiaalne mõjuJuhtimisalased tegurid24
+
+Jätkusuutlikkuse kolmikmõõtme 
+(ESG) strateegiline juhtimine 
+
+Jätkusuutlikkus  ehk  kestlikkus  on  kujunenud 
+loomulikuks  osaks  nii  Telia  strateegiast  kui 
+ka meie juhtimisraamistikust. Oleme olulistes 
+jätku-suutlikkuse  valdkondades 
+seadnud 
+selged  eesmärgid,  määranud  vastutajad  ja 
+pannud  kokku  tegevusplaanid  seatud  sihtide 
+ellu-viimiseks.  
+
+Oleme  kokku  leppinud  meie  jaoks  kolm  kõige  olulisemat 
+jätkusuutlikkuse mõjuvaldkonda.  
+
+1) KESKKOND JA RINGMAJANDUS;
+
+2) DIGITAALNE KAASATUS; 
+
+3) PRIVAATSUS JA TURVALISUS. 
+
+Juhtimisraamistik ja ühised 
+väärtused 
+
+−  Oleme  juba  palju  aastaid  hinnanud  ja  suunanud  peamiste 
+jätkusuutlikkuse  mõjuvaldkondade  tegevust,  selles  vallas 
+seatud eesmärkide suunas liikumist ja võimalikke riske selge 
+juhtimisraamistiku  ehk  igakvartaalsete  GRECi  koosolekute 
+kaudu  (Governance,  Risks,  Ethics  and  Compliance).  Neil 
+koosolekutel osalevad nii nõukogu kui ka juhtkonna liikmed.  
+
+−  Lisaks eelolevale on Telia jätkusuutlikkuse eesmärgid alates 
+2023.  aastast  ka  osaks  nõukogu  regulaarsest  äritulemuste 
+ülevaatusest.
+
+“Kestlikkuse  eesmärgid  on  meie  jaoks  sama  olulisel 
+kohal  nagu  näiteks  võrgukvaliteeti,  kliendikogemust 
+või  finantstulemusi  puudutavad  juhtimismõõdikud. 
+Läbi  strateegia  ja  eesmärkide  on  Telia  juhtidel  läbiv 
+roll  jätkusuutlikkuse  edendamisel  nii  äriprotsesside 
+kujundamise  kui  muude  juhtimisotsuste  tegemise 
+kaudu.” 
+
+Kristiina Maasik
+Telia juriidilise üksuse ja  
+jätkusuutlikkuse valdkonna juht 
+
+Töötajate kaasamine 
+
+Selleks  et  jätkusuutlikku  tegevusse  panustaks  võimalikult  suur  
+osa  Telia  töötajatest  ja  igaüks  saaks  anda  õnnestumisse  oma 
+panuse,  soovitame  igaühel  seada  tööalase  jätkusuutlikkuse 
+eesmärgi. 2023. aastal tegid seda juba enam kui pooled (56%) 
+Telia töötajatest. 
+
+Väärtused 
+
+Telia kultuuri oluliseks osaks on lisaks kliendikesksele mõtteviisile 
+ka  meie  väärtused  DARE,  CARE,  SIMPLIFY.  2023.  aastal 
+värskendasime  väärtusi,  et  need  oleksid  kõikidele  meie 
+töötajatele  senisest  veel  selgemini  mõistetavad  ja  praktiliseks 
+suunanäitajaks.  Selleks  et  need  väärtused  saaksid  igaühele 
+veel  omasemaks  ja  mõtestamaks  senisest  veel  selgemini  lahti 
+väärtuste  tähendus  igapäevaelus,  korraldasime  2023.  aastal 
+kultuuriteemalised  töötoad.  Neis  osales  üle  82%  Telia  Eesti 
+töötajatest.
+
+KeskkondSotsiaalne mõjuJuhtimisraamistik 
+nipid ja nutika õpetamise ABC leiab igaüks lihtsalt ja igal 
+ajal  Telia  kodulehelt.  Kuna  internetiteenuste  pakkumine 
+on  meie  põhitegevus,  on  sellel  digilõhe  vähendamisele 
+ja küberturberiskide maandamisele suunatud sotsiaalsel 
+algatusel olemas selge seos meie ettevõttega.  
+
+Vaata rohkem “Õpi ja õpeta - Juhendid”
+
+−  2023.  aastal  korraldasime  ka  kestlikkusaruandluse  (CSRD) 
+põhimõtetest  lähtuva  esimese  kahese  olulisuse  hindamise. 
+Soovime  olla  hästi  valmis  kestlikkusaruandluseks  ja  mõista 
+senisest  veel  selgemini  seda,  millised  on  kõige  olulisemad 
+valdkonnad,  kus  mõjutame  oma  tegevusega  keskkonda 
+ja  ühiskonda  või  mille  osas  mõjutab  väline  keskkond  või 
+ühiskondlik vaade Telia äritegevust. 
+
+−  2023.  aastal  alustasime  ka  ettevalmistusi  kestlikkus-
+ja  sellega 
+aruandluse  nõuetele  vastavuse  tagamiseks 
+seotud  transformatsiooniprotsessiks  valmistumiseks.  Telia 
+Eesti  osaleb  kontserniüleses  raporteerimises 
+loodud 
+on  ka  grupiülene 
+raporteerimisprojekt.  Lisaks  oleme 
+loonud  kohaliku  projektitiimi  ja  koostanud  teekaardi  ESGi 
+raporteerimiseks vajaliku sisemise võimekuse edendamiseks 
+ning senisest veel suurema läbipaistvuse suunas liikumiseks.
+
+ja 
+
+Mõju ja arengu strateegiline 
+juhtimine 
+
+Mõju mõõtmine ja teadvustamine    
+
+−  Vastutustundliku  ettevõtluse  indeks:  2023.  aastal  täitsime 
+Vastutustundliku  Ettevõtluse  Foorumi  (VEF)  korraldatavat 
+vastutustundliku  ettevõtluse 
+indeksit  ning  saavutasime 
+Indeksi  metoodika  on  üles  ehitatud  ESG 
+kuldtaseme. 
+põhimõttel.  Telia  saavutas  kõrge  punktiskoori  kõikides 
+ESG  kategooriates  (1.  kliima  ja  keskkond  (E),  2.  ühiskond  ja 
+sotsiaalne keskkond (S), 3. head juhtimistavad (G)). Seejuures 
+näitasid  meie  tulemused,  et  oleme  kõige  kõrgemal  tasemel 
+just  heade  juhtimistavade  rakendamise  kategoorias  ja  Telia 
+sai selles kategoorias ka eriauhinna.  
+
+−  VEFi  indeksi  tagasisides  tõid  hindajad  keskkonnatee-
+made  osas  positiivsena  välja,  et  seatud  on  konkreetsed 
+eesmärgid  ja  neid  jälgitakse  läbi  indikaatorite.  Esile  too-
+di  asjaolu,  et  ka  allhankijate  keskkonnamõju  juhitakse 
+teadlikult ja süsteemselt. Sotsiaalse ja ühiskondliku mõju 
+valdkonnas  märgiti,  et Telias  on  nii  töötajate  õiguste  kui 
+ka  inimõiguste  järgimine  nii  eesmärkidesse  kui  ka  stra-
+teegilistesse  suundadesse  selgelt  sisse  kirjutatud.  Juhti-
+mistavade osas tunnustati, et organisatsioonis on selged 
+põhimõtted koostööpartnerite valikul (nii toetustegevuste 
+partnerite valikul kui ka loomulikult hankijate puhul). 
+
+−  Kokkuvõttes  leidsid  hindajad,  et  Telia  on  enda  jaoks 
+väga  hästi  lahti  mõtestanud  erinevad  ESG  aspektid  ja 
+selle,  milline  on  ettevõtte  ühiskondlik  jalajälg  ning  läbi 
+milliste tegevuste saab seda vähendada. Lisaks sellele on 
+seatud konkreetsed eesmärgid ning mõõdikud, läbi mille 
+järgitakse jätkusuutlikkuse teekonna progressi. Positiivne 
+on  tihe  koostöö  tarnijate  ja  allhankijatega  kliimamõjude, 
+sh  emissioonide  vähendamisel.  Kuna  VEFi  indeks  on 
+arengutööriist, andsid hindajad ka asjatundlikke soovitusi 
+edasiseks.  Arengukohana  toodi  esile  näiteks  vajadust 
+panna edaspidi rohkem rõhku sotsiaalsele aspektile ning 
+siduda seda senisest enam ettevõtte põhitegevusega. 
+
+−  Saadud  tagasisidet  oleme 
+
+juba  kasutanud  praktikas 
+jätkame  sellega  ka  2024. aastal.  2023. aastal  oli 
+ja 
+üheks  konkreetseks  esimeseks  sammuks  vanemaealiste 
+digioskuste  edendamisele  suunatud 
+jõulukampaania. 
+Muu  hulgas  loodi  Telia  Online’i  abisse  ka  tööriist,  mis 
+annab  head  nõu,  kuidas  eakaid  lähedasi  digioskuste 
+teemal  nutikalt  juhendada.  Lisaks  anname  nõu,  kuidas 
+vältida digikeskkonnas tegutsedes küberturberiske. Head 
+
+25
+
+Eetilisus ja läbipaistvus
+
+Poliitika ja arengudokumendid 
+
+Korruptsiooni tõkestamine 
+
+−  Vastutustundliku  äri  heade  juhtimistavade  üheks  osaks  on 
+ka selgete juhiste ja reeglite olemasolu ning nende järgimine 
+igapäevaelus. Kõige olulisemad Telia juhtimistavad ja poliitika 
+leiab igaüks meie kodulehelt Meie lugu - Telia. 
+
+−  Telia  igapäevategevuse  oluliseks  osaks  on  vastutustundliku 
+
+äri juhend, mida 2023. aastal ka uuendasime. 
+
+Vaata rohkem “Telia vastutustundliku äri juhend”
+
+ja  ausa  tegevuse  kompass,  olles 
+Juhend  on  eetilise 
+järgimiseks  kohustuslik  nii  Telia  töötajaile  kui  ka  hankijatest 
+koostööpartneritele. 
+
+“Vastutustundliku äri juhend on osaks uute töötajate 
+teavituskirjast  ning  sisseelamiskoolitusest.  Sel  moel 
+tagame, et vastutustundliku äri põhimõtete järgimise 
+olulisus ja nende sisu on igale uuele Teliale töötajale 
+teada alates esimesest tööpäevast.” 
+
+Anette Soosaar
+Telia jurist, eetika- ja vastavuskoordinaator 
+
+loodud  koolitus- 
+
+Üheks  vastutustundliku  äri  oluliseks  osaks  on  ka  altkäemaksu 
+ja  korruptsiooni  tõkestamine.  Altkäemaksu 
+ja  korruptsiooni 
+vältimise  põhireeglid  on  kirjas  eeltoodud  vastutustundliku  äri 
+juhendis  ja  lisaks  on  kehtestatud  antud  valdkonna  detailsem 
+juhend  ning 
+ja  kommunikatsiooniplaan. 
+Altkäemaksu  ja  korruptsiooni  vältimise  programmi  eesvedajaks 
+on eetika- ja vastavuskoordinaator. Lisaks kõigile kohustuslikule 
+e-koolitusele 
+ka  mitmesugustele 
+lisakoolitusi 
+olulisematele  sihtrühmadele  ning  avaldame  selle  teema  kohta 
+infomaterjale meie siseveebis. Koostame igal aastal altkäemaksu 
+ja  korruptsiooni  vältimise  riski-  ning  küpsushinnangu,  kus 
+analüüsime  riske  eri  valdkondades.  Võtame  need  aluseks 
+järgneva aasta tegevusplaani koostamiseks.  
+
+teeme 
+
+Huvide konflikti vältimine 
+
+Läbipaistvuse  ja  eetilise  käitumise  tagamiseks  on  oluline  ka 
+iga-aastane  kohustuslik  huvide  konfliktide  ülevaatamise 
+ja 
+teavitamise  protsess,  kus  iga  töötaja  peab  hindama,  kas  tema 
+töös võib tekkida huvide konflikt ja sellise riski olemasolul selle 
+deklareerima.  Just  sel  moel  saame  ennetada  olukordi,  milles 
+huvide konflikti riskiga töötaja osaleb mõnes otsustusprotsessis 
+olukorras, kus huvide konflikt võib asuda tema otsuseid kallutama 
+ja kahjustada ettevõtte huve. 
+
+Anonüümse tagasiside andmise 
+võimalus 
+
+Rikkumiste 
+ja  eksimuste  ennetamiseks  peame  oluliseks 
+väärtuspõhise,  avatud  ja  kõrge  psühholoogilise  turvalisusega 
+kultuuri  kujundamist.  Ühtlasi  on  tähtis  seegi,  et  töötajail  oleks 
+lisaks  sisemistele  eksimustest  või  rikkumistest  teavitamise 
+võimalustele  (ehk  enda  juhile,  personalijuhile,  eetikavaldkonna 
+eksperdile  teatamisele)  olemas  ka  anonüümse  teavitamise 
+võimalus. Kuigi Eestis ei ole nn vilepuhumise seadus veel vastu 
+võetud, on Telia töötajaile juba aastaid olemas vastav teavitusliin 
+(Whisteblowing Line’i), mille olemasolu kohta tegime 2023. aasta 
+lõpus ka töötajaile täiendava tutvustuse.  
+
+KeskkondSotsiaalne mõjuJuhtimisraamistik 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vastutustundlikkus 
+maksustamisel 
+
+Tunnustused ja 
+sertifikaadid 
+
+26
+
+Telia Eesti on üks Eesti suuremaid maksumaksjaid ja panustame 
+seeläbi  ka  Eesti  majanduse  ja  ühiskonna  arengusse.  Peame 
+finantsläbipaistvust ja korrektset maksukäitumist väga oluliseks. 
+Oleme  koostanud  selle  tagamiseks  ka  hulga  kontsernisiseseid 
+juhendeid.  Maksukäitumise  vaatest  iseloomustas  2023. aastat 
+seegi,  et  riik  tõstis  käibemaksumäära.  Seetõttu  pidime  alates 
+01.01.2024 rakendama uut senisest kõrgemat käibemaksumäära 
+ka  Telia  müüdavate  teenuste  ja  toodete  suhtes.  Arvestades,  et 
+Telia  teenuste  ja  kaupade valik  on väga  lai  ja  kasutame  nende 
+müügiks  ning  hilisemaks  arveldamiseks  mitmeid  erinevaid  IT-
+süsteeme  ja  digikeskkondi,  moodustasime  käibemaksumäära 
+korrektseks korrigeerimiseks eraldi projektrühma. Selle ülesande 
+täitmisele  ja  korrektse  maksukäitumise  tagamisele  aitas  selle 
+tulemusena kaasa väga palju Telia töötajaid.
+
+Poliitiline kaasatus 
+
+Räägime  Eesti  ühiskonnaelus  aktiivselt  kaasa,  olles  ka  mitmete 
+vabatahtlike  ühiskondlike  organisatsioonide 
+ja  erialaliitude 
+liikmeks  (näiteks  Rohetiiger,  Vastutustundliku  Ettevõtluse 
+Foorum, Infotehnoloogia – ja telekommunikatsiooniettevõtete 
+Liit  (ITL),  Kaubandus-  ja  Tööstuskoda,  Tööandjate  Keskliit 
+jne).  Oleme  olnud  kaasatud  õigusloomeprotsessi  mitmes  eri 
+valdkonnas. Näiteks andsime 2023. aastal tagasisidet mitmetele 
+telekomisektori, küberturbe, julgeoleku, meediateenuste, tarbija-
+kaitse  ja  andmekeskkonna  valdkonna  eelnõudele.  Tagasi-
+sidestasime  ka  erinevaid  riigi  arengukavu  ja  strateegiaid, 
+sealhulgas näiteks küberturvalisuse strateegiat. Õigusloomelistes 
+küsimustes  on  meile  oluline  aktiivne  koostöö  erialaliitudega, 
+näiteks ITLiga.  
+
+Tunnustused
+
+Sertifikaadid ja juhtimissüsteemid 
+
+Vastutustundliku Ettevõtluse Indeksi kuldtase 2023 
+(Vastutustundliku Ettevõtluse Foorum) 
+
+Brändide jätkusuutlikkuse edetabel (Sustainable Brand Index - 
+SBI). 
+
+SB Insight poolt koostatud sõltumatu rahvusvaheline uuring 
+hõlmas kaheksat riiki (Eesti, Läti, Leedu, Soome, Rootsi, 
+Norra, Taani, Holland) ja 1617 kaubamärki.  Eestis seati 
+pingeritta 50 kohalikku brändi.   Uuring mõõdab seda, kuivõrd 
+jätkusuutlikuna tarbijad erinevaid brände tajuvad.   
+
+2021: 22. koht 
+2022: 3. koht  
+2023: 5. koht           
+2024: 7. koht 
+
+Igal aastal esikoht telekomiettevõtete arvestuses. 
+
+Vaata tunnustusi ka tööandja peatükis.
+
+Meie  emafirma  peab  jätkusuutlikkust  ja  keskkonnahoidu  väga 
+oluliseks.  Seda  näitavad  mitmed  erinevad  tunnustused,  sh  
+teine  koht  Financial  Times  Euroopa  Liidu  kliimaliidrite 
+edetabelis ja EcoVadis Platinumi olemasolu. 
+
+−  Keskkonnajuhtimissüsteem ISO 14001 
+
+−  Energiajuhtimissüsteem ISO 50001 
+
+−  Kvaliteedijuhtimissüsteem ISO 9001 
+
+−  Töötervishoiu ja ohutuse juhtimissüsteem ISO 45001 
+
+− 
+
+Infoturbe juhtimissüsteem ISO27001 
+
+tegeletakse 
+
+“Telia IT äriteenuste serfititseeritus kinnitab, et Telia 
+tuvastab,  hindab  ja  juhib  turvariske  korrapäraselt. 
+Sertifikaadi  omamine  annab  kindlustunde  meie 
+klientidele,  et  Telia  Eestis 
+turbe 
+juhtimisega  süsteemselt 
+igapäevaselt.  Peame 
+turvalisuse tagamist oluliseks ning tegeleme infoturbe 
+juhtimise süsteemi pideva parendamisega tagamaks 
+asjakohane turva- ja riskiteadlikkus organisatsioonis, 
+ennetamine,  valmisolek  ning  suutlikkus  reageerida 
+intsidentidest  ning  muudatustest 
+ja 
+keskkonnas.  2024.  on  resertifitseerimisel  kavas 
+mõjuala laiendada.” 
+
+taastuda 
+
+ja 
+
+Ingrid Kääp
+Telia turbejuhtimise osakonna juht 
+
+KeskkondSotsiaalne mõjuJuhtimisraamistik 
+ 
+ 
+27
+
+Panustame  pidevalt  sellesse,  et  võimalikult  suurelt  hulgal 
+Eesti  elanikel  ja  ettevõtetel  oleks  ligipääs  kaasaegsetele  ja 
+kvaliteetsetele  sideteenustele,  olgu  selleks  siis  5G  või  optilise 
+sidevõrgu  ühendused.  Eelmise  aasta 
+jõudis  Telia 
+internetiühendus  kiirusega  100Mbit/s  enam  kui  560  000 
+aadressini ning selle näitaja poolest haldame täna riigi suurima 
+ulatusega internetivõrku.  
+
+lõpuks 
+
+Samas  ei  tohi  me  kiire  digiarengu  juures  unustada  neid,  kes 
+on  mingil  põhjusel  oskuste  ja  võimaluste  tõttu  ebavõrdses 
+seisus.  Seetõttu  peame  digitaalse  kaasatuse  puhul  oluliseks, 
+et  kõik  inimesed  oleksid  senisest  enam  digitaliseeruvasse 
+ühiskonda kaasatud ning käiksid tehnoloogia arenguga kaasas.  
+Eriti pöörame selles töös tähelepanu lastele ja vanemaealistele.  
+
+Oma  2023.  aasta  jõulukampaanias  keskendusime  digilõhe 
+teadvustamisele  ühiskonnas,  kutsudes  üles 
+tehnoloogia-
+teadlikumaid  inimesi  oma  oskustega  abistama  neid,  kes  end 
+digimaailmas  tegutsedes  nii  kindlalt  ei  tunne.  Just  digilõhe 
+vähendamise eesmärgil lõime läinud aastal digiabi veebilehe, 
+kust  leiavad  olulist  ja  kasulikku  infot  nii  need,  kes  soovivad 
+aidata oma lähedastel ja tuttavatel digimaailmaga suuremaks 
+sõbraks  saada,  kui  ka  need,  kes  tahavad  ise  mõnda  oma 
+digioskust arendada. 
+
+Kokkuvõttes  on  Telia  üks  olulisi  ühiskondlikke  ja  sotsiaalseid 
+eesmärke  muuta  Eestis  elamine  ja  töötamine  paremaks  läbi 
+ja  kaasava  digitaliseerimise.  Me  mõistame  oma 
+turvalise 
+vastutust  ja  tegutseme  iga  päev  selle  nimel,  et  olla  oma 
+tegevustes ühiskonda toetavad, jätkusuutlikud ja läbipaistvad. 
+
+Holger Haljand
+Telia Eesti tegevjuht
+
+Järelsõna  
+
+Elame  väljakutseterohkel  perioodil,  kus  nii  Eestis  kui  mujal 
+maailmas aset leidnud arengud on toonud omajagu ebakindlust 
+ka  meie  ühiskonda.  Seda  enam  tunneme,  et  Telia  kui  kohaliku 
+digiarengu  ühe  eestvedaja  roll  ja  vastutus  on  muuta  Eesti 
+digimaailm  kestlikumaks  ja  turvalisemaks.  Oleme  pikalt  selle 
+nimel pingutanud ning erandiks polnud ka eelmine aasta.  
+
+2023.  aastal  sai  meie  jaoks  Eestis  läbi  üks  oluline  ajajärk  - 
+sulgesime esimese kohaliku telkona oma 3G võrgu, mis teenindas 
+Telia  kliente  mobiilse  kõne-  ja  andmeside  teenusega  ligemale 
+20  aastat.  See  samm  toetab  kahte  olulist  eesmärki.  Ühest 
+küljest aitab 3G sulgemine vähendada keskkonnajalajälge, kuna 
+vanemad tehnoloogiad tarbivad üldjuhul rohkem elektrienergiat 
+kui moodsamad 4G ja 5G tehnoloogiad. 
+
+Teine oluline aspekt 3G võrgu sulgemise juures on tehnoloogia 
+kaasajastamisel. Oleme seda ka varem näinud, et just moodsad 
+ja võimekad sidevõrgud on tulevase innovatsiooni kasvulavaks. 
+Näiteks  eelmisel  aastal  suletud  3G  võrgu  avamise  hetkel 
+2005.  aastal  ei  suutnud  enamus  inimesi  ette  näha  vajadust 
+kiire  mobiilse  andmeside  järele  ega  selle  tulemusel  tekkinud 
+nutitelefonide  ajajärku.  Ometi  tegi  võrgu  areng  selle  kõik 
+võimalikuks. Seega ei tea me veel ka täna päris täpselt, millist 
+innovatsiooni  ülikiired  mobiilsed  andmesidevõrgud  tulevikus 
+toetavad, aga kindel võib olla selles, et need arengud saavad 
+olema  taas  kord  põnevad  ja  meie  elu  muutvad.  Täna  peame 
+tegema  kõik  selleks,  et  moodsate  võrkudega  võimalikult  suur 
+osa Eesti rahvastikust katta.  
+
+2023.  aasta  oli  meie  jaoks  märgiline  ka  selle  poolest,  et 
+alustasime  suuremahulist  koostööd  taastuvenergia  lahendusi 
+pakkuva  ettevõttega  Sunly.  Tänu  sellele  kerkivad  vahemikus 
+2023-2024 suurusjärgus 100 Telia mobiilimasti juurde päikese- 
+pargid,  mis  hakkavad  meie  mobiilsideteenuseid  varustama 
+taastuvenergiaga.  Sellises  mastaabis  pole  Eesti  IT-  ja  tele-
+kommunikatsioonisektoris  päikeseenergiat  oma 
+teenuste 
+pakkumiseks kasutatud ning meil on hea meel olla selles osas 
+suunanäitaja.  
+
+Telia  investeeris  eelmisel  aastal  Eesti  turule  ligi  54  miljonit 
+eurot. Mahukamate investeeringute hulka kuulusid 5G võrgu ja 
+optilise  püsivõrgu  ehitused.  Selle  kõrval  on  meie  äritegevuse 
+vundamendiks  panustamine  olulistesse 
+jätkusuutliku  äri 
+mõjuvaldkondadesse,  mille  hulgas  peame  eriti  oluliseks 
+ja 
+keskkonnahoidu,  digitaalset  kaasatust  ning  privaatsust 
+küberturvalisust.  
+
+KeskkondSotsiaalne mõjuJuhtimisraamistik  
+  
+  
+  
+  
+  
+  
+  
+Julgelt parema poole!
+
+Kui Teil tekkis küsimusi või ettepanekuid, 
+võtke meiega kindlasti ühendust: 
+
+Kristiina Maasik  
+Telia juriidilise üksuse ja  
+jätkusuutlikkuse valdkonna juht 
+Kristiina.Maasik@telia.ee
+
+

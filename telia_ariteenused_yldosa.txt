@@ -1,0 +1,2401 @@
+väljavõte Telia Eesti AS lõppkasutajate hinnakirjast
+
+Seisuga 17.04.2025
+
+IV ptk
+
+Püsiühenduse teenused ärikliendile
+
+km-ta
+
+km-ga
+
+ühik
+
+Juhul, kui teenuse kasutamise alustamiseks (nt liitumisel, ümberpaigutamisel vms) on vajalik rajada liini(osa) Telia sidevõrgu 
+lõpp-punkti ja kliendi poolt soovitava ühenduspunkti vahel, lisandub tasu liini rajamise eest.
+
+Kliendile pakutavate internetiühenduse teenuse kiiruste valik sõltub Kliendi poolt soovitud Ühenduspunktis (teenuse aadressil) 
+olemasolevast tehnilisest lahendusest.
+
+1.
+
+1.1.
+1.1.1.
+1.1.2.
+1.1.2.1.
+1.1.2.2.
+1.1.2.3.
+1.1.2.4.
+
+1.2.
+1.2.1.
+1.2.1.1.
+1.2.1.2.
+1.2.1.3.
+1.2.1.4.
+1.2.1.5.
+1.2.1.6.
+1.2.1.7.
+1.2.1.8.
+1.2.1.9.
+1.2.1.10.
+
+1.3.
+1.3.1.
+1.3.1.1.
+1.3.1.2.
+1.3.1.3.
+
+2.
+
+2.1.
+2.1.1.
+2.1.2.
+2.1.2.1.
+2.1.2.2.
+2.1.2.3.
+2.1.3.
+
+2.1.4.
+2.1.4.1.
+2.1.4.2.
+2.1.4.2.1.
+2.1.4.2.2.
+2.1.4.2.3.
+2.1.4.2.4.
+2.1.4.2.5.
+2.1.4.2.6.
+2.1.4.2.7.
+2.1.4.2.8.
+2.1.4.2.9.
+2.1.4.2.10.
+2.1.4.2.11.
+2.1.4.2.12.
+
+Internetipaketid
+
+Ärikliendi Internet
+liitumistasu
+kuutasu
+kiirus kuni 20 Mbit/s / 10 Mbit/s ⁽¹⁾
+kiirus kuni 50 Mbit/s / 20 Mbit/s ⁽¹⁾
+kiirus kuni 100 Mbit/s / 25 Mbit/s ⁽¹⁾
+kiirus kuni 100 Mbit/s / 50 Mbit/s ⁽¹⁾
+
+⁽¹⁾
+
+Asukohapõhise mobiilivõrgu internetiühenduse tehnoloogial.
+
+Turvanet
+kuutasu
+kiirus kuni 50 Mbit/s / 10 Mbit/s ⁽²⁾
+kiirus kuni 50 Mbit/s / 25 Mbit/s ⁽²⁾
+kiirus kuni 50 Mbit/s / 50 Mbit/s ⁽²⁾
+kiirus kuni 100 Mbit/s / 25 Mbit/s ⁽²⁾
+kiirus kuni 100 Mbit/s / 50 Mbit/s ⁽²⁾
+kiirus kuni 100 Mbit/s / 100 Mbit/s ⁽²⁾
+kiirus kuni 200 Mbit/s / 50 Mbit/s ⁽²⁾
+kiirus kuni 200 Mbit/s / 200 Mbit/s ⁽²⁾
+kiirus kuni 500 Mbit/s / 500 Mbit/s ⁽²⁾
+kiirused üle 500 Mbit/s
+
+km-ta
+
+km-ga
+
+ühik
+
+vastavalt kulukalkulatsioonile
+
+30,00
+49,00
+65,00
+65,00
+
+36,60
+59,78
+79,30
+79,30
+
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+
+45,00
+45,00
+45,00
+59,00
+59,00
+59,00
+65,00
+65,00
+100,00
+
+54,90
+54,90
+54,90
+71,98
+71,98
+71,98
+79,30
+79,30
+122,00
+
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+müüdav erilahendusena
+
+⁽²⁾
+
+Nende kiiruste kuutasus sisaldub lisaks internetiteenusele ka turvalise interneti filter, staatiline IP-aadress ja kõrgendatud 
+teenustase (SLA) tööpäevadel kl. 8.00-17.00 maksimaalse seisakuajaga järjestikku 8 tundi.
+
+Turvaline Seadmenet
+kuutasu ⁽³⁾
+kiirus kuni 20 Mbit/s / 5 Mbit/s ⁽⁴⁾
+kiirus kuni 20 Mbit/s / 10 Mbit/s
+kiirus kuni 20 Mbit/s / 20 Mbit/s
+
+29,00
+29,00
+29,00
+
+35,38
+35,38
+35,38
+
+€/kuu
+€/kuu
+€/kuu
+
+⁽³⁾
+⁽⁴⁾
+
+Kuutasus sisaldub lisaks internetiteenusele ka turvalise interneti filter, dünaamiline IP-aadress ja standardne teenustase (SLA).
+Üleslaadimise maksimaalne võimalik kiirus kuni 5 Mbit/s ja kuni 10 Mbit/s ei pruugi VDSL-tehnoloogial olla kättesaadav, kui 
+teenust kasutatakse 1200-1400 m pikkusel liinil.
+
+Kõnepaketid
+
+Äritelefon
+liitumistasu
+kuutasu
+telefoninumber
+broneeritud number
+lisateenuste number
+kõneteenused
+
+lisateenused
+Äritelefon EKSTRA pakett, liitumistasu
+kasutajaseadmete üür ⁽¹⁾
+hinnagrupp 1
+hinnagrupp 2
+hinnagrupp 3
+hinnagrupp 4
+hinnagrupp 5
+hinnagrupp 6
+hinnagrupp 7
+hinnagrupp 8
+hinnagrupp 9
+hinnagrupp 10
+hinnagrupp 11
+hinnagrupp 12
+
+km-ta
+
+km-ga
+
+ühik
+
+vastavalt kulukalkulatsioonile
+
+4,15
+0,07
+0,31
+
+€/kuu
+€/kuu
+€/kuu
+vastavalt Äripaketi kõneteenuste tasudele
+
+5,06
+0,08
+0,38
+
+10,00
+
+12,20
+
+€/kord
+
+1,50
+2,00
+2,39
+2,50
+3,50
+3,80
+4,20
+4,39
+5,00
+7,10
+9,00
+9,39
+
+1,83
+2,44
+2,92
+3,05
+4,27
+4,63
+5,12
+5,36
+6,10
+8,66
+10,98
+11,46
+
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+
+väljavõte Telia Eesti AS lõppkasutajate hinnakirjast
+
+Seisuga 17.04.2025
+
+IV ptk
+
+Püsiühenduse teenused ärikliendile
+
+2.1.4.2.13.
+2.1.4.2.14.
+2.1.4.2.15.
+2.1.4.2.16.
+2.1.4.2.17.
+
+hinnagrupp 13
+hinnagrupp 14
+hinnagrupp 15
+hinnagrupp 16
+hinnagrupp 17
+
+⁽¹⁾
+
+Hinnagruppidesse kuuluvate kasutajaseadmete nimekiri on toodud Kodulehel.
+
+3.
+
+3.1.
+3.1.1.
+3.1.1.1.
+3.1.1.2.
+3.1.1.3.
+3.1.1.4.
+3.1.1.5.
+
+3.2.
+3.2.1.
+
+Wifi-teenused
+
+Smart Wifi
+kuutasu
+2 seadmega pakett
+3 seadmega pakett (põhipakett)
+4 seadmega pakett
+5 seadmega pakett
+6 seadmega pakett
+
+Kontori Wifi ⁽¹⁾
+kuutasu
+
+km-ta
+
+km-ga
+
+ühik
+
+14,00
+15,00
+32,00
+52,00
+57,00
+
+17,08
+18,30
+39,04
+63,44
+69,54
+
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+
+km-ta
+
+km-ga
+
+ühik
+
+6,00
+9,00
+12,00
+15,00
+18,00
+
+7,32
+10,98
+14,64
+18,30
+21,96
+
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+
+12,00
+
+14,64
+
+€/kuu
+
+⁽¹⁾
+
+Teenust pakutakse ärikliendile, kes kasutab Telia interneti püsiühendusteenust.
+
+4.
+
+TV-teenused
+
+km-ta
+
+km-ga
+
+ühik
+
+4.1.
+4.1.1.
+4.1.1.1.
+4.1.1.1.1.
+4.1.1.1.2.
+
+4.1.1.2.
+4.1.1.2.1.
+4.1.1.2.2.
+4.1.1.2.3.
+4.1.1.2.4.
+
+4.1.1.3.
+4.1.1.3.1.
+4.1.1.3.2.
+4.1.1.3.3.
+4.1.1.3.4.
+4.1.1.3.5.
+4.1.1.3.6.
+4.1.1.3.7.
+4.1.1.3.8.
+4.1.1.3.9.
+4.1.1.3.10.
+
+5.
+
+5.1.
+5.1.1.
+
+5.2.
+5.2.1.
+
+5.3.
+
+Äri TV
+kuutasu
+põhipaketid ⁽¹⁾
+põhipakett (majutuskoht, kontor)
+põhipakett (teeninduskoht)
+
+teemapaketid ⁽¹⁾⁽²⁾
+Go3 spordikanalid ⁽³⁾
+Go3 spordikanalid ⁽⁴⁾
+Go3 filmikanalid ⁽⁴⁾
+Go3 filmi- ja spordikanalid ⁽⁴⁾
+
+noppekanalid ⁽¹⁾⁽²⁾⁽³⁾
+hinnagrupp 1
+hinnagrupp 2
+hinnagrupp 3
+hinnagrupp 4
+hinnagrupp 5
+hinnagrupp 6
+hinnagrupp 7
+hinnagrupp 8
+hinnagrupp 9
+hinnagrupp 10
+
+8,00
+10,00
+
+30,00
+20,00
+20,00
+30,00
+
+0,00
+0,50
+1,00
+2,00
+3,00
+4,00
+5,00
+6,00
+8,00
+10,00
+
+9,76
+12,20
+
+36,60
+24,40
+24,40
+36,60
+
+0,00
+0,61
+1,22
+2,44
+3,66
+4,88
+6,10
+7,32
+9,76
+12,20
+
+€/kuu
+€/kuu
+
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+
+⁽¹⁾
+⁽²⁾
+⁽³⁾
+⁽⁴⁾
+
+Hind ühe vaatamiskoha kohta.
+Noppekanalite hinnagruppidesse ning teemakanalitesse ja -pakettidesse kuuluvate kanalite nimekiri on toodud Kodulehel.
+Tellitav ainult teeninduskoha tüüpi vaatamiskohale.
+Tellitav ainult kontor- ja majutuskoht tüüpi vaatamiskohale.
+
+Lisateenused
+
+km-ta
+
+km-ga
+
+ühik
+
+andmesideühenduse monitooring ⁽¹⁾
+kuutasu 
+
+6,39
+
+7,79
+
+€/kuu
+
+⁽¹⁾
+
+Kui kliendil on kehtiv „Teenustaseme (SLA)” leping, siis on kuutasu 3,20 € (km-ta).
+
+IP aadressväli kliendi kohtvõrgule
+tellimistasu
+
+kellaaeg, äratus, meeldetuletus
+
+5,06
+
+6,17
+
+€/kord
+
+väljavõte Telia Eesti AS lõppkasutajate hinnakirjast
+
+Seisuga 17.04.2025
+
+IV ptk
+
+5.3.1. 
+5.3.2.
+5.3.3.
+
+5.4. 
+5.4.1.
+5.4.2.
+5.4.2.1.
+5.4.2.2.
+5.4.3.
+5.4.3.1.
+5.4.3.2.
+
+5.5.
+5.5.1.
+5.5.1.1.
+5.5.1.2.
+5.5.1.3.
+5.5.1.4.
+5.5.1.5.
+5.5.1.6.
+5.5.1.7.
+5.5.1.8.
+5.5.1.9.
+5.5.1.10.
+5.5.1.11.
+5.5.1.12.
+5.5.1.13.
+5.5.1.14.
+5.5.1.15.
+5.5.1.16.
+5.5.1.17.
+5.5.1.18.
+
+5.5.2.
+
+5.5.3.
+5.5.3.1.
+
+5.5.3.2.
+5.5.3.2.1.
+5.5.3.2.2.
+5.5.3.2.2.1.
+5.5.3.2.2.2.
+5.5.3.2.2.3.
+5.5.3.2.2.4.
+5.5.3.2.2.5.
+5.5.3.2.2.6.
+5.5.3.2.2.7.
+5.5.3.2.2.8.
+5.5.3.2.2.9.
+5.5.3.2.2.10.
+5.5.3.2.2.11.
+5.5.3.2.2.12.
+5.5.3.2.2.13.
+5.5.3.2.3.
+
+Püsiühenduse teenused ärikliendile
+
+km-ta
+
+km-ga
+
+ühik
+
+tellimistasu
+võrgusisene kõne minutitasu
+kõne alustustasu
+
+kõne- ja faksipost
+tellimistasu
+kuutasu
+kõnepost
+faksipost
+minutitasu
+postkasti numbrile helistamine või suunamine Telia telefonivõrgust
+postkasti omava kliendi telefonilt helistamine või suunamine postkasti (teenus 147)
+
+kõnekeskus
+kuutasu
+Kõnekeskuse keskkond
+Agent
+Kõnekeskuse teenusnumber
+Järjekord
+Kõnesalvestus
+Monitooring, aruanded, superviisor ja töölaud
+IVR-teenus, tagasihelistamine
+Järjekorra lisateenuste pakett
+Infokaart
+Agentide ajagraafik
+Teeninduse hindamine
+Kampaania kõned
+Veebitelefon
+Veebivestluse aadress
+Agendi veebivestlus
+Isiku tuvastamine
+E-kirja aadress
+Agendi e-kiri
+
+0,00
+
+0,0260
+
+0,00
+
+0,53
+1,07
+
+0,00
+0,00
+
+16,00
+14,00
+6,50
+3,50
+6,50
+20,00
+20,00
+10,00
+16,00
+16,00
+16,00
+32,00
+3,50
+6,50
+3,50
+40,00
+16,00
+6,50
+
+0,00
+
+€/kord
+vastavalt valitud paketile
+€/kõne
+
+0,0317
+
+0,00
+
+0,65
+1,30
+
+0,00
+0,00
+
+19,52
+17,08
+7,93
+4,27
+7,93
+24,40
+24,40
+12,20
+19,52
+19,52
+19,52
+39,04
+4,27
+7,93
+4,27
+48,80
+19,52
+7,93
+
+€/kord
+
+€/kuu
+€/kuu
+
+€/min
+€/min
+
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+
+konfigureerimistasu ⁽³⁾
+
+130,00
+
+158,60
+
+€/kord
+
+kõneteenused
+kõneteenused kõnekeskuse kõnepaketita
+
+kõneteenused kõnekeskuse kõnepaketiga
+kõne alustustasu
+minutitasu
+kõne Telia lauatelefonidele
+kõne teistesse⁽⁴⁾ telefonivõrkudesse
+kõne Telia mobiilivõrku
+kõne Elisa Eesti AS (Elisa) mobiilvõrku
+kõne Tele2 Eesti AS (Tele2) mobiilvõrku
+kõne Baltergo OÜ virtuaaloperaatori numbritele (Nord Connect võrku)
+kõne Novametro OÜ virtuaaloperaatori numbritele (Nord Connect võrku)
+kõne Nord Connect OÜ mobiiltelefoninumbritele
+kõne Riigi Infokommunikatsiooni Sihtasutuse (RIKS) mobiilinumbritele
+kõne SkyTel OÜ virtuaaloperaatori numbritele (Teleone OÜ võrku)
+kõne DOTT Telecom OÜ virtuaaloperaatori numbritele
+kõne Mediafon Carrier Services OÜ numbritele
+kõne Naranaya OÜ numbritele
+teised kõnesuunad ja -teenused
+
+rakenduvad Äripaketi kõneteenuste tasud, 
+kui ei ole kokku lepitud teisiti 
+
+0,00
+
+0,00
+
+€/kõne
+
+0,0300
+0,0300
+0,0300
+0,0300
+0,0300
+0,0300
+0,0300
+0,0300
+0,0300
+0,0300
+0,0300
+0,0300
+0,0300
+
+€/min
+€/min
+€/min
+€/min
+€/min
+€/min
+€/min
+€/min
+€/min
+€/min
+€/min
+€/min
+€/min
+rakenduvad Äripaketi kõneteenuste tasud, 
+kui ei ole kokku lepitud teisiti 
+
+0,0366
+0,0366
+0,0366
+0,0366
+0,0366
+0,0366
+0,0366
+0,0366
+0,0366
+0,0366
+0,0366
+0,0366
+0,0366
+
+⁽³⁾
+⁽⁴⁾
+
+Lisandub juhul, kui klient tellib Kõnekeskuse seadistuse Telialt.
+(Tele2-, Elisa-, TopConnect-, STV-, Citic Telecom-, Raystorm-, CSC Telecom-, Telset telefonivõrgud).
+
+5.6.
+5.6.1.
+5.6.2.
+5.6.2.1.
+5.6.2.2.
+
+kõnesalvestus
+tellimistasu
+kuutasu
+kõnesalvestus, säilimisega 10 päeva
+kõnesalvestus, säilimisega 60 päeva
+
+0,00
+
+6,39
+12,78
+
+0,00
+
+€/kord
+
+7,79
+15,59
+
+€/kuu
+€/kuu
+
+väljavõte Telia Eesti AS lõppkasutajate hinnakirjast
+
+Seisuga 17.04.2025
+
+IV ptk
+
+5.7.
+
+5.7.1.
+5.7.1.1.
+5.7.1.2.
+5.7.1.3.
+5.7.1.4.
+5.7.1.5.
+5.7.1.6.
+
+5.7.2.
+5.7.2.1.
+5.7.2.1.1.
+5.7.2.1.2.
+5.7.2.1.3.
+
+5.7.2.2.
+5.7.2.2.1.
+5.7.2.2.1.1.
+5.7.2.2.1.2.
+5.7.2.2.1.3.
+
+5.7.2.2.2.
+5.7.2.2.2.1.
+5.7.2.2.2.2.
+5.7.2.2.2.3.
+
+5.7.3.
+5.7.3.1.
+5.7.3.2.
+5.7.3.2.1.
+5.7.3.2.2.
+5.7.3.2.3.
+5.7.3.2.4.
+
+5.7.4.
+5.7.4.1.
+5.7.4.1.1.
+5.7.4.1.2.
+
+5.7.4.2.
+5.7.4.2.1.
+5.7.4.2.2.
+5.7.4.2.3.
+5.7.4.2.4.
+
+5.7.4.3.
+5.7.4.3.1.
+
+5.7.5.
+5.7.5.1.
+5.7.5.2.
+5.7.5.3.
+5.7.5.4.
+5.7.5.4.1.
+5.7.5.4.2.
+
+Püsiühenduse teenused ärikliendile
+
+km-ta
+
+km-ga
+
+ühik
+
+kõneteenusnumbrid
+
+kõneteenusnumbri kasutamise aastatasu ⁽⁵⁾
+3-kohaline lühinumber
+4-kohaline lühinumber
+5-kohaline lühinumber
+number numeratsioonialas 800
+number numeratsioonialas 900
+number numeratsioonialas 901
+
+helistajale tasuta kõneteenusnumbrid
+aktiveerimistasu
+numeratsioonialas 800
+lühinumbrid
+kuutasu
+
+teenuskõne tasu teenuse osutajale 
+võrgusisene kõne 
+minutitasu fiksvõrgus
+kõne alustustasu fiksvõrgus
+minutitasu mobiilvõrgus
+
+võrkudevaheline riigisisene kõne
+minutitasu mobiiloperaatorite võrkudest
+minutitasu fiks-operaatorite võrkudest
+kõne rahvusvahelise operaatori võrgust  
+
+arveldusteenusega kõneteenusnumbrid k.a numbriinfo lühinumbrid
+aktiveerimistasu
+teenuskõne tasu lõppkasutajale ⁽⁶⁾⁽⁷⁾
+võrgusisene minutitasu fiksvõrgus
+kõne alustustasu fiksvõrgus
+võrgusisene minutitasu mobiilvõrgus
+otseühendatud kõne minutitasu mobiilvõrgus ⁽⁸⁾
+
+fikseeritud tasuga kõneteenusnumbrid (tavahind)
+aktiveerimistasu
+kliendi teenus
+telefonihääletus
+
+teenuskõnede tasud lõppkasutajale
+verifitseerimisinfo edastamine
+minutitasu fiksvõrgus
+kõne alustustasu fiksvõrgus
+minutitasu mobiilvõrgus
+
+kõnetasu teenuse osutajale
+teenusserveri kasutustasu
+
+lisateenused
+eritariifi muutmine
+alusnumbri muutmine
+alusnumbri lisamine
+eritariifist teavitamise automaatvastaja
+aktiveerimistasu
+kuutasu
+
+15340,00
+1540,00
+770,00
+155,00
+155,00
+155,00
+
+18714,80
+1878,80
+939,40
+189,10
+189,10
+189,10
+
+€/aasta
+€/aasta
+€/aasta
+€/aasta
+€/aasta
+€/aasta
+
+45,00
+160,00
+
+54,90
+195,20
+
+€/kord
+€/kord
+vastavalt lepingule
+
+0,0185
+0,0260
+0,1898
+
+0,2960
+0,1152
+
+0,0226
+0,0317
+0,2316
+
+€/min
+€/kõne
+€/min
+
+0,3611
+0,1405
+
+€/min
+€/min
+vastavalt lepingule
+
+160,00
+
+195,20
+
+€/kord
+
+0,0185
+0,0260
+0,1898
+0,1489
+
+0,0226
+0,0317
+0,2316
+0,1817
+
+€/min
+€/kõne
+€/min
+€/min
+
+160,00
+64,00
+
+195,20
+78,08
+
+€/kord
+€/kord
+
+0,0109
+0,0185
+0,0260
+0,1898
+
+0,0133
+0,0226
+0,0317
+0,2316
+
+€/kõne
+€/min
+€/kõne
+€/min
+
+0,0371
+
+0,0452
+
+€/kord
+
+16,00
+16,00
+32,00
+
+23,00
+16,00
+
+19,52
+19,52
+39,04
+
+28,06
+19,52
+
+€/kord
+€/kord
+€/kord
+
+€/kord
+€/kuu
+
+⁽⁵⁾
+
+⁽⁶⁾
+
+⁽⁷⁾
+
+⁽⁸⁾
+
+Aastatasu aluseks on teenusnumbri kasutamise võimaluse eest tasumisele kuuluv iga-aastane riigilõiv. Arvestades asjaolu, et 
+riigilõivu ei tagastata ka juhul, kui teenusnumbri kasutamisest loobutakse enne iga 12 kuu möödumist, ei kuulu teenusnumbrist 
+varasemal loobumisel tagastamisele ega tasaarvestamisele ühelgi juhul ka aastatasu.
+Teenuskõne tasudele lisandub teenusnumbrile helistamisele kehtiv teenuse osutaja kõne- või minutitasu eritariif, millest 
+lõppkasutajat teavitatakse eritariifse teenuskõne alguses.
+Numbriinfo teenuse osutajalt tasulise kõne otseühendamise teenuse tellimisel lisandub teenuskõne tasudele vastav teenuse 
+osutaja ühekordne teenustasu.
+Numbriinfo teenuse osutaja poolt otseühendatud kõnele kehtestatud minutihind.
+
+5.8.
+
+multimeedia majutus (endise nimega Atlas RealTime)
+
+väljavõte Telia Eesti AS lõppkasutajate hinnakirjast
+
+Seisuga 17.04.2025
+
+IV ptk
+
+Püsiühenduse teenused ärikliendile
+
+km-ta
+
+km-ga
+
+ühik
+
+5.8.1.
+5.8.1.1.
+5.8.1.2.
+5.8.1.2.1.
+5.8.1.2.2.
+
+5.8.2.
+
+5.8.2.1.
+5.8.2.1.1.
+
+5.8.2.2.
+5.8.2.2.1.
+
+5.8.2.3.
+5.8.2.3.1.
+
+5.8.2.4.
+5.8.2.4.1.
+5.8.2.4.1.1.
+5.8.2.4.1.2.
+5.8.2.4.1.3.
+5.8.2.4.1.4.
+5.8.2.4.1.5.
+
+5.8.2.5.
+5.8.2.5.1.
+
+5.9. 
+5.9.1.
+5.9.1.1. 
+5.9.2.
+5.9.2.1. 
+
+5.10.
+5.10.1.
+
+5.11.
+5.11.1.
+5.11.1.1.
+5.11.1.2.
+5.11.1.3.
+5.11.1.4.
+5.11.1.5.
+5.11.1.6.
+5.11.1.7.
+
+serveri kärje kasutamine
+tellimistasu
+kuutasu 
+kodeeritud video/audiomaterjali serveerimine reaalajas ⁽⁹⁾
+kodeeritud video/audiomaterjali arhiveerimine ja serveerimine arhiivist ⁽¹⁰⁾
+
+31,95
+
+38,98
+
+€/kord
+
+3,19
+0,0639
+
+3,89
+0,0780
+
+€/kuu
+€/kuu
+
+multimeedia majutuse lisateenused
+
+operaatori- ja režissööritöö 
+tunnitasu
+
+tehnika ja kaablite paigaldamine ⁽¹¹⁾
+tunnitasu
+
+lindistustööd
+tunnitasu
+
+heli- ja videotehnika üür
+tunnitasu
+betakaamera
+digikaamera
+videomikser
+audiomikser
+raadiomikrofon
+
+koodeki üür
+kasutustasu
+
+⁽⁹⁾ iga 1 Mbp/s ribalaiuse kasutamise eest.
+⁽¹⁰⁾ iga arhiivi 1 MB kasutamise eest.
+⁽¹¹⁾ kaablite kogupikkus kuni 1 km.
+
+numbrinäidu keeld
+numbrinäidu keeld (CLIR)
+tellimistasu
+juhitav numbrinäidu keeld 
+tellimistasu
+
+sissehelistaja numbrinäit
+tellimistasu
+
+staatilise IP-aadressi tehniline haldus
+kuutasu
+1 staatiline IP-aadress (NAT) ⁽¹²⁾
+1 kuni 5 avalikku IP-aadressi (AIP)
+6 kuni 13 avalikku IP-aadressi (AIP)
+14 kuni 29 avalikku IP-aadressi (AIP)
+30 kuni 61 avalikku IP-aadressi (AIP) ⁽¹³⁾
+62 kuni 125 avalikku IP-aadressi (AIP) ⁽¹³⁾
+126 kuni 253 avalikku IP-aadressi (AIP) ⁽¹³⁾
+
+12,78
+
+15,59
+
+€/tund
+
+8,11
+
+9,90
+
+€/tund
+
+6,39
+
+7,79
+
+€/tund
+
+14,38
+10,86
+6,39
+6,39
+5,11
+
+17,54
+13,25
+7,79
+7,79
+6,24
+
+€/tund
+€/tund
+€/tund
+€/tund
+€/tund
+
+31,95
+
+38,98
+
+€/ööpäev
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+€/kord
+
+€/kord
+
+0,00
+
+0,00
+
+€/kord
+
+3,00
+11,37
+20,04
+37,37
+66,07
+112,11
+186,85
+
+3,66
+13,87
+24,45
+45,59
+80,61
+136,78
+227,96
+
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+
+⁽¹²⁾
+
+⁽¹³⁾
+
+Kuutasu ei rakendata, kui 1 staatiline IP-aadress on tellitud Ärilkliendi Interneti või Turvaneti koosseisus v.a Ärikliendi internet 
+ühenduskiirustega:
+- kiirus kuni 10 Mbit/s / 5 Mbit/s;
+- kiirus kuni 10 Mbit/s / 10 Mbit/s;
+- Terminal Internet 1 Mbit/s / 1 Mbit/s;
+- Terminal Internet 256 kbit/s / 256 kbit/s.
+Alates 01.07.2019 on müüdav erilahendusena.
+
+5.12.
+5.12.1.
+5.12.1.1.
+5.12.1.2.
+5.12.1.3.
+
+Telia SAFE (ärikliendile) ⁽¹⁴⁾
+kuutasu
+Telia SAFE Mini
+Telia SAFE Standard
+Telia SAFE Premium
+
+3,99
+5,99
+7,99
+
+4,87
+7,31
+9,75
+
+€/kuu
+€/kuu
+€/kuu
+
+⁽¹⁴⁾ Teenuse esmakordsel tellimisel rakendatakse kuutasu soodustust 30 päevaks 0 €.
+
+väljavõte Telia Eesti AS lõppkasutajate hinnakirjast
+
+Seisuga 17.04.2025
+
+Püsiühenduse teenused ärikliendile
+
+km-ta
+
+km-ga
+
+ühik
+
+⁽¹⁾
+⁽²⁾
+
+Kehtib 9 ja enama vaatamiskohaga majutuskoht tüüpi vaatamiskoha kasutamisel.
+Teenust võimaldatakse kliendile, kelle Telia teenuste viimase kolme kuu käibemaksuga keskmine käive kuus on 50 € või 
+rohkem ja millest vähemalt 25 € moodustab mobiilteenuste käive.
+
+IV ptk
+
+5.13.
+5.13.1.
+5.13.2.
+5.13.2.1.
+5.13.2.2.
+
+5.14.
+5.14.1. 
+
+6.
+
+6.1.
+
+6.1.1.
+6.1.1.1.
+6.1.1.2.
+6.1.1.3.
+6.1.1.4.
+6.1.1.5.
+6.1.1.6.
+6.1.1.7.
+6.1.1.8.
+6.1.1.9.
+6.1.1.9.1.
+6.1.1.10.
+6.1.1.10.1.
+
+6.1.2.
+6.1.2.1.
+6.1.2.1.1.
+6.1.2.1.1.1.
+6.1.2.1.2.
+6.1.2.1.2.1.
+6.1.2.1.2.2.
+6.1.2.1.2.3.
+6.1.2.1.2.4.
+6.1.2.1.3.
+6.1.2.1.4.
+6.1.2.2.
+6.1.2.3.
+
+virtuaalse numbri suunamine
+kuutasu
+virtuaalse numbri suunatud kõne minutitasu
+Telia telefonivõrgu ja Telia mobiilivõrgu numbritele
+teistesse võrkudesse
+
+väljuvate kõnede piirang
+tellimistasu
+
+Muud teenused
+
+Seadmega seotud teenused
+
+seadme üür ärikliendile
+ruuter
+5G siseruuter Zyxel
+5G ruuter Zyxel
+4G ruuter Huawei (hinnagrupp 1)
+4G ruuter Huawei (hinnagrupp 2)
+digiboks
+digiboks ⁽¹⁾
+wifi-laiendaja
+levivõimendi mobiililevi parandamiseks (hinnagrupp 1)
+levivõimendi mobiililevi parandamiseks (hinnagrupp 1) ⁽²⁾
+levivõimendi mobiililevi parandamiseks (hinnagrupp 2)
+levivõimendi mobiililevi parandamiseks (hinnagrupp 2) ⁽²⁾
+
+kauba tarne
+e-poest ostetud kauba tarne
+kulleriga
+kulleriga (telerid)
+pakiautomaati ⁽³⁾
+DPD pakiautomaati
+Itella pakiautomaati
+Omniva pakiautomaati
+Venipak pakiautomaati
+esindusse
+Wolt kulleriga
+Telia teenusega seotud seadme tarne kulleriga
+KIUD pakendi tagatisraha
+
+⁽³⁾
+
+Telia e-poest ostetud kõnekaartide ja laadimiskaartide tarne pakiautomaati on tasuta.
+
+6.2.
+
+Üldtehnilised teenused
+
+6.2.1.
+6.2.1.1.
+6.2.1.2.
+6.2.1.3.
+6.2.1.3.1.
+6.2.1.3.2.
+6.2.1.3.3.
+6.2.1.3.4.
+6.2.1.4.
+6.2.1.4.1.
+6.2.1.4.2.
+6.2.1.4.3.
+6.2.1.4.4.
+6.2.1.5.
+
+projekti kooskõlastamine
+pindalaga kuni 1 ha ⁽⁴⁾
+pindalaga alates 1 ha ⁽⁴⁾
+projekti kooskõlastamine, geodeedi teenus kättenäitamiseta ⁽⁴⁾
+pindalaga kuni 1 ha
+pindalaga 1-5 ha
+pindalaga 5-10 ha
+pindalaga üle 10 ha
+projekti kooskõlastamine, geodeedi teenus kättenäitamisega ⁽⁴⁾
+pindalaga kuni 1 ha 
+pindalaga 1-5 ha
+pindalaga 5-10 ha
+pindalaga üle 10 ha
+kooskõlastamine paberkandjal
+
+ ⁽⁴⁾ Kooskõlastamine digitaalsel kujul.
+
+1,00
+
+1,22
+
+€/kuu
+
+0,00
+
+€/min
+vastavalt Äripaketi kõneteenuste tasudele
+
+0,00
+
+0,00
+
+0,00
+
+€/kord
+
+km-ta
+
+km-ga
+
+ühik
+
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+
+€/kord
+€/kord
+
+€/kord
+€/kord
+€/kord
+€/kord
+€/kord
+€/kord
+€/kord
+€/kord
+
+€/kord
+€/kord
+
+€/kord
+€/kord
+€/kord
+€/kord
+
+5,89
+8,99
+10,00
+3,00
+5,89
+3,00
+1,00
+4,00
+15,00
+6,00
+20,00
+10,00
+
+7,19
+10,97
+12,20
+3,66
+7,19
+3,66
+1,22
+4,88
+18,30
+7,32
+24,40
+12,20
+
+4,92
+13,11
+
+6,00
+16,00
+
+3,00
+3,00
+3,00
+2,00
+3,00
+9,90
+6,00
+3,00
+
+30,00
+75,00
+
+27,00
+38,00
+49,00
+69,00
+
+2,46
+2,46
+2,46
+1,64
+2,46
+8,11
+4,92
+2,46
+
+24,59
+61,48
+
+22,13
+31,15
+40,16
+56,56
+
+50,82
+68,85
+86,07
+
+69,67
+
+62,00
+84,00
+105,00
+
+€/kord
+€/kord
+€/kord
+vastavalt erikokkuleppele
+€/kord
+
+85,00
+
+väljavõte Telia Eesti AS lõppkasutajate hinnakirjast
+
+Seisuga 17.04.2025
+
+IV ptk
+
+6.2.2.
+6.2.2.1.
+6.2.2.2.
+6.2.2.3.
+6.2.2.4.
+
+6.2.3.
+6.2.3.1.
+6.2.3.2.
+
+6.2.4.
+6.2.4.1.
+6.2.4.2.
+6.2.4.3.
+
+6.2.5.
+6.2.5.1.
+6.2.5.1.1.
+6.2.5.1.2.
+6.2.5.1.3.
+
+6.2.5.2.
+6.2.5.2.1.
+6.2.5.2.2.
+
+6.2.5.3.
+6.2.5.3.1.
+
+6.2.5.4.
+6.2.5.4.1.
+
+6.2.5.5.
+6.2.5.5.1.
+
+6.2.6. 
+6.2.6.1. 
+6.2.6.2.
+
+Püsiühenduse teenused ärikliendile
+
+km-ta
+
+km-ga
+
+ühik
+
+telekommunikatsioonialaste tehniliste tingimuste väljastamine
+projektile haardeulatusega kuni 50 m
+projektile haardeulatusega üle 50 m
+asendusrajatise projektile
+konsultatsiooni tasu, 30 min
+
+20,49
+40,16
+72,13
+19,67
+
+25,00
+49,00
+88,00
+24,00
+
+€/kord
+€/kord
+€/kord
+€/kord
+
+eriveo kooskõlastamine
+eriveo (suuregabariidilise veose) kooskõlastamine ⁽⁵⁾
+eriveo (suuregabariidilise veose) kooskõlastamine kiirendatud korras ⁽⁶⁾
+
+6,00
+10,00
+
+7,32
+12,20
+
+€/kord
+€/kord
+
+⁽⁵⁾
+⁽⁶⁾
+
+Kooskõlastamine toimub 3 tööpäeva jooksul.
+Kooskõlastamine toimub taotluse esitamisele järgneva tööpäeva jooksul.
+
+järelevalveteenused
+järelevalve teenus tööpäeval
+järelevalve teenus väljaspool tööpäeva
+järelevalve teenus väljaspool Iseteenindust
+
+kaablikanalisatsiooni ava rent 
+kuutasu
+üks paigalduskoht
+kaks paigalduskohta
+kuus paigalduskohta
+
+tellimistasu
+tehniliste tingimuste väljastamise tasu
+trassi planeerimise tasu
+
+Paigalduskoht magistraaltrassis (tsoon A)
+kuutasu
+
+Paigalduskoht jaotuspiirkonnas (tsoon B)
+kuutasu
+
+Paigalduskoht hoone sisestuses (tsoon C)
+kuutasu
+
+valguskaabli kiu rent ⁽⁷⁾
+liitumistasu 
+kuutasu
+
+39,34
+59,02
+57,38
+
+48,00
+72,00
+70,00
+
+€/tund
+€/tund
+€/kord
+
+0,07
+0,14
+0,41
+
+0,08
+0,17
+0,51
+
+€/jm
+€/jm
+€/jm
+
+38,34
+0,10
+
+46,78
+0,12
+
+€/kord
+€/jm
+
+0,15
+
+0,18
+
+€/jm
+
+0,29
+
+0,35
+
+€/jm
+
+0,23
+
+0,28
+
+€/jm
+
+110,06
+0,04
+
+134,27
+0,05
+
+€/kord
+€/jm
+
+⁽⁷⁾
+
+Alates 01.01.2012 on müüdav erilahendusena. Teenuse lõplik hind kujuneb välja vastavalt lahendusele.
+
+6.3.
+
+Hooldusteenused
+
+• Seadme tasulist remonti teostatakse vastavalt tootja poolt volitatud hoolduspartneri hinnakirjale. Ametlike hoolduspartnerite 
+kontakte vt Kodulehel.
+
+seadme käsitlustasu (vea tuvastamine)
+mobiiltelefonid, tavatelefonid
+IT põhiseadmed
+IT lisaseadmed (v.a printerid)
+ruuterid, digiboksid
+audiovideo põhiseadmed
+audiovideo muud seadmed
+asendusseadme üür ⁽⁸⁾
+arvuti (sh tahvel- või sülearvuti) kõvakettal olevate kliendi andmete 
+ümberkopeerimine uuele kõvakettale
+üle 2 GB mahu kopeerimisel
+mobiiltelefoni (v.a iPhone) andmete kopeerimine, sh kontaktkirjed, 
+kalendrimärkmed, dokumendifailid, fotod, videofailid (v.a seadmesse alla laetud 
+kolmandate osapoolte rakendused, mängud jms)
+kahjuhüvitis asendustelefoni tagastamata jätmise, kahjustamise, kaotamise vms 
+korral sõltuvalt mudeli väärtusest
+ekspertiisiakti koostamine tellimisel
+
+16,39
+29,51
+13,11
+16,39
+47,54
+29,51
+12,30
+37,70
+
+24,59
+
+20,00
+36,00
+16,00
+20,00
+58,00
+36,00
+15,00
+46,00
+
+€/kord
+€/kord
+€/kord
+€/kord
+€/kord
+€/kord
+€/kord
+€/kord
+
+tasu kokkuleppel
+€/kord
+
+30,00
+
+40,98 - 
+573,77
+16,39
+
+50,00 - 
+700,00
+20,00
+
+€/tk
+
+€/kord
+
+6.3.1.
+6.3.1.1.
+6.3.1.2.
+6.3.1.3.
+6.3.1.4.
+6.3.1.5.
+6.3.1.6.
+6.3.2.
+6.3.3.
+
+6.3.3.1.
+6.3.4.
+
+6.3.5.
+
+6.3.6.
+
+väljavõte Telia Eesti AS lõppkasutajate hinnakirjast
+
+Seisuga 17.04.2025
+
+IV ptk
+
+Püsiühenduse teenused ärikliendile
+
+km-ta
+
+km-ga
+
+ühik
+
+⁽⁸⁾
+
+Tasu rakendatakse remondiperioodi või iga minimaalse üüriperioodi eest.
+
+7.
+
+7.1.
+
+7.1.1.
+
+7.1.2.
+7.1.2.1.
+
+7.1.2.2.
+
+7.1.3.
+7.1.3.1.
+7.1.3.2.
+
+7.1.4.
+7.1.4.1.
+7.1.4.1.1.
+7.1.4.1.2.
+7.1.4.2.
+
+Teenustasud
+
+km-ta
+
+km-ga
+
+ühik
+
+Lepinguga seonduvad teenustasud
+
+teenuse üleandmine teisele kliendile
+
+0,00
+
+0,00
+
+€/kord
+
+teenuse ümberpaigutamine uuele aadressile ⁽¹⁾
+
+kõne- ja andmeside ühendusteenused (v.a Ärikliendi Internet, Turvanet, Turvaline 
+Seadmenet, Äritelefon)
+Ärikliendi Internet, Turvanet, Turvaline Seadmenet, Äritelefon
+
+0,00
+
+0,00
+
+€/kord
+
+vastavalt kulukalkulatsioonile
+
+kõne- ja andmeside ühendusteenuse vahetamine teise sama valdkonna ühendusteenuse vastu ⁽¹⁾⁽²⁾
+teenindaja vahendusel
+iseteeninduses
+
+5,06
+0,00
+
+6,17
+0,00
+
+€/kord
+€/kord
+
+ajutine lepingu peatamine
+tellimistasu
+teenindaja vahendusel
+iseteeninduses
+kuutasu ⁽³⁾
+
+1,66
+0,00
+2,61
+
+2,02
+0,00
+3,18
+
+€/kord
+€/kord
+€/kuu
+
+7.1.5.
+
+võla tõttu piiratud teenuste taasavamise tasu
+
+5,41
+
+6,60
+
+€/kord
+
+⁽¹⁾
+⁽²⁾
+⁽³⁾
+
+Kliendi juures tehtavate tööde eest tasutakse täiendavalt vastavalt Hinnakirjas toodud teenustööde tasudele.
+Tööde teostamiseks kasutatud materjalide ja varuosade eest tasutakse täiendavalt.
+Teenuse esmakordsel tellimisel rakendatakse kuutasu soodustust 90 päevaks 0 €. Kuutasu soodustust ei rakendata teenuse 
+korduval tellimisel, kui eelmise soodustusega ajutise lepingu peatamise teenuse aktiveerimisest on möödas vähem kui 360 
+päeva. Seda ka juhul, kui kliendi poolt tellitud eelmise Ajutise lepingu peatamise teenuse periood oli lühem kui 90 päeva.
+
+Arvega seonduvad teenustasud
+
+teenuste eristus
+ühekordne teenuste eristus iseteeninduses või teenindaja vahendusel
+perioodiline teenuste eristus failina
+
+0,00
+5,32
+
+0,00
+6,49
+
+€/kord
+€/kuu
+
+arveldusteenused teenuse pakkujatele
+arverida Telia kliendiarvel
+ühe maksustuskirje töötlemine
+lisatasuliste teenusnumbrite arveldusteenustasu
+lisainformatsioon teenusnumbri kõnede kohta
+
+Muud tasud
+
+nõustamine ⁽⁴⁾
+ärikliendi nõustamine telefoni teel ⁽⁸⁾
+tasu liini rajamise eest ⁽¹¹⁾
+tasu tehnilise valmiduse loomise eest
+väljasõidutasu ⁽⁹⁾
+IT-spetsialisti väljasõidutasu ⁽⁹⁾
+spetsialisti väljasõidu tasu töövälisel ajal ⁽¹⁰⁾
+spetsialisti tunnitasu ⁽⁴⁾⁽⁷⁾
+spetsialisti tunnitasu töövälisel ajal ⁽⁴⁾
+IT-spetsialisti tunnitasu tööpäeval ⁽⁷⁾⁽¹³⁾⁽¹⁶⁾⁽¹⁷⁾
+tehniku pakett ⁽⁴⁾⁽¹⁴⁾⁽¹⁵⁾
+serverteenuste spetsialisti tunnitasu tööpäeval ⁽⁴⁾⁽¹⁶⁾⁽¹⁷⁾
+teenuslepingu välise lisatöö tunnitasu tööpäeval Telia IT-püsiteenuste lepingu 
+sõlminud kliendile
+tagatisraha ärikliendile
+
+⁽⁴⁾
+
+Arveldus toimub 15 minuti kaupa.
+
+0,07
+0,0038
+
+4,06
+
+32,79
+25,00
+
+16,39
+20,00
+65,57
+33,33
+65,57
+66,00
+65,57
+90,00
+75,00
+
+0,09
+0,0047
+
+€/kirje
+€/kirje
+vastavalt teenuselepingule
+€/päring
+
+4,95
+
+40,00
+30,50
+
+€/tund
+€/kord
+vastavalt kulukalkulatsioonile
+vastavalt kulukalkulatsioonile
+€/kord
+€/kord
+€/kord
+€/tund
+€/tund
+€/tund
+€/tund
+€/tund
+€/tund
+
+20,00
+24,40
+80,00
+40,66
+80,00
+80,52
+80,00
+109,80
+91,50
+
+262,30
+
+320,00
+
+€/kord
+
+7.2.
+
+7.2.1.
+7.2.1.1.
+7.2.1.2.
+
+7.2.2.
+7.2.2.1.
+7.2.2.1.1.
+7.2.2.1.2.
+7.2.2.1.3.
+
+7.3.
+
+7.3.1.
+7.3.2.
+7.3.3.
+7.3.4.
+7.3.5.
+7.3.6.
+7.3.7.
+7.3.8.
+7.3.9.
+7.3.10.
+7.3.11.
+7.3.12.
+7.3.12.1.
+
+7.3.13.
+
+väljavõte Telia Eesti AS lõppkasutajate hinnakirjast
+
+Seisuga 17.04.2025
+
+IV ptk
+
+Püsiühenduse teenused ärikliendile
+
+km-ta
+
+km-ga
+
+ühik
+
+⁽⁷⁾
+
+⁽⁸⁾
+⁽⁹⁾
+
+⁽¹⁰⁾
+
+⁽¹¹⁾
+
+⁽¹²⁾
+⁽¹³⁾
+⁽¹⁴⁾
+⁽¹⁵⁾
+⁽¹⁶⁾
+⁽¹⁷⁾
+
+Arveldus toimub 30 minuti kaupa, miinimumtööaeg on 60 minutit v.a kaughalduse puhul, kus arveldus toimub 15 minuti kaupa 
+ning miinimumtööaeg on 15 minutit.
+Tasu arvestatakse ühe edukalt lahendatud juhtumi kohta.
+Lisandub teenuse hinnale spetsialisti väljasõidu korral (rakendatakse ka juhul, kui spetsialist on kohale sõitnud, kuid ei saa 
+kliendist olenevatel põhjustel kokkulepitud tööd teostada). Korraga mitme spetsialisti väljasõidul rakendatakse ühte 
+väljasõidutasu.
+Rakendatakse ka juhul, kui spetsialist on kohale sõitnud, kuid ei saa kliendist olenevatel põhjustel riket kõrvaldada. Samuti ka 
+juhul, kui rike lokaliseeritakse ja kõrvaldatakse Telia võrguosas. Korraga mitme spetsialisti väljasõidul rakendatakse ühte 
+väljasõidutasu. Tööaeg, millest sõltub tööväliseks ajaks loetav aeg, on toodud Telia üldtingimustes.
+
+Rakendub hinnakirjas fikseeritud teenustele juhul, kui vastava teenuse kasutamise alustamiseks (nt liitumisel, 
+ümberpaigutamisel vms) on vajalik rajada liini(osa) Telia sidevõrgu lõpp-punkti ja kliendi poolt soovitava ühenduspunkti vahel.
+Tööde teostamiseks kasutatud materjalide ja varuosade eest tasutakse täiendavalt.
+Teenuseid osutatakse kaughaldusvahendite abil või kliendi asukohas Eesti Vabariigi piires.
+Lisandub väljasõidutasu.
+Sisaldab töö käigus tehniku poolt paigaldatud materjale: kaablid, kinnitusvahendid, pesad jne.
+Tööpäev on kalendripäev (ajavahemikus 9.00-18.00), mis ei ole laupäev, pühapäev, riiklik- ega rahvuspüha.
+Tunnitasu väljaspool tööaega (v.a öisel ajal) arvestatakse koefitsiendiga 1,5. Tunnitasu öisel ajal (ajavahemikus 22.00-06.00) 
+arvestatakse koefitsiendiga 2.
+
+7.3.14.
+7.3.14.1.
+7.3.14.2.
+7.3.14.3.
+7.3.14.4.
+
+7.3.15.
+7.3.15.1.
+
+7.3.15.1.1.
+7.3.15.1.1.1.
+
+7.3.15.1.2.
+7.3.15.1.2.1.
+7.3.15.1.2.2.
+7.3.15.1.2.3.
+
+7.3.15.1.3.
+7.3.15.1.3.1.
+7.3.15.1.3.2.
+7.3.15.1.3.3.
+
+7.3.15.1.4.
+7.3.15.1.4.1.
+7.3.15.1.4.2.
+7.3.15.1.4.3.
+
+konfiguratsiooni muudatus
+hinnagrupp 1
+hinnagrupp 2
+hinnagrupp 3
+hinnagrupp 4
+
+kliendile tagatav kõrgendatud teenustase (SLA) ⁽¹⁸⁾
+kuutasu 
+
+tööpäevadel kl. 8.00 - 17.00 maksimaalse seisakuajaga
+järjestikku 8 tundi
+
+tööpäevadel kl. 8.00 - 18.00 maksimaalse seisakuajaga
+järjestikku 4 tundi, kokku kuus 8 tundi
+järjestikku 6 tundi, kokku kuus 12 tundi
+järjestikku 8 tundi, kokku kuus 16 tundi
+
+tööpäevadel ja laupäevadel kl. 8.00 - 20.00 maksimaalse seisakuajaga ⁽¹⁹⁾
+järjestikku 4 tundi, kokku kuus 8 tundi
+järjestikku 6 tundi, kokku kuus 12 tundi
+järjestikku 8 tundi, kokku kuus 16 tundi
+
+kõikidel päevadel kl. 8.00 - 23.00 maksimaalse seisakuajaga ⁽¹⁹⁾
+järjestikku 4 tundi, kokku kuus 8 tundi
+järjestikku 6 tundi, kokku kuus 12 tundi
+järjestikku 8 tundi, kokku kuus 16 tundi
+
+1,60
+5,06
+26,63
+94,27
+
+1,95
+6,17
+32,49
+115,01
+
+€/kord
+€/kord
+€/kord
+€/kord
+
+6,39
+
+7,80
+
+€/kuu
+
+31,63
+25,24
+18,84
+
+63,59
+47,61
+31,63
+
+95,55
+79,57
+63,59
+
+38,59
+30,79
+22,99
+
+77,58
+58,09
+38,59
+
+116,57
+97,07
+77,58
+
+€/kuu
+€/kuu
+€/kuu
+
+€/kuu
+€/kuu
+€/kuu
+
+€/kuu
+€/kuu
+€/kuu
+
+⁽¹⁸⁾
+⁽¹⁹⁾
+
+Võimaldatakse andmesideühendustele tehnilise selgituse järgselt tehnilise võimaluse olemasolul.
+Tööde teostamiseks kasutatud materjalide ja varuosade eest tasutakse täiendavalt.
+
+8.
+
+8.1.
+8.2.
+8.3.
+
+Kõneminuti hinnad
+
+riigisisene kõne
+rahvusvaheline kõne ⁽¹⁾
+kõne kõneteenusnumbrile ⁽²⁾
+
+km-ta
+
+km-ga
+
+ühik
+
+vastavalt valitud hinnapaketile
+
+⁽¹⁾
+⁽²⁾
+
+Eestist välismaale helistamise riikide nimekiri ja hinnad on toodud Kodulehel.
+Kõneteenusnumbrite nimekiri ja helistamise hinnad on toodud Kodulehel.
+
+(*) Telia osutab Kliendile teenuseid krediidipõhimõttel. Teenuste krediidilimiit on Telia poolt Kliendile kehtestatud 
+rahaline piirsumma, mis on seotud Kliendi poolt Telia teenuste kasutamisega ja maksekäitumisega ning mille 
+ületamisel ei ole Telia kohustatud osutama Kliendile Teenuseid krediiti ning võib nõuda Kliendilt ettemaksu tasumist 
+või piirata kliendile teenuse osutamist. Täiendav info Telia krediiditingimuste kohta on kättesaadav Kodulehel.
+
+

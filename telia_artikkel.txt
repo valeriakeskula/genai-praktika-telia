@@ -1,0 +1,873 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rohde & Schwarz: Eestis on mobiilse interneti kiirus hüppeliselt kasvanud - Digitark
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mis on Digitark?
+
+
+Digitark Youtube'is
+
+
+Telia.ee
+
+
+
+
+
+
+est
+
+
+rus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Uudised
+
+
+Turvalisus
+
+
+Ettevõtlus
+
+
+TV ja meelelahutus
+
+
+Tark töö
+
+
+IT-blogi
+
+
+
+
+
+
+
+
+Mis on Digitark?
+
+
+Digitark Youtube'is
+
+
+Telia.ee
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+est
+
+
+rus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rohde & Schwarz: Eestis on mobiilse interneti kiirus hüppeliselt kasvanud
+
+
+#5G
+#mobiilse interneti kiirus
+#Rohde & Schwarz
+#Telia
+
+4 min lugemine 
+
+
+
+
+
+
+
+
+
+Digitark09.12.2024 08:01
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rahvusvaheline seirefirma Rohde & Schwarz viis sügisel Eestis läbi ulatuslikud mõõtmised, mille käigus analüüsiti Telia, Elisa ja Tele2 mobiilivõrkude suutlikkust. Selgub, et tänu 5G võrkude arengule on mobiilse interneti keskmine kiirus viimase aastaga Eestis oluliselt kasvanud.  
+Saamaks kogu riigi kohta võimalikult täpset ja ülevaatlikku pilti, sõitis Rohde & Schwarz mobiilivõrkude testimise nimel terve Eesti risti-põiki läbi. Selle käigus läbiti kokku ca 6500 kilomeetrit ning teostati mõõtmisi nii olulisematel maanteedel kui ka kõigis suuremates linnades eesotsas Tallinna, Tartu, Pärnu, Narva ja Kohtla-Järvega.
+Lisaks sellele mõõdeti kõigi kolme operaatori võrkude jõudlust terves reas väiksemates linnades ja asukohtades, sh Viljandi, Maardu, Rakvere, Kuressaare, Sillamäe, Valga, Võru, Keila, Haapsalu, Paide, Saue, Elva, Põlva, Rapla, Jõgeva, Türi, Põltsamaa, Sindi, Kärdla, Märjamaa, Narva-Jõesuu, Räpina, Kiili ja Mustvee.
+
+
+
+
+
+
+
+
+
+Eestis teostatud mõõtmiste ülevaade. Allikas: Rohde & Schwarz 
+
+
+
+
+
+
+
+
+
+Eesti mobiilioperaatorite võrgujõudluse skoor. Allikas: Rohde & Schwarz 
+
+
+
+
+
+
+
+
+
+Eesti mobiilioperaatorite keskmised allalaadimiskiirused suurtes linnades, väikestes linnades ja maanteedel. Allikas: Rohde & Schwarz 
+
+
+
+
+
+
+
+
+
+Eesti mobiilioperaatorite tulemused videokõnede ja e-mängude kvaliteeti arvestuses. Allikas: Rohde & Schwarz 
+
+
+Kogutud andmete põhjal selgitati välja, milline on kohalike operaatorite võimekus nii kõneside, mobiilse andmeside kiiruse kui ka e-mängude ja videokõnede arvestuses.
+Rohde & Schwarz poolt avaldatud kokkuvõttest selgub, et erinevaid võrguparameetreid arvesse võttes saavutas Eesti telkodest kõrgeima võrgujõudluse skoori (Network Perfomance Score) Telia, seda nii kõne- kui andmeside arvestuses. Järgnesid Elisa ja Tele2.
+Võrgujõudluse skoor kokku
+(võimalikust 1000 punktist)
+Telia: 825 punkti
+Elisa: 796 punkti
+Tele2: 767 punkti
+Kõneside skoor
+(võimalikust 400 punktist)
+Telia: 374 punkti
+Elisa:368 punkti
+Tele2: 353 punkti
+Mobiilse andmeside skoor
+(võimalikust 600 punktist)
+Telia: 451 punkti
+Elisa: 428 punkti
+Tele2: 414 punkti
+ 
+Mobiilse andmeside kiirus on tänu 5G-le oluliselt kasvanud
+Rohde & Schwarz mõõtmistest selgus ka, et tänu 5G võrkude arengule on viimase aasta jooksul teinud mobiilse andmeside kiirus Eestis tervikuna läbi märkimisväärse hüppe. Mobiilse andmeside keskmise kiiruse arvestuses (nii alla- kui üleslaadimisel) saavutas parima tulemuse Telia. Näiteks suuremates linnades (sh Tallinn, Tartu, Narva, Pärnu, Kohtla-Järve) ulatus Telia mobiilivõrgu keskmine allalaadimiskiirus 445,9 Mbit/s-ni, mis on 2,5 korda parem tulemus kui eelmisel aastal. Elisa tänavune keskmine tulemus oli selles arvestuses 278,3 Mbit/s ja Tele2 oma 169,7 Mbit/s.
+Suuremates linnades (sh Tallinn, Tartu, Narva, Pärnu, Kohtla-Järve) saavutatud keskmised allalaadimiskiirused:
+Telia: 445,9 Mbit/s
+Elisa: 278,3 Mbit/s
+Tele2: 169,7 Mbit/s
+Väiksemates linnades (sh nt Viljandi, Haapsalu, Rakvere, Keila, Paide, Kuressaare, Türi jt) saavutatud keskmised allalaadimiskiirused:
+Telia: 476,9 Mbit/s
+Elisa: 306 Mbit/s
+Tele2: 168,8 Mbit/s
+Maanteedel saavutatud keskmised allalaadimiskiirused:
+Telia: 246 Mbit/s
+Elisa: 172,2 Mbit/s
+Tele2: 85,2 Mbit/s
+Lisaks andmeside kiirusele mõõtis Rohde & Schwarz ka kolme Eesti mobiilioperaatori võrkudes pakutavat videokõnede ning reaalajas toimuvate e-mängude kvaliteeti. Ka selles arvestuses saavutas parimad tulemused Eesti suurim mobiilioperaator Telia.
+Videokõnede arvestuses saavutas Telia skooriga 87,59% esikoha, järgnesid Elisa (77,43%) ja Tele2 (73,69%). Reaalajas toimunud e-mängude arvestuses oli Telia skoor 82,93%, teiseks asetus Tele2 (71,33%) ja kolmandaks Elisa (59,19%).
+Telia tehnoloogiajuhi Andre Visse sõnul näitab Rohde & Schwarz poolt koostatud analüüs, et Eestis tervikuna on mobiilsideteenuste kvaliteet kõrgel tasemel.
+„Telia 5G võrgu leviala katab tänaseks juba enam kui 90% Eesti elanikkonnast. Rohde & Schwarzi kokkuvõtetest ilmneb, et meie poolt tehtud mahukad investeeringud mobiilivõrkudesse kannavad vilja: Telia kliendid saavad kasutada parimat kõne- ja andmeside teenust ning kogeda kõrgeimaid andmeedastuse kiirusi. Lisaks sellele näitab raport, et kuulume oma võrgujõudluse skoori näitajatelt maailma parimate mobiilioperaatorite hulka, mis on ka varem sarnastest ülevaadetest välja tulnud. Soovime pakkuda oma klientidele maailma tipptasemel kvaliteeti ning ülaltoodud tulemused kinnitavad, et meie valitud suund on õige,“ märkis Visse.
+„Rohde & Schwarzi ja Telia koostöö pakub Teliale hindamatuid teadmisi oma võrgu toimivusest ning aitab oluliselt kaasa Eesti mobiilivõrkude üldise kvaliteedi tõstmisele,“ ütles Rohde & Schwarz Swissqual AG tegevjuht Axel Hansmann. „Mobiilse interneti kiiruste märkimisväärne kasv ja Telia silmapaistev tulemus kinnitavad meie koostöö tulemuslikkust ning Telia võrgu kõrget taset. See on teine järjestikune aasta, mil Telia Eesti on usaldanud Rohde & Schwarzi võrdlusmõõtmiste planeerimise ja läbiviimise, kasutades Network Performance Score’i (NPS) metoodikat vastavalt ETSI TR 103 559 standardile, et hinnata mobiilivõrkude hääl- ja andmesideteenuste kvaliteeti.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Digitark
+
+
+Digitark koondab tehnoloogiateadlikke ja -huvilisi toimetajaid, kes otsivad üles põnevaimad ja kasulikumad tehnoloogiakillud Eestist ja laiast maailmast, et sinu elu oleks lihtsam, mugavam, toredam ja turvalisem.
+
+
+
+Seotud artiklid
+
+
+
+
+
+
+
+
+
+
+Tehnoloogia
+2 min lugemine 
+Värske analüüs: Telia Eesti kuulub teenuste kvaliteedilt maailma parimate mobiilioperaatorite hulka
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Saade digitarkVaata ►
+
+
+                Digitargal on nüüd YouTube'i kanal ja värske tehnoloogiasaade - vaata ja arutle kaasa.
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Populaarsemad teemad 
+
+
+
+
+
+Uudiseid põnevast digimaailmast
+Ettevõtlus
+Tehnoloogia
+TV ja meelelahutus
+Seadmed
+Turvalisus
+Digitarkus
+Roheline mõtteviis
+5G
+Klient
+
+
+
+
+
+
+
+
+
+
+ 
+Digitarkade klubi facebook.com/groups/Digitark 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Kuula: Äripäeva Raadio Kuula kõiki saateid 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5G
+1 min lugemine 
+2.12 Digitund: värske uuringu kohaselt on Eestis mobiilse interneti kiirus hüppeliselt kasvanud
+Rahvusvaheline seirefirma Rohde & Schwarz viis sügisel Eestis läbi ulatuslikud mõõtmised, mille käigus analüüsiti mobiilivõrkude suutlikkust. 
+
+
+
+
+
+
+
+Digitark
+
+
+, 11.12.2024 08:00
+
+
+
+
+
+
+
+
+
+
+
+5G
+2 min lugemine 
+Kaitsevägi testis spetsiaalselt neile loodud 5G privaatvõrgu lahendust
+Katsetatud 5G privaatvõrgu lahendus tagab turvalise ja tõhusa andmeside nii rahuajal kui kriisiolukordades ning võimaldab eraldada Eesti relvajõudude mobiililiikluse vajadusel ülejäänud Telia Eesti üleriigilisest mobiilside liiklusest. 
+
+
+
+
+
+
+
+Digitark
+
+
+, 02.10.2024 08:45
+
+
+
+
+
+
+
+
+
+
+
+5G
+4 min lugemine 
+Suvistel üritustel tarbiti terabaitide kaupa mobiilset internetti
+Tänavune suvi pakkus inimestele taas omajagu meelelahutust nii kontsertide, festivalide, spordisündmuste kui laatade näol. 
+
+
+
+
+
+
+
+Digitark
+
+
+, 22.09.2024 07:15
+
+
+
+
+
+
+
+
+
+
+
+5G
+2 min lugemine 
+Telia tõi turule uued 5G võimekusega äriklientidele mõeldud mobiilipaketid 
+Telia tõi 23. augustil turule uued äriklientidele mõeldud  mobiilipaketid, mis sisaldavad 5G võimekust ja 300 minutit/SMS-i kõnedeks Eestist Euroopa Liidu riikidesse. 
+
+
+
+
+
+
+
+Digitark
+
+
+, 29.08.2024 10:40
+
+
+
+
+
+
+
+
+
+
+
+5G
+2 min lugemine 
+Päike kahandab aga suvised sündmused suurendavad eestlaste mobiilikasutust
+Telia mobiilivõrgu kasutusstatistika näitab, et päikesel ja ilusal ilmal on mobiilse andmeside kasutusaktiivsusele pigem kahandav mõju. 
+
+
+
+
+
+
+
+Digitark
+
+
+, 25.06.2024 08:59
+
+
+
+
+
+
+
+
+
+
+
+5G
+2 min lugemine 
+Telia lisas 5G kiirused kõigisse uutesse erakliendi mobiilipakettidesse
+Telia tõi 10. juunil esimese kohaliku mobiilioperaatorina välja uued eraklientidele mõeldud mobiilipaketid, mis on kõik varustatud 5G võimekusega. 
+
+
+
+
+
+
+
+Digitark
+
+
+, 11.06.2024 07:30
+
+
+
+
+
+
+
+
+
+
+
+5G
+1 min lugemine 
+“Digitund”: milliseid võimalusi pakub 5G võrgus nn millimeetersagedus
+18. märtsi "Digitunni" saates oli külas Telia tehnoloogiajuht Andre Visse, kes rääkis sellest, kuidas on Telia Eesti ühe esimese telkona Euroopas oma 5G võrgus kasutusele võtnud 26GHz sagedusala. 
+
+
+
+
+
+
+
+Digitark
+
+
+, 25.03.2024 08:30
+
+
+
+
+
+
+
+
+
+
+
+5G
+3 min lugemine 
+Esimeste seas Euroopas: Telia hakkas pakkuma suurima jõudlusega teenust uuel 5G sagedusalal
+Eesti mobiilioperaator Telia võttis esimeste seas Euroopas ja esimesena Balti riikides oma 5G võrgus kommertskasutusse 26GHz sagedusala, mis lubab pakkuda klientidele üle õhu kõige kiiremat ja suurima jõudlusega 5G koduinternetti. 
+
+
+
+
+
+
+
+Digitark
+
+
+, 27.02.2024 11:13
+
+
+
+  
+
+Lae veel postitusi 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ONLINE-ABI SINULE!
+Sa ei pea ise ekspert olema, et oma IT-seadmeid või telefone ühendada ja seadistada – online-abi testib automaatselt su ühenduse tervist.
+
+
+
+
+Loen lähemalt 
+
+
+
+
+
+
+
+Soeta parimat digitehnikat!
+Laiast valikust digitehnikast aitame sul leida just sulle sobivad tooted. Kasuta järelmaksu, võrdle tooteid ja küsi nõu online-chatist.
+
+
+
+
+Sisenen e-poodi 
+
+
+
+
+
+
+
+Telia TV
+Filmiklassikast kuni kõige kuumemate sarjadeni – oma lemmikud ja uued elamused leiad siit!
+
+
+
+
+
+
+Loen lähemalt 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
