@@ -275,4 +275,11 @@ for fraas in fraasid:
     """Konteksti lisamine parandab täpsust – mudelil on rohkem infot. 
     Kuid problimiks on see, et osa vastuseid võib sisaldada vananenud andmeid."""
 
+## Tagasiside
+"""Minu jaoks olid lihtsamad need ülesanded, kus tuli faile alla laadida ja tekstiks konverteerida –
+ nende jaoks oli olemas palju näiteid ja info oli selgelt arusaadav. Samuti meeldis mulle tekstijuppideks jagamine ja
+  vektorite loomine, sest see tundus loogiline ja matemaatiliselt huvitav.
 
+Keerulisemaks osutus Gemini API seadistamine ja .env failide kasutamine, 
+kuna see oli uus teema ja nõudis rohkem tehnilist mõistmist. Samuti oli keeruline hübriidotsingu loogika realiseerimine,
+ aga tänu selgitustele sain sellest lõpuks hästi aru."""
