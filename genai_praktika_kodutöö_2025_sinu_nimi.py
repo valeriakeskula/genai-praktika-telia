@@ -318,6 +318,7 @@ def get_weather(city: str):
         return f"Ilmaandmeid ei leitud linnale {city}."
 
 
+
 # Funk., mis laseb Gemini-le ise otsustada linna ja siis kasutab tööriista
 def gemini_küsib_ja_kasutab_tööriista(prompt):
     response = model.generate_content(f"{prompt} Kirjuta ainult linna nimi vastuses.")
