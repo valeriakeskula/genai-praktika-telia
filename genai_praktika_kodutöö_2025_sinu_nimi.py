@@ -252,7 +252,7 @@ print("Saadaval mudelid:")
 for m in genai.list_models():
     print(m.name)
 
-model = genai.GenerativeModel("gemini-pro")
+model = genai.GenerativeModel("models/gemini-1.5-pro-latest")
 response = model.generate_content("Mis on digikelts?")
 print(response.text)
 
@@ -300,7 +300,7 @@ weather_api_key = os.getenv("OPENWEATHER_API_KEY")
 
 # Gemini
 genai.configure(api_key=genai_api_key)
-model = genai.GenerativeModel("gemini-pro")
+model = genai.GenerativeModel("models/gemini-1.5-pro-latest")
 
 
 
