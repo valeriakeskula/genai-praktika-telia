@@ -1,9 +1,8 @@
 from pdfminer.high_level import extract_text
 from bs4 import BeautifulSoup
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
+import google.ai.generativelanguage as glm
 
-from dotenv import load_dotenv
-import os
 import google.generativeai as genai
 from sentence_transformers import SentenceTransformer, util
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -11,7 +10,6 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 import numpy as np
 from sentence_transformers import util
 
-import requests
 import os
 from dotenv import load_dotenv
 
@@ -185,7 +183,17 @@ for i, fv in enumerate(fraasi_vektorid):
 
 
 ## 1.6 alamülesanne - hübriidotsing
-tfidf = TfidfVectorizer(stop_words="estonian")
+estonian_stopwords = [
+    "ja", "on", "see", "et", "ei", "kas", "või", "kuid", "ka", "oma", "mis",
+    "kelle", "seda", "kui", "olen", "me", "te", "nad", "mida", "neid", "meid",
+    "kes", "mille", "selle", "milline", "seal", "siin", "olnud", "saab", "nende",
+    "pole", "sellel", "siis", "neist", "oleks", "kasutatakse", "ainult", "võib", "enam",
+    "üks", "rohkem", "vähem", "tuleb", "enda", "neile", "tema", "nendele", "aga", "ning",
+    "võimalik", "selleks", "sealhulgas", "samas", "vahel", "mõned", "teatud", "seejärel"
+]
+
+tfidf = TfidfVectorizer(stop_words=estonian_stopwords)
+
 tfidf_matrix = tfidf.fit_transform(tekstijupid)
 
 def hybridi_otsing(küsimus, top_k=3):
@@ -240,7 +248,13 @@ genai_api_key = os.getenv("GEMINI_API_KEY")
 
 genai.configure(api_key=genai_api_key)
 
+print("Saadaval mudelid:")
+for m in genai.list_models():
+    print(m.name)
+
 model = genai.GenerativeModel("gemini-pro")
+response = model.generate_content("Mis on digikelts?")
+print(response.text)
 
 def küsi_geminilt(prompt):
     response = model.generate_content(prompt)
@@ -287,6 +301,7 @@ weather_api_key = os.getenv("OPENWEATHER_API_KEY")
 # Gemini
 genai.configure(api_key=genai_api_key)
 model = genai.GenerativeModel("gemini-pro")
+
 
 
 # OpenWeather
