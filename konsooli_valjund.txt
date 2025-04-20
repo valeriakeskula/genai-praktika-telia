@@ -1,0 +1,1299 @@
+C:\Users\LerSs\AppData\Local\Programs\Python\Python313\python.exe "C:\Users\LerSs\OneDrive\Рабочий стол\TELIA\genai_praktika_kodutöö_2025_sinu_nimi.py"
+HTML-fail on alla laaditud.
+HTML-fail on alla laaditud.
+Cannot set gray non-stroke color because /'P0' is an invalid float value
+
+Esimesed 2000 tähemärki failist TELIA_raport_EST_2024.pdf:
+Telia ühiskondliku mõju
+raport 2024
+
+Telia Eesti AS
+
+2
+
+Panustame ühiskonna
+arengusse, et Eesti oleks
+parem paik nii elamiseks
+kui töötamiseks.
+
+KeskkonnateguridSotsiaalne mõjuJuhtimisalased teguridSisukord
+
+Keskkond
+
+Heitme- ja
+jäätmevabadus
+
+Sotsiaalne mõju
+
+Juhtimisraamistik
+
+Digitaalne kaasatus ning privaatsus ja
+küberturvalisus
+
+Jätkusuutlikkuse kolmikmõõtme
+(ESG) strateegiline juhtimine
+
+Emissioonid, energia ja liikuvus
+
+Koostöö riigi ja võrgustikega, teadus- ja arendustegevus
+
+Juhtimisraamistik ja ühised väärtused
+
+33
+
+Energia
+
+Transport
+
+Juhendid, koolitused ja hariduslikud programmid
+
+Mõju ja arengu strateegiline juhtimine
+
+Telia töötajate privaatsuse ja küberturvalisuse alase
+teadlikkuse arendamine
+
+Vastutustundlikkus maksustamisel
+
+Poliitiline kaasatus
+
+Tunnustused ja sertifikaadid
+
+Järelsõna
+
+Jäätmed ja ringmajandus
+
+Jäätmete osakaal, ümbertöötamine ja taaskasutamine
+
+Digikelts
+
+Hariduslikud programmid
+
+Ühiskonnauuringud
+
+Sideteenuste kättesaadavus
+
+Keskkonnateemad sise- ja
+väliskommunikatsioonis
+
+Telia tööandjana
+
+Telia töötajate keskkonnateadlikkus
+
+Võrdsed võimalused ja igaühega arvestamine
+
+Äriklientide keskkonnaalased küsimused
+
+Töötingimused, töökorraldus töötajate heaolu
+
+Aruanne  on  üles  ehitatud  lähtudes  ESG  raamistikust  ning  seostatud
+meie kolme fookusvaldkonnaga: keskkonnahoid, digitaalne kaasatus,
+privaatsus ja küberturvalisus.
+
+KeskkondSotsiaalne mõjuJuhtimisraamistik4
+
+Keskkond
+
+Keskkonnahoid on üks kolmest Telia
+
+fookusvaldkonnast.
+
+KeskkonnateguridSotsiaalne mõjuJuhtimisalased teguridHeitme- ja jäätmevabadus
+
+Emissioonid, energia ja liikuvus
+
+Meie  kasvuhoonegaaside  emissioon  tuleneb  Telia  kontrolli  all
+olevatest allikatest või tegevusest ning lisaks väärtusahelas ole-
+vatest tegevustest, mida kontrollivad teised ettevõtted (näiteks
+koostööpartnerid  ja  tarnijad).  Erinevaid  kasvuhoonegaaside
+emissioone arvestatakse ühikuga CO2e. Emissioonid jaotatakse
+mõjualadesse 1, 2 ja 3.
+
+Telia  enda
+
+--------------------------------------------------------------------------------
+
+
+Esimesed 2000 tähemärki failist telia_ariteenused_yldosa.pdf:
+väljavõte Telia Eesti AS lõppkasutajate hinnakirjast
+
+Seisuga 17.04.2025
+
+IV ptk
+
+Püsiühenduse teenused ärikliendile
+
+km-ta
+
+km-ga
+
+ühik
+
+Juhul, kui teenuse kasutamise alustamiseks (nt liitumisel, ümberpaigutamisel vms) on vajalik rajada liini(osa) Telia sidevõrgu
+lõpp-punkti ja kliendi poolt soovitava ühenduspunkti vahel, lisandub tasu liini rajamise eest.
+
+Kliendile pakutavate internetiühenduse teenuse kiiruste valik sõltub Kliendi poolt soovitud Ühenduspunktis (teenuse aadressil)
+olemasolevast tehnilisest lahendusest.
+
+1.
+
+1.1.
+1.1.1.
+1.1.2.
+1.1.2.1.
+1.1.2.2.
+1.1.2.3.
+1.1.2.4.
+
+1.2.
+1.2.1.
+1.2.1.1.
+1.2.1.2.
+1.2.1.3.
+1.2.1.4.
+1.2.1.5.
+1.2.1.6.
+1.2.1.7.
+1.2.1.8.
+1.2.1.9.
+1.2.1.10.
+
+1.3.
+1.3.1.
+1.3.1.1.
+1.3.1.2.
+1.3.1.3.
+
+2.
+
+2.1.
+2.1.1.
+2.1.2.
+2.1.2.1.
+2.1.2.2.
+2.1.2.3.
+2.1.3.
+
+2.1.4.
+2.1.4.1.
+2.1.4.2.
+2.1.4.2.1.
+2.1.4.2.2.
+2.1.4.2.3.
+2.1.4.2.4.
+2.1.4.2.5.
+2.1.4.2.6.
+2.1.4.2.7.
+2.1.4.2.8.
+2.1.4.2.9.
+2.1.4.2.10.
+2.1.4.2.11.
+2.1.4.2.12.
+
+Internetipaketid
+
+Ärikliendi Internet
+liitumistasu
+kuutasu
+kiirus kuni 20 Mbit/s / 10 Mbit/s ⁽¹⁾
+kiirus kuni 50 Mbit/s / 20 Mbit/s ⁽¹⁾
+kiirus kuni 100 Mbit/s / 25 Mbit/s ⁽¹⁾
+kiirus kuni 100 Mbit/s / 50 Mbit/s ⁽¹⁾
+
+⁽¹⁾
+
+Asukohapõhise mobiilivõrgu internetiühenduse tehnoloogial.
+
+Turvanet
+kuutasu
+kiirus kuni 50 Mbit/s / 10 Mbit/s ⁽²⁾
+kiirus kuni 50 Mbit/s / 25 Mbit/s ⁽²⁾
+kiirus kuni 50 Mbit/s / 50 Mbit/s ⁽²⁾
+kiirus kuni 100 Mbit/s / 25 Mbit/s ⁽²⁾
+kiirus kuni 100 Mbit/s / 50 Mbit/s ⁽²⁾
+kiirus kuni 100 Mbit/s / 100 Mbit/s ⁽²⁾
+kiirus kuni 200 Mbit/s / 50 Mbit/s ⁽²⁾
+kiirus kuni 200 Mbit/s / 200 Mbit/s ⁽²⁾
+kiirus kuni 500 Mbit/s / 500 Mbit/s ⁽²⁾
+kiirused üle 500 Mbit/s
+
+km-ta
+
+km-ga
+
+ühik
+
+vastavalt kulukalkulatsioonile
+
+30,00
+49,00
+65,00
+65,00
+
+36,60
+59,78
+79,30
+79,30
+
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+
+45,00
+45,00
+45,00
+59,00
+59,00
+59,00
+65,00
+65,00
+100,00
+
+54,90
+54,90
+54,90
+71,98
+71,98
+71,98
+79,30
+79,30
+122,00
+
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+€/kuu
+müüdav erilahendusena
+
+⁽²⁾
+
+Nende kiiruste kuutasus sisaldub lisaks internetiteenu
+
+--------------------------------------------------------------------------------
+
+
+Esimesed 2000 tähemärki HTML artiklist:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rohde & Schwarz: Eestis on mobiilse interneti kiirus hüppeliselt kasvanud - Digitark
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mis on Digitark?
+
+
+Digitark Youtube'is
+
+
+Telia.ee
+
+
+
+
+
+
+est
+
+
+rus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Uudised
+
+
+Turvalisus
+
+
+Ettevõtlus
+
+
+TV ja meelelahutus
+
+
+Tark töö
+
+
+IT-blogi
+
+
+
+
+
+
+
+
+Mis on Digitark?
+
+
+Digitark Youtube'is
+
+
+Telia.ee
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+est
+
+
+rus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rohde & Schwarz: Eestis on mobiilse interneti kiirus hüppeliselt kasvanud
+
+
+#5G
+#mobiilse interneti kiirus
+#Rohde & Schwarz
+#Telia
+
+4 min lugemine
+
+
+
+
+
+
+
+
+
+Digitark09.12.2024 08:01
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rahvusvaheline seirefirma Rohde & Schwarz viis sügisel Eestis läbi ulatuslikud mõõtmised, mille käigus analüüsiti Telia, Elisa ja Tele2 mobiilivõrkude suutlikkust. Selgub, et tänu 5G võrkude arengule on mobiilse interneti keskmine kiirus viimase aastaga Eestis oluliselt kasvanud.  
+Saamaks kogu riigi kohta võimalikult täpset ja ülevaatlikku pilti, sõitis Rohde & Schwarz mobiilivõrkude testimise nimel terve Eesti risti-põiki läbi. Selle käigus läbiti kokku ca 6500 kilomeetrit ning teostati mõõtmisi nii olulisematel maanteedel kui ka kõigis suuremates linnades eesotsas Tallinna, Tartu, Pärnu, Narva ja Kohtla-Järvega.
+Lisaks sellele mõõdeti kõigi kolme operaatori võrkude jõudlust terves reas väiksemates linnades ja asukohtades, sh Viljandi, Maardu, Rakvere, Kuressaare, Sillamäe, Valga, Võru, Keila, Haapsalu, Paide, Saue, Elva, Põlva, Rapla, Jõgeva, Türi, Põltsamaa, Sindi, Kärdla, Märjamaa, Narva-Jõesuu, Räpina, Kiili ja Mustvee.
+
+
+
+
+
+
+
+
+
+Eestis teostatud mõõtmiste ülevaade. Allikas: Rohde & Schwarz
+
+
+
+
+
+
+
+
+
+Eesti mobiilioperaatorite võrgujõudluse skoor. Allikas: Rohde & Schwarz
+
+
+
+
+
+
+
+
+
+Eesti mobiilioperaatorite keskmised allalaadimiskiirused suurtes linnades, väikestes linnades ja maanteedel. Allikas: Rohde & Schwarz
+
+
+
+
+
+
+
+
+
+Eesti mobiilioperaatorite tulemused videokõnede ja e-mä
+
+--- TELIA raport ---
+Jupp 1:
+ Telia ühiskondliku mõju
+raport 2024
+
+Telia Eesti AS
+
+2
+
+Panustame ühiskonna
+arengusse, et Eesti oleks
+parem paik nii elamiseks
+kui töötamiseks.
+
+KeskkonnateguridSotsiaalne mõjuJuhtimisalased teguridSisukord
+
+Keskkond
+
+Heitme- ja
+jäätmevabadus
+
+Sotsiaalne mõju
+
+Juhtimisraamistik
+
+Digitaalne ...
+
+Jupp 2:
+
+
+Juhtimisraamistik ja ühised väärtused
+
+33
+
+Energia
+
+Transport
+
+Juhendid, koolitused ja hariduslikud programmid
+
+Mõju ja arengu strateegiline juhtimine
+
+Telia töötajate privaatsuse ja küberturvalisuse alase
+teadlikkuse arendamine
+
+Vastutustundlikkus maksustamisel
+
+Poliitiline kaasatus
+
+Tunnustuse ...
+
+--- Äriteenuste üldosa ---
+Jupp 1:
+ väljavõte Telia Eesti AS lõppkasutajate hinnakirjast
+
+Seisuga 17.04.2025
+
+IV ptk
+
+Püsiühenduse teenused ärikliendile
+
+km-ta
+
+km-ga
+
+ühik
+
+Juhul, kui teenuse kasutamise alustamiseks (nt liitumisel, ümberpaigutamisel vms) on vajalik rajada liini(osa) Telia sidevõrgu
+lõpp-punkti ja kliendi poolt soovi ...
+
+Jupp 2:
+ ast tehnilisest lahendusest.
+
+1.
+
+1.1.
+1.1.1.
+1.1.2.
+1.1.2.1.
+1.1.2.2.
+1.1.2.3.
+1.1.2.4.
+
+1.2.
+1.2.1.
+1.2.1.1.
+1.2.1.2.
+1.2.1.3.
+1.2.1.4.
+1.2.1.5.
+1.2.1.6.
+1.2.1.7.
+1.2.1.8.
+1.2.1.9.
+1.2.1.10.
+
+1.3.
+1.3.1.
+1.3.1.1.
+1.3.1.2.
+1.3.1.3.
+
+2.
+
+2.1.
+2.1.1.
+2.1.2.
+2.1.2.1.
+2.1.2.2.
+2.1.2.3.
+2.1.3.
+
+2.1.4.
+2 ...
+
+--- Artikkel ---
+Jupp 1:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rohde & Schwarz: Eestis on mobiilse interneti kiirus hüppeliselt kasvanud - Digitark
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mis on Digitark?
+
+
+Digitark Youtube'is
+
+
+Telia.ee
+
+
+
+
+
+
+est
+
+
+rus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Uudised
+
+
+Turvalisus
+
+
+Ettevõtlus
+
+
+TV ja meelelahut ...
+
+Jupp 2:
+ asvanud
+
+
+#5G
+#mobiilse interneti kiirus
+#Rohde & Schwarz
+#Telia
+
+4 min lugemine
+
+
+
+
+
+
+
+
+
+Digitark09.12.2024 08:01
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rahvusvaheline seirefirma Rohde & Schwarz viis sügisel Eestis läbi ulatuslikud mõõtmised, mille käigus ...
+Vektor 1 (esimesed 5 väärtust): [-0.32134348  0.42408797 -0.04483747 -0.38664684 -0.43785018]
+Vektor 2 (esimesed 5 väärtust): [-0.3232877   0.23370947  0.01907681 -0.31525505 -0.07573153]
+
+--- Tulemused fraasile: 'Mis on allalaadimiskiirus maanteedel?' ---
+
+Jupp 231 (sarnasus 0.63):
+imisväärse hüppe. Mobiilse andmeside keskmise kiiruse arvestuses (nii alla- kui üleslaadimisel) saavutas parima tulemuse Telia. Näiteks suuremates linnades (sh Tallinn, Tartu, Narva, Pärnu, Kohtla-Järve) ulatus Telia mobiilivõrgu keskmine allalaadimiskiirus 445,9 Mbit/s-ni, mis on 2,5 korda parem tu ...
+
+Jupp 232 (sarnasus 0.62):
+keskmised allalaadimiskiirused:
+Telia: 445,9 Mbit/s
+Elisa: 278,3 Mbit/s
+Tele2: 169,7 Mbit/s
+Väiksemates linnades (sh nt Viljandi, Haapsalu, Rakvere, Keila, Paide, Kuressaare, Türi jt) saavutatud keskmised allalaadimiskiirused:
+Telia: 476,9 Mbit/s
+Elisa: 306 Mbit/s
+Tele2: 168,8 Mbit/s
+Maanteedel saav ...
+
+Jupp 172 (sarnasus 0.55):
+leslaadimise maksimaalne võimalik kiirus kuni 5 Mbit/s ja kuni 10 Mbit/s ei pruugi VDSL-tehnoloogial olla kättesaadav, kui
+teenust kasutatakse 1200-1400 m pikkusel liinil.
+
+Kõnepaketid
+
+Äritelefon
+liitumistasu
+kuutasu
+telefoninumber
+broneeritud number
+lisateenuste number
+kõneteenused
+
+lisateenused
+ ...
+
+--- Tulemused fraasile: 'Mis on vana uueks?' ---
+
+Jupp 142 (sarnasus 0.43):
+ ning  läbi
+milliste tegevuste saab seda vähendada. Lisaks sellele on
+seatud konkreetsed eesmärgid ning mõõdikud, läbi mille
+järgitakse jätkusuutlikkuse teekonna progressi. Positiivne
+on  tihe  koostöö  tarnijate  ja  allhankijatega  kliimamõjude,
+sh  emissioonide  vähendamisel.  Kuna  VEFi  in ...
+
+Jupp 29 (sarnasus 0.43):
+  „Vana  uueks“  puhul  saab  klient  KIUD-pakendi  abil
+
+meile oma vana seadme tagastada.
+
+Jäätmed ja ringmajandus
+
+Kliendiseadmete taaskasutus
+
+Tagastusprogramm „Vana uueks“
+
+Telia  taaskasutab  kliendiseadmeid,  näiteks  ruutereid  ja
+digibokse.
+
+2023.  aastal  vähenes  kliendiseadm ...
+
+Jupp 110 (sarnasus 0.42):
+
+ja 92 last.
+
+Tööd on võimalik teha lisaks kodukontorile ja teistele Telia konto-
+ritele üle Eesti ka teistest Euroopa Liidu riikidest.
+
+„Alustasime  peresõbraliku  ettevõtte  märgise  taotle-
+misega  ja  protsessi  käigus  kogutud  info  alusel  leiab
+84% töötajatest, et neil on hea töö ja per ...
+
+--- Tulemused fraasile: 'Kes on Andre Visse?' ---
+
+Jupp 234 (sarnasus 0.36):
+te kvaliteet kõrgel tasemel.
+„Telia 5G võrgu leviala katab tänaseks juba enam kui 90% Eesti elanikkonnast. Rohde & Schwarzi kokkuvõtetest ilmneb, et meie poolt tehtud mahukad investeeringud mobiilivõrkudesse kannavad vilja: Telia kliendid saavad kasutada parimat kõne- ja andmeside teenust ning koged ...
+
+Jupp 54 (sarnasus 0.36):
+Arutati,  kuidas  muuta  uute
+digitaalsete  lahendustega  ettevõtete  äri  efektiivsemaks  ja
+keskkonnasäästlikumaks.
+
+−  Esmakordselt  toimus  MeetUp’il  ettevõtete  juhtide  klubi,  kus
+vestlusringis  osalenud  Verstoni  finantsjuht  Jarmo  Liiver,
+Tallinna Lennujaama kommertsvaldkonna juht E ...
+
+Jupp 161 (sarnasus 0.33):
+a
+
+Elame  väljakutseterohkel  perioodil,  kus  nii  Eestis  kui  mujal
+maailmas aset leidnud arengud on toonud omajagu ebakindlust
+ka  meie  ühiskonda.  Seda  enam  tunneme,  et  Telia  kui  kohaliku
+digiarengu  ühe  eestvedaja  roll  ja  vastutus  on  muuta  Eesti
+digimaailm  kestlikumaks  ja ...
+
+Fraas: 'Mis on allalaadimiskiirus maanteedel?'
+
+Jupp 231 (skoor 0.72):
+imisväärse hüppe. Mobiilse andmeside keskmise kiiruse arvestuses (nii alla- kui üleslaadimisel) saavutas parima tulemuse Telia. Näiteks suuremates linnades (sh Tallinn, Tartu, Narva, Pärnu, Kohtla-Järve) ulatus Telia mobiilivõrgu keskmine allalaadimiskiirus 445,9 Mbit/s-ni, mis on 2,5 korda parem tu ...
+
+Jupp 232 (skoor 0.68):
+keskmised allalaadimiskiirused:
+Telia: 445,9 Mbit/s
+Elisa: 278,3 Mbit/s
+Tele2: 169,7 Mbit/s
+Väiksemates linnades (sh nt Viljandi, Haapsalu, Rakvere, Keila, Paide, Kuressaare, Türi jt) saavutatud keskmised allalaadimiskiirused:
+Telia: 476,9 Mbit/s
+Elisa: 306 Mbit/s
+Tele2: 168,8 Mbit/s
+Maanteedel saav ...
+
+Jupp 172 (skoor 0.55):
+leslaadimise maksimaalne võimalik kiirus kuni 5 Mbit/s ja kuni 10 Mbit/s ei pruugi VDSL-tehnoloogial olla kättesaadav, kui
+teenust kasutatakse 1200-1400 m pikkusel liinil.
+
+Kõnepaketid
+
+Äritelefon
+liitumistasu
+kuutasu
+telefoninumber
+broneeritud number
+lisateenuste number
+kõneteenused
+
+lisateenused
+ ...
+
+Fraas: 'Mis on vana uueks?'
+
+Jupp 29 (skoor 0.86):
+  „Vana  uueks“  puhul  saab  klient  KIUD-pakendi  abil
+
+meile oma vana seadme tagastada.
+
+Jäätmed ja ringmajandus
+
+Kliendiseadmete taaskasutus
+
+Tagastusprogramm „Vana uueks“
+
+Telia  taaskasutab  kliendiseadmeid,  näiteks  ruutereid  ja
+digibokse.
+
+2023.  aastal  vähenes  kliendiseadm ...
+
+Jupp 31 (skoor 0.83):
+tud
+nutitelefonide  ja  sülearvutite  müügile.  Kõik  seadmed  on
+läbinud põhjaliku tehnilise kontrolli ja neile kehtib garantii.
+
+Tagastusprogramm  “Vana  uueks”  võimaldab  klientidel  ta-
+gastada  Teliale  oma  vana  nutiseadme  (telefoni,  sülearvuti,
+nutikella  või  tahvelarvuti)  ning  soe ...
+
+Jupp 32 (skoor 0.69):
+agastusprogrammi
+kasutades  tehtud  tehingute  osakaal  12,9%,  ületades
+sellega seatud 7% eesmärki.
+
+−  Aastal 2024 planeerime “Vana uueks” tagastusprogrammi
+muuta klientidele veelgi paindlikumaks ja mugavamaks.
+
+Kokku toodeti 2 705 pakendit, millest igaüks tegi keskmiselt
+4,3 ringi. Samad ...
+
+Fraas: 'Kes on Andre Visse?'
+
+Jupp 242 (skoor 0.46):
+, mis on kõik varustatud 5G võimekusega.
+
+
+
+
+
+
+
+Digitark
+
+
+, 11.06.2024 07:30
+
+
+
+
+
+
+
+
+
+
+
+5G
+1 min lugemine
+“Digitund”: milliseid võimalusi pakub 5G võrgus nn millimeetersagedus
+18. märtsi "Digitunni" saates oli külas Telia tehnoloogiajuht Andre Visse, kes rääkis sellest, kuidas on Telia Eesti ühe  ...
+
+Jupp 233 (skoor 0.40):
+deokõnede ning reaalajas toimuvate e-mängude kvaliteeti. Ka selles arvestuses saavutas parimad tulemused Eesti suurim mobiilioperaator Telia.
+Videokõnede arvestuses saavutas Telia skooriga 87,59% esikoha, järgnesid Elisa (77,43%) ja Tele2 (73,69%). Reaalajas toimunud e-mängude arvestuses oli Telia s ...
+
+Jupp 93 (skoor 0.37):
+  ning  leida  lõppklientidele
+sobivad  ruuterid,  mis  suudavad  töötada  26  GHz
+sagedusalas,  et  hakata  nende  toel  5G  pakutavat
+potentsiaali veel paremini oma klientideni viima.“
+
+Andre Visse
+Telia infrastruktuuriüksuse juht/CTO
+
+“2023.  aastal  tegelesime  Telia  digikeskkondade    ja
+ ...
+
+Vastused ilma kontekstita:
+
+ Mis on allalaadimiskiirus maanteedel?
+Mis on allalaadimiskiirus maanteedel?
+
+ Mis on vana uueks?
+No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no,
+
+ Kes on Andre Visse?
+Kes on Andre Visse?
+Saadaval mudelid:
+models/chat-bison-001
+models/text-bison-001
+models/embedding-gecko-001
+models/gemini-1.0-pro-vision-latest
+models/gemini-pro-vision
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-001
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-2.5-pro-exp-03-25
+models/gemini-2.5-pro-preview-03-25
+models/gemini-2.5-flash-preview-04-17
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/learnlm-1.5-pro-experimental
+models/learnlm-2.0-flash-experimental
+models/gemma-3-1b-it
+models/gemma-3-4b-it
+models/gemma-3-12b-it
+models/gemma-3-27b-it
+models/embedding-001
+models/text-embedding-004
+models/gemini-embedding-exp-03-07
+models/gemini-embedding-exp
+models/aqa
+models/imagen-3.0-generate-002
+models/gemini-2.0-flash-live-001
+Digikelts on uus termin, mis viitab inimestele, kes kasutavad digitehnoloogiat, et suhelda keldi kultuuri ja pärandiga. See hõlmab kõike alates keldi keelte õppimisest ja keldi muusika kuulamisest kuni keldi ajaloo ja mütoloogia uurimiseni veebis. Digikeltsad võivad olla keldi päritolu või lihtsalt huvitatud keldi kultuurist.
+
+Digikeltsuse oluline aspekt on ühenduse loomine teiste keldi kultuurist huvitatud inimestega veebis. See võib toimuda sotsiaalmeedia gruppide, veebifoorumite või virtuaalsete kogukondade kaudu. Digikeltsus pakub võimaluse jagada oma kirge keldi kultuuri vastu ja õppida teistelt.
+
+Mõned digikeltluse näited on:
+
+* Keldi keele õppimine veebipõhiste kursuste või rakenduste abil
+* Keldi muusika kuulamine ja jagamine veebis
+* Keldi ajaloo ja mütoloogia uurimine veebiressursside abil
+* Osavõtt veebipõhistes keldi kultuuriüritustes
+* Keldi kunsti ja käsitöö loomine ja jagamine veebis
+* Suhtlemine teiste keldi kultuurist huvitatud inimestega veebis
+
+Digikeltsus on kiiresti kasvav nähtus, mis aitab hoida ja edendada keldi kultuuri digitaalajastul. See pakub ka ainulaadse võimaluse ühenduse loomiseks inimestega üle kogu maailma, kes jagavad kirge keldi kultuuri vastu.
+
+
+ Gemini vastused:
+
+Mis on allalaadimiskiirus maanteedel?
+❖ Valitud mudel: models/gemini-1.5-flash
+Maanteedel allalaadimiskiirus sõltub mitmest tegurist, sealhulgas:
+
+* **Teie mobiilsideoperaator:** Erinevad operaatorid pakuvad erinevat leviala ja kiirust.
+* **Teie asukoht:** Leviala kvaliteet võib olenevalt asukohast varieeruda. Maapiirkondades on kiirus sageli madalam kui linnades.
+* **Teie seadme võimekus:** Teie seadme võimekus mõjutab allalaadimiskiirust.
+* **Võrgu koormus:** Kui paljud inimesed samal ajal sama võrku kasutavad, võib see kiirust oluliselt vähendada.
+* **Ilmastikutingimused:** Halb ilm võib leviala kvaliteeti negatiivselt mõjutada.
+
+Seega pole ühtset vastust küsimusele "Mis on allalaadimiskiirus maanteedel?". See võib ulatuda väga madalast kiirusest kuni mitme megabaidini sekundis.
+
+Kui soovite teada oma allalaadimiskiirust maanteel, on kõige parem seda mõõta oma seadmega allalaadimiskiiruse mõõtmise rakenduse abil.
+
+
+Mis on vana uueks?
+❖ Valitud mudel: models/gemini-1.5-flash
+"Vana uueks" tähendab eseme või asja renoveerimist või taastamist, et see näeks välja ja toimiks nagu uus. See hõlmab sageli parandamist, puhastamist, värvimist, ümberehitamist või muid parandusi, mis muudavad eseme välimust ja funktsionaalsust.  See võib olla nii füüsiline objekt (nt mööbel, riided, auto) kui ka abstraktne kontseptsioon (nt traditsioonide taaselustamine).
+
+
+Kes on Andre Visse?
+❖ Valitud mudel: models/gemini-1.5-flash
+Andre Visse on Eesti ettevõtja ja investor, kes on tuntud oma panuse poolest mitmetes tehnoloogiaettevõtetes.  Täpsemat infot tema kohta on avalikult suhteliselt vähe.  Tema tegevus on rohkem seotud varjatud investeeringute ja ettevõtlusnõustamisega, mitte avaliku esinemisega.
+
+
+ Gemini vastused koos kontekstiga:
+
+Mis on allalaadimiskiirus maanteedel?
+❖ Valitud mudel: models/gemini-1.5-flash
+Maanteedel on keskmised allalaadimiskiirused järgmised:
+
+* **Telia:** 246 Mbit/s
+* **Elisa:** 172,2 Mbit/s
+* **Tele2:** 85,2 Mbit/s
+
+
+Mis on vana uueks?
+❖ Valitud mudel: models/gemini-1.5-pro
+"Vana uueks" on Telia tagastusprogramm, mis võimaldab klientidel oma vana nutiseadme (telefon, sülearvuti, nutikell või tahvelarvuti) KIUD-pakendi abil Teliale tagastada ja soetada Telia e-poest uue seadme.  Teatud uue seadme ostul lisandub vana seadme väärtusele ka lisasoodustus. See programm toetab ringmajandust ja aitab vähendada elektroonikajäätmeid.
+
+
+Kes on Andre Visse?
+❖ Valitud mudel: models/gemini-1.5-pro
+Andre Visse on Telia infrastruktuuriüksuse juht ja tehnoloogiajuht (CTO). Ta on avalikkusele tuntud eelkõige seoses Telia 5G võrgu arendamise ja tutvustamisega, näiteks millimeetersageduse (26 GHz) kasutuselevõtu ja kiirete internetiühenduste pakkumisega.  Ta on kommenteerinud ka Telia digikeskkondade ligipääsetavuse parandamist.
+
+
+Process finished with exit code 0

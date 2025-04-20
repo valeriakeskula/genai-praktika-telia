@@ -13,6 +13,9 @@ from sentence_transformers import util
 import os
 from dotenv import load_dotenv
 
+from random import choice
+import time
+
 
 # -*- coding: utf-8 -*-
 """genai_praktika_kodutöö_2025_SINU_NIMI.ipynb
@@ -256,8 +259,14 @@ model = genai.GenerativeModel("models/gemini-1.5-pro-latest")
 response = model.generate_content("Mis on digikelts?")
 print(response.text)
 
+
+
+valikud = ["models/gemini-1.5-pro", "models/gemini-1.5-flash"]
+
 def küsi_geminilt(prompt):
-    response = model.generate_content(prompt)
+    valitud_mudel = genai.GenerativeModel(model_name=choice(valikud))
+    print(f"❖ Valitud mudel: {valitud_mudel._model_name}")  # vabatahtlik
+    response = valitud_mudel.generate_content(prompt)
     return response.text
 
 
@@ -280,11 +289,16 @@ print("\n Gemini vastused:")
 for fraas in fraasid:
     print(f"\n{fraas}")
     print(küsi_geminilt(fraas))
+    time.sleep(60)
 
 print("\n Gemini vastused koos kontekstiga:")
 for fraas in fraasid:
     print(f"\n{fraas}")
-    print(küsi_geminilt_kontekstiga(fraas))
+    try:
+        print(küsi_geminilt_kontekstiga(fraas))
+    except Exception as e:
+        print(f"Tekkis viga: {e}")
+    time.sleep(60)
 
     """Konteksti lisamine parandab täpsust – mudelil on rohkem infot. 
     Kuid problimiks on see, et osa vastuseid võib sisaldada vananenud andmeid."""
